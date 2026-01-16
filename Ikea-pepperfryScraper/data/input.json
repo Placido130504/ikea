@@ -1,0 +1,27 @@
+{
+  "searchQueries": [
+    { "query": "shelves", "category": "Storage", "currency": "INR" },
+    { "query": "cupboard", "category": "Storage", "currency": "INR" },
+    { "query": "wardrobe", "category": "Storage", "currency": "INR" },
+    { "query": "cabinets", "category": "Storage", "currency": "INR" },
+
+    { "query": "sofa", "category": "Sofa", "currency": "INR" },
+
+    { "query": "bed", "category": "Bed", "currency": "INR" },
+
+    { "query": "dining chair", "category": "Chair", "currency": "INR" },
+    { "query": "casual chair", "category": "Chair", "currency": "INR" },
+    { "query": "gaming chair", "category": "Chair", "currency": "INR" },
+    { "query": "rocking chair", "category": "Chair", "currency": "INR" },
+
+    { "query": "dining table", "category": "Table", "currency": "INR" },
+    { "query": "study table", "category": "Table", "currency": "INR" },
+    { "query": "casual table", "category": "Table", "currency": "INR" },
+    { "query": "tea table", "category": "Table", "currency": "INR" }
+  ],
+  "settings": {
+    "maxResultsPerSite": 100,
+    "minRating": 3.5,
+    "sortBy": "price_asc"
+  }
+}

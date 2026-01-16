@@ -1,0 +1,35 @@
+{
+  "name": "major_scrape",
+  "version": "1.0.0",
+  "description": "Furniture price comparison scraper for Indian e-commerce websites",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "schedule": "node scheduler.js",
+    "dev": "node --inspect src/index.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "scraper",
+    "price-comparison",
+    "furniture",
+    "india",
+    "ecommerce"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^21.0.0",
+    "cheerio": "^1.0.0-rc.12",
+    "axios": "^1.5.0",
+    "dotenv": "^16.3.1",
+    "winston": "^3.10.0",
+    "node-cron": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^29.6.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}

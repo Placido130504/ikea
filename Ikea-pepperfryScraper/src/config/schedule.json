@@ -1,0 +1,58 @@
+{
+  "enabled": true,
+  "cronExpression": "0 2 * * 0",
+  "timezone": "Asia/Kolkata",
+  "notifications": {
+    "email": {
+      "enabled": false,
+      "to": "your-email@example.com",
+      "subject": "Furniture Price Comparison Results",
+      "smtp": {
+        "host": "smtp.gmail.com",
+        "port": 587,
+        "secure": false,
+        "auth": {
+          "user": "",
+          "pass": ""
+        }
+      }
+    },
+    "webhook": {
+      "enabled": false,
+      "url": "",
+      "method": "POST",
+      "headers": {}
+    }
+  },
+  "retrySettings": {
+    "maxRetries": 3,
+    "retryDelay": 300,
+    "exponentialBackoff": true
+  },
+  "schedules": [
+    {
+      "name": "weekly_furniture_scan",
+      "enabled": true,
+      "cron": "0 2 * * 0",
+      "description": "Run every Sunday at 2 AM IST"
+    },
+    {
+      "name": "biweekly_dining_scan",
+      "enabled": false,
+      "cron": "0 14 1,15 * *",
+      "description": "Run on 1st and 15th of each month at 2 PM IST"
+    },
+    {
+      "name": "monthly_full_scan",
+      "enabled": false,
+      "cron": "0 3 1 * *",
+      "description": "Run on 1st of each month at 3 AM IST"
+    }
+  ],
+  "maintenance": {
+    "cleanupLogs": true,
+    "logRetentionDays": 30,
+    "cleanupBackups": true,
+    "backupRetentionDays": 90
+  }
+}

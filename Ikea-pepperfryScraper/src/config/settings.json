@@ -1,0 +1,61 @@
+{
+  "scraper": {
+    "maxResultsPerSite": 150,
+    "minRating": 3.5,
+    "sortBy": "price_asc",
+    "includeOutOfStock": false,
+    "minDiscountPercent": 0,
+    "globalSort": false,
+    "timeout": 30000,
+    "enableRetries": true,
+    "maxRetryAttempts": 3,
+    "retryDelay": 2000
+  },
+  "output": {
+    "backupPrevious": true,
+    "maxBackupFiles": 10,
+    "includeTimestamp": true,
+    "prettyPrint": true
+  },
+  "logging": {
+    "level": "info",
+    "includeDetailed": true,
+    "logToFile": true,
+    "logToConsole": true
+  },
+  "performance": {
+    "maxConcurrentSites": 3,
+    "enableCaching": false,
+    "cacheExpiry": 3600000,
+    "enableMetrics": true
+  },
+  "validation": {
+    "validateUrls": true,
+    "validatePrices": true,
+    "checkDuplicates": true,
+    "requiredFields": ["title", "price", "url", "site"]
+  },
+  "filters": {
+    "priceRange": {
+      "enabled": false,
+      "min": 0,
+      "max": 100000
+    },
+    "excludeKeywords": [
+      "broken",
+      "damaged",
+      "used",
+      "second hand",
+      "refurbished"
+    ],
+    "requireImages": false,
+    "requireDescriptions": false
+  },
+  "indianMarket": {
+    "currency": "INR",
+    "preferredRegions": ["Mumbai", "Delhi", "Bangalore", "Chennai", "Kolkata"],
+    "includeCashOnDelivery": true,
+    "includeLocalShipping": true,
+    "excludeInternationalOnly": true
+  }
+}

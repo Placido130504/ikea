@@ -1,0 +1,575 @@
+2025-11-02 13:22:45 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:26:15)
+    at async PriceComparisonApp.loadConfiguration (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:46:27)
+    at async PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:26:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:246:5)
+2025-11-02 22:40:03 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:26:15)
+    at async PriceComparisonApp.loadConfiguration (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:46:27)
+    at async PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:26:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:246:5)
+2025-11-02 22:42:54 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:26:15)
+    at async PriceComparisonApp.loadConfiguration (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:46:27)
+    at async PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:26:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:246:5)
+2025-11-02 22:44:15 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:26:15)
+    at async PriceComparisonApp.loadConfiguration (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:46:27)
+    at async PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:26:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:246:5)
+2025-11-02 22:45:49 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:26:15)
+    at async PriceComparisonApp.loadConfiguration (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:46:27)
+    at async PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:26:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:246:5)
+2025-11-02 22:55:15 [ERROR]: TargetCloseError: Protocol error (Runtime.callFunctionOn): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\CDPSession.js:64:35)
+    at #evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:202:50)
+    at ExecutionContext.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:36)
+    at IsolatedWorld.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:30)
+    at CdpFrame.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:353:43)
+    at CdpFrame.<anonymous> (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpFrame.content (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:564:31)
+    at CdpFrame.<anonymous> (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.content (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:532:43)
+    at PepperfryScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\pepperfryScraper.js:55:39)
+2025-11-02 22:55:17 [ERROR]: Error: Requesting main frame too early!
+    at assert (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at PepperfryScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\pepperfryScraper.js:46:23)
+    at async ScraperManager.runSiteSearch (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:193:22)
+    at async D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:60:29)
+2025-11-03 12:16:27 [ERROR]: TypeError: this.autoScroll is not a function
+    at IkeaScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\ikeaScraper.js:49:18)
+    at async ScraperManager.runSiteSearch (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:193:22)
+    at async D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+    at async ScraperManager.processQuery (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:60:29)
+    at async PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:92:23)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:252:5)
+2025-11-03 12:16:53 [ERROR]: TypeError: this.autoScroll is not a function
+    at IkeaScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\ikeaScraper.js:49:18)
+    at async ScraperManager.runSiteSearch (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:193:22)
+    at async D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+    at async ScraperManager.processQuery (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:60:29)
+    at async PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:92:23)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:252:5)
+2025-11-03 16:29:21 [ERROR]: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:54:34)
+    at Deferred.create (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\Deferred.js:16:16)
+    at new LifecycleWatcher (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:65:60)
+    at CdpFrame.goto (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Frame.js:135:29)
+    at CdpFrame.<anonymous> (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\decorators.js:98:27)
+    at CdpPage.goto (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:43)
+    at AmazonScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\amazonScraper.js:44:23)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+2025-11-03 17:06:08 [ERROR]: ReferenceError: priceText is not defined
+numericFromText (pptr:evaluate;IkeaScraper.search%20(D%3A%5CUser%20Profile%5CDesktop%5C7777777777%5Cmajor_scrape-compyle-web-scraper-price-comparison%5Csrc%5Cscraper%5CikeaScraper.js%3A73%3A36):7:27)
+    at evaluate (evaluate at IkeaScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\ikeaScraper.js:73:36), <anonymous>:15:35)
+    at #evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:222:56)
+    at async ExecutionContext.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:353:20)
+    at async CdpPage.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:841:20)
+    at async IkeaScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\ikeaScraper.js:73:20)
+    at async ScraperManager.runSiteSearch (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:193:22)
+    at async D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+2025-11-03 17:06:36 [ERROR]: ReferenceError: priceText is not defined
+numericFromText (pptr:evaluate;IkeaScraper.search%20(D%3A%5CUser%20Profile%5CDesktop%5C7777777777%5Cmajor_scrape-compyle-web-scraper-price-comparison%5Csrc%5Cscraper%5CikeaScraper.js%3A73%3A36):7:27)
+    at evaluate (evaluate at IkeaScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\ikeaScraper.js:73:36), <anonymous>:15:35)
+    at #evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:222:56)
+    at async ExecutionContext.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\ExecutionContext.js:117:16)
+    at async IsolatedWorld.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\IsolatedWorld.js:124:16)
+    at async CdpFrame.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Frame.js:353:20)
+    at async CdpPage.evaluate (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:841:20)
+    at async IkeaScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\ikeaScraper.js:73:20)
+    at async ScraperManager.runSiteSearch (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:193:22)
+    at async D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+2026-01-11 00:51:21 [ERROR]: ProtocolError: Protocol error (Target.createTarget): Session with given id not found.
+    at <instance_members_initializer> (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:96:14)
+    at new Callback (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:100:16)
+    at CallbackRegistry.create (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:22:26)
+    at Connection._rawSend (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:80:26)
+    at Connection.send (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:74:21)
+    at CdpBrowser._createPageInContext (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:178:53)
+    at CdpBrowserContext.newPage (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:308:30)
+    at CdpBrowser.newPage (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:175:43)
+    at PepperfryScraper.scrapeSearchPage (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\pepperfryScraper.js:76:37)
+    at D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\pepperfryScraper.js:47:38
+2026-01-11 00:53:38 [ERROR]: TypeError: this.scraperManager.getStatistics is not a function
+    at PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:119:41)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 00:53:38 [ERROR]: TypeError: this.scraperManager.getStatistics is not a function
+    at PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:119:41)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:13:44 [ERROR]: ProtocolError: Network.enable timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at <instance_members_initializer> (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:96:14)
+    at new Callback (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:100:16)
+    at CallbackRegistry.create (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:22:26)
+    at Connection._rawSend (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:80:26)
+    at CdpCDPSession.send (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\CDPSession.js:66:33)
+    at NetworkManager.addClient (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\NetworkManager.js:70:20)
+    at FrameManager.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:179:38)
+    at #initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:303:36)
+    at CdpPage._create (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:89:31)
+    at D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Target.js:198:42
+2026-01-11 01:14:55 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at PepperfryScraper.scrapeSearchPage (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\pepperfryScraper.js:151:18)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+    at async Promise.all (index 6)
+    at async PepperfryScraper.search (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\pepperfryScraper.js:46:23)
+    at async ScraperManager.runSiteSearch (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:168:20)
+    at async D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:107:30
+2026-01-11 01:14:59 [ERROR]: TypeError: this.scraperManager.getStatistics is not a function
+    at PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:119:41)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:14:59 [ERROR]: TypeError: this.scraperManager.getStatistics is not a function
+    at PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:119:41)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:569:9)
+    at process.processTimers (node:internal/timers:543:7)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:51:09 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:32:15)
+    at async PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:73:25)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:51:09 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:32:15)
+    at async PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:73:25)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:52:06 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:32:15)
+    at async PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:73:25)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:52:06 [ERROR]: Error: Error reading input file: Invalid input: searchQueries must be an array
+    at JsonHandler.readInputFile (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\utils\jsonHandler.js:32:15)
+    at async PriceComparisonApp.run (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:73:25)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:270:5)
+2026-01-11 01:54:41 [ERROR]: TypeError: PepperfryScraper is not a constructor
+    at ScraperManager.initializeScrapers (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:30:38)
+    at new ScraperManager (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:13:10)
+    at PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:30:29)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:265:5)
+2026-01-11 01:54:55 [ERROR]: TypeError: PepperfryScraper is not a constructor
+    at ScraperManager.initializeScrapers (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:30:38)
+    at new ScraperManager (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\scraper\scraperManager.js:13:10)
+    at PriceComparisonApp.initialize (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:30:29)
+    at async main (D:\User Profile\Desktop\7777777777\major_scrape-compyle-web-scraper-price-comparison\src\index.js:265:5)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async AmazonScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:39:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async IkeaScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:67:5)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async PepperfryScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:41:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async AmazonScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:39:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async IkeaScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:67:5)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async PepperfryScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:41:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async AmazonScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:39:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async IkeaScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:67:5)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async PepperfryScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:41:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async AmazonScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:39:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async IkeaScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:67:5)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 1)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:36:34 [ERROR]: Error: Could not find Chrome (ver. 121.0.6167.85). This can occur if either
+ 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or
+ 2. your cache path is incorrectly configured (which is: C:\Users\Placido Furtado\.cache\puppeteer).
+For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.
+    at ChromeLauncher.resolveExecutablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:285:27)
+    at ChromeLauncher.executablePath (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:210:25)
+    at ChromeLauncher.computeLaunchArguments (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ChromeLauncher.js:103:37)
+    at async ChromeLauncher.launch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\node\ProductLauncher.js:70:28)
+    at async PepperfryScraper.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\baseScraper.js:48:20)
+    at async PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:41:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+2026-01-13 09:44:12 [ERROR]: Error: Navigating frame was detached
+    at #onFrameDetached (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:99:47)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:732
+    at Array.map (<anonymous>)
+    at Object.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:716)
+    at CdpFrame.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\EventEmitter.js:83:23)
+    at #removeFramesRecursively (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:444:15)
+    at #onClientDisconnect (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:92:42)
+2026-01-13 09:44:12 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:155:22
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async Promise.all (index 0)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:76:21)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+2026-01-13 09:44:16 [ERROR]: Error: Navigating frame was detached
+    at #onFrameDetached (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:99:47)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:732
+    at Array.map (<anonymous>)
+    at Object.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:716)
+    at CdpFrame.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\EventEmitter.js:83:23)
+    at #removeFramesRecursively (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:444:15)
+    at #onClientDisconnect (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:92:42)
+2026-01-13 09:44:16 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:44:23)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:60:29)
+2026-01-13 09:44:16 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:46:23)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:60:29)
+2026-01-13 09:47:44 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:155:22
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async Promise.all (index 0)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:76:21)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+2026-01-13 09:47:49 [ERROR]: Error: Navigating frame was detached
+    at #onFrameDetached (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:99:47)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:732
+    at Array.map (<anonymous>)
+    at Object.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:716)
+    at CdpFrame.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\EventEmitter.js:83:23)
+    at #removeFramesRecursively (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:444:15)
+    at #onClientDisconnect (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:92:42)
+2026-01-13 09:48:05 [ERROR]: Error: Navigating frame was detached
+    at #onFrameDetached (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\LifecycleWatcher.js:99:47)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:732
+    at Array.map (<anonymous>)
+    at Object.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\third_party\mitt\mitt.js:1:716)
+    at CdpFrame.emit (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\EventEmitter.js:83:23)
+    at #removeFramesRecursively (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:444:15)
+    at #onClientDisconnect (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:92:42)
+2026-01-13 09:48:05 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:44:23)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:60:29)
+2026-01-13 09:48:05 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:46:23)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+    at async Promise.allSettled (index 2)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:139:25)
+    at async ScraperManager.runSearches (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:60:29)
+2026-01-13 09:51:05 [ERROR]: ProtocolError: Target.createTarget timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at <instance_members_initializer> (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:96:14)
+    at new Callback (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:100:16)
+    at CallbackRegistry.create (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:22:26)
+    at Connection._rawSend (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:80:26)
+    at Connection.send (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:74:21)
+    at CdpBrowser._createPageInContext (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:178:53)
+    at CdpBrowserContext.newPage (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:308:30)
+    at CdpBrowser.newPage (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:175:43)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:78:41
+    at Array.map (<anonymous>)
+2026-01-13 09:51:05 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:44:23)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+2026-01-13 09:51:05 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:46:23)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+2026-01-13 09:54:05 [ERROR]: ProtocolError: Target.createTarget timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at <instance_members_initializer> (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:96:14)
+    at new Callback (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:100:16)
+    at CallbackRegistry.create (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:22:26)
+    at Connection._rawSend (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:80:26)
+    at Connection.send (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:74:21)
+    at CdpBrowser._createPageInContext (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:178:53)
+    at CdpBrowserContext.newPage (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:308:30)
+    at CdpBrowser.newPage (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:175:43)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:78:41
+    at Array.map (<anonymous>)
+2026-01-13 09:54:05 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at AmazonScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\amazonScraper.js:44:23)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+2026-01-13 09:54:05 [ERROR]: Error: Requesting main frame too early!
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at FrameManager.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\FrameManager.js:213:32)
+    at CdpPage.mainFrame (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:406:35)
+    at CdpPage.goto (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\api\Page.js:603:31)
+    at PepperfryScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\pepperfryScraper.js:46:23)
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:193:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:118:29
+2026-01-13 09:55:18 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:155:22
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async Promise.all (index 0)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:76:21)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:186:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:111:29
+2026-01-13 09:58:18 [ERROR]: ProtocolError: Target.createTarget timed out. Increase the 'protocolTimeout' setting in launch/connect calls for a higher timeout if needed.
+    at <instance_members_initializer> (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:96:14)
+    at new Callback (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:100:16)
+    at CallbackRegistry.create (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\common\CallbackRegistry.js:22:26)
+    at Connection._rawSend (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:80:26)
+    at Connection.send (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Connection.js:74:21)
+    at CdpBrowser._createPageInContext (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:178:53)
+    at CdpBrowserContext.newPage (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:308:30)
+    at CdpBrowser.newPage (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Browser.js:175:43)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:78:41
+    at Array.map (<anonymous>)
+2026-01-13 10:01:26 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:149:16)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:186:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:111:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:132:25)
+    at async ScraperManager.runSearches (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:53:29)
+    at async PriceComparisonApp.run (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\index.js:93:23)
+    at async main (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\index.js:270:5)
+2026-01-13 10:03:43 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:150:18)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:186:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:111:29
+    at async Promise.allSettled (index 0)
+    at async ScraperManager.processQuery (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:132:25)
+    at async ScraperManager.runSearches (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:53:29)
+    at async PriceComparisonApp.run (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\index.js:93:23)
+    at async main (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\index.js:270:5)
+2026-01-13 10:07:39 [ERROR]: ReferenceError: AmazonScraper is not defined
+    at ScraperManager.initializeScrapers (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:22:39)
+    at new ScraperManager (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:13:10)
+    at PriceComparisonApp.initialize (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\index.js:30:29)
+    at async main (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\index.js:265:5)
+2026-01-13 10:09:30 [ERROR]: Error: Protocol error: Connection closed. Most likely the page has been closed.
+    at assert (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\util\assert.js:18:15)
+    at CdpPage.close (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\node_modules\puppeteer-core\lib\cjs\puppeteer\cdp\Page.js:848:32)
+    at C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:155:22
+    at runNextTicks (node:internal/process/task_queues:65:5)
+    at listOnTimeout (node:internal/timers:555:9)
+    at process.processTimers (node:internal/timers:529:7)
+    at async Promise.all (index 0)
+    at async IkeaScraper.search (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\ikeaScraper.js:76:21)
+    at async ScraperManager.runSiteSearch (C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:185:22)
+    at async C:\Users\Placido Furtado\Desktop\Ikea-scraper\Ikea-pepperfryScraper\src\scraper\scraperManager.js:110:29
