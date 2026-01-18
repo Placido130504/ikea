@@ -1,0 +1,905 @@
+{
+  "originalQuery": "tea table",
+  "products": [
+    {
+      "Product ID": "A-1108",
+      "Product Name": "KNARREVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/knarrevik-bedside-table-black-80576319/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/knarrevik-bedside-table-black__1255280_pe924479_s5.jpg?f=xxs",
+      "Dimensions": "37x28 cm",
+      "Price": 899
+    },
+    {
+      "Product ID": "A-1109",
+      "Product Name": "NODELAND",
+      "Product URL": "https://www.ikea.com/in/en/p/nodeland-bedside-table-black-brown-00494370/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nodeland-bedside-table-black-brown__0974612_pe812475_s5.jpg?f=xxs",
+      "Dimensions": "37x39 cm",
+      "Price": 1290
+    },
+    {
+      "Product ID": "A-1110",
+      "Product Name": "LACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lack-side-table-white-stained-oak-effect-70431534/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lack-side-table-white-stained-oak-effect__0711927_pe728569_s5.jpg?f=xxs",
+      "Dimensions": "55x55 cm",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-1111",
+      "Product Name": "LINNMON",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-table-top-white-00361756/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-table-top-white__0734654_pe739562_s5.jpg?f=xxs",
+      "Dimensions": "100x60 cm",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-1112",
+      "Product Name": "FEJAN",
+      "Product URL": "https://www.ikea.com/in/en/p/fejan-table-outdoor-grey-10531999/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fejan-table-outdoor-grey__1126370_pe875705_s5.jpg?f=xxs",
+      "Dimensions": "50x44 cm",
+      "Price": 1690
+    },
+    {
+      "Product ID": "A-1113",
+      "Product Name": "GURSKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/gursken-bedside-table-light-beige-90503290/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gursken-bedside-table-light-beige__0923962_pe788458_s5.jpg?f=xxs",
+      "Dimensions": "39x30 cm",
+      "Price": 1790
+    },
+    {
+      "Product ID": "A-1114",
+      "Product Name": "TORALD",
+      "Product URL": "https://www.ikea.com/in/en/p/torald-desk-white-70493956/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/torald-desk-white__1055403_pe847976_s5.jpg?f=xxs",
+      "Dimensions": "65x40 cm",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-1115",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-table-top-white-50474789/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-table-top-white__1009438_pe827598_s5.jpg?f=xxs",
+      "Dimensions": "120x70 cm",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-1116",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-table-top-white-40487792/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-table-top-white__1009434_pe827596_s5.jpg?f=xxs",
+      "Dimensions": "120x60 cm",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-1117",
+      "Product Name": "VITTSJÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vittsjoe-laptop-stand-black-brown-glass-80250250/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vittsjoe-laptop-stand-black-brown-glass__0176250_pe329143_s5.jpg?f=xxs",
+      "Dimensions": "35x65 cm",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-1118",
+      "Product Name": "MELLTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/melltorp-table-top-white-10365725/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/melltorp-table-top-white__0737224_pe740952_s5.jpg?f=xxs",
+      "Dimensions": "75x75 cm",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-1119",
+      "Product Name": "PÅHL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-desk-top-shelf-white-90519502/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-desk-top-shelf-white__0727235_pe735561_s5.jpg?f=xxs",
+      "Dimensions": "64x60 cm",
+      "Price": 2000
+    },
+    {
+      "Product ID": "A-1120",
+      "Product Name": "NODELAND",
+      "Product URL": "https://www.ikea.com/in/en/p/nodeland-coffee-table-medium-brown-20500407/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nodeland-coffee-table-medium-brown__0974637_pe812499_s5.jpg?f=xxs",
+      "Dimensions": "80x50 cm",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-1121",
+      "Product Name": "MAMMUT",
+      "Product URL": "https://www.ikea.com/in/en/p/mammut-childrens-table-in-outdoor-white-70365176/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mammut-childrens-table-in-outdoor-white__0735842_pe740215_s5.jpg?f=xxs",
+      "Dimensions": "77x55 cm",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-1122",
+      "Product Name": "LAGKAPTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-table-top-white-30460665/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-table-top-white__0977795_pe813778_s5.jpg?f=xxs",
+      "Dimensions": "120x60 cm",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-1123",
+      "Product Name": "BJÖRKÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/bjoerkasen-laptop-stand-beige-10476479/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bjoerkasen-laptop-stand-beige__0955982_pe804391_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2690
+    },
+    {
+      "Product ID": "A-1124",
+      "Product Name": "LACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lack-coffee-table-black-brown-20352987/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lack-coffee-table-black-brown__57540_pe163122_s5.jpg?f=xxs",
+      "Dimensions": "90x55 cm",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-1125",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bedside-table-white-60488738/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bedside-table-white__1038845_pe839899_s5.jpg?f=xxs",
+      "Dimensions": "37x37 cm",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-1126",
+      "Product Name": "TÄRNÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/taernoe-table-outdoor-black-light-brown-stained-80165129/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taernoe-table-outdoor-black-light-brown-stained__0735751_pe740159_s5.jpg?f=xxs",
+      "Dimensions": "55x54 cm",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-1127",
+      "Product Name": "GUNDE",
+      "Product URL": "https://www.ikea.com/in/en/p/gunde-folding-table-black-70546894/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gunde-folding-table-black__1300756_pe937177_s5.jpg?f=xxs",
+      "Dimensions": "67x67 cm",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-1128",
+      "Product Name": "LAGKAPTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-table-top-white-20460821/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-table-top-white__0977800_pe813782_s5.jpg?f=xxs",
+      "Dimensions": "140x60 cm",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-1129",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-bedside-table-white-80488964/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-bedside-table-white__0963768_pe808707_s5.jpg?f=xxs",
+      "Dimensions": "40x36 cm",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-1130",
+      "Product Name": "LINNMON / ADILS",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-adils-table-white-s09246408/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-adils-table-white__0737165_pe740925_s5.jpg?f=xxs",
+      "Dimensions": "100x60 cm",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-1131",
+      "Product Name": "LINNMON / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-spaend-desk-white-s49563866/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-spaend-desk-white__1328492_pe944819_s5.jpg?f=xxs",
+      "Dimensions": "100x60 cm",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-1132",
+      "Product Name": "SANDSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/sandsberg-table-black-s09420394/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandsberg-table-black__1074348_pe856162_s5.jpg?f=xxs",
+      "Dimensions": "110x67 cm",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-1133",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bedside-table-brown-90367443/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bedside-table-brown__0550416_pe658162_s5.jpg?f=xxs",
+      "Dimensions": "42x40 cm",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-1134",
+      "Product Name": "VITTSJÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vittsjoe-coffee-table-black-brown-glass-00213313/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vittsjoe-coffee-table-black-brown-glass__0135348_pe292039_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-1135",
+      "Product Name": "SKRUVBY",
+      "Product URL": "https://www.ikea.com/in/en/p/skruvby-side-table-white-60532010/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skruvby-side-table-white__1123690_pe874848_s5.jpg?f=xxs",
+      "Dimensions": "40x32 cm",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-1136",
+      "Product Name": "LAGKAPTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-table-top-black-brown-00488538/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-table-top-black-brown__0977802_pe813784_s5.jpg?f=xxs",
+      "Dimensions": "200x60 cm",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-1137",
+      "Product Name": "GUNDE / GUNDE",
+      "Product URL": "https://www.ikea.com/in/en/p/gunde-gunde-table-and-2-folding-chairs-folding-black-black-s09564603/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gunde-gunde-table-and-2-folding-chairs-folding-black-black__1352626_pe952211_s5.jpg?f=xxs",
+      "Dimensions": "67x67 cm",
+      "Price": 4388
+    },
+    {
+      "Product ID": "A-1138",
+      "Product Name": "SUNDSÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/sundsoe-table-anthracite-outdoor-60575896/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sundsoe-table-anthracite-outdoor__1352306_pe952176_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4490
+    },
+    {
+      "Product ID": "A-1139",
+      "Product Name": "FLISAT",
+      "Product URL": "https://www.ikea.com/in/en/p/flisat-childrens-table-30298419/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/flisat-childrens-table__0735831_pe740206_s5.jpg?f=xxs",
+      "Dimensions": "83x58 cm",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1140",
+      "Product Name": "SUNDSÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/sundsoe-table-dark-blue-outdoor-20582587/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sundsoe-table-dark-blue-outdoor__1352304_pe952178_s5.jpg?f=xxs",
+      "Dimensions": "65x65 cm",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1141",
+      "Product Name": "RESÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/resoe-childrens-picnic-table-light-brown-stained-50228326/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/resoe-childrens-picnic-table-light-brown-stained__0736459_pe740547_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1142",
+      "Product Name": "GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/gullaberg-bedside-table-with-1-drawer-with-shelf-white-00561741/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gullaberg-bedside-table-with-1-drawer-with-shelf-white__1283770_pe932624_s5.jpg?f=xxs",
+      "Dimensions": "53x43x69 cm",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1143",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-table-white-white-s29578519/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-table-white-white__1388807_pe964980_s5.jpg?f=xxs",
+      "Dimensions": "74x74 cm",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1144",
+      "Product Name": "STENSELE",
+      "Product URL": "https://www.ikea.com/in/en/p/stensele-table-top-anthracite-70412899/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stensele-table-top-anthracite__0680032_pe719772_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1145",
+      "Product Name": "STENSELE",
+      "Product URL": "https://www.ikea.com/in/en/p/stensele-table-top-anthracite-90426937/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stensele-table-top-anthracite__0760238_pe750629_s5.jpg?f=xxs",
+      "Dimensions": "70x70 cm",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-1146",
+      "Product Name": "SANDSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/sandsberg-table-and-2-chairs-black-black-black-s69608883/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandsberg-table-and-2-chairs-black-black-black__1460537_pe993961_s5.jpg?f=xxs",
+      "Dimensions": "67x67 cm",
+      "Price": 5190
+    },
+    {
+      "Product ID": "A-1147",
+      "Product Name": "LACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lack-coffee-table-black-brown-80352951/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lack-coffee-table-black-brown__57537_pe163119_s5.jpg?f=xxs",
+      "Dimensions": "118x78 cm",
+      "Price": 5490
+    },
+    {
+      "Product ID": "A-1148",
+      "Product Name": "NORBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/norberg-wall-mounted-drop-leaf-table-white-90365793/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/norberg-wall-mounted-drop-leaf-table-white__0736622_pe740674_s5.jpg?f=xxs",
+      "Dimensions": "74x60 cm",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-1149",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-table-white-white-s29589971/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-table-white-white__1388806_pe964976_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-1150",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-table-white-white-s69578517/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-table-white-white__1388805_pe964975_s5.jpg?f=xxs",
+      "Dimensions": "125x74 cm",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-1151",
+      "Product Name": "BERGLÄRKA",
+      "Product URL": "https://www.ikea.com/in/en/p/berglaerka-desk-top-and-shelf-white-40531653/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/berglaerka-desk-top-and-shelf-white__1115133_pe871946_s5.jpg?f=xxs",
+      "Dimensions": "120x70 cm",
+      "Price": 6000
+    },
+    {
+      "Product ID": "A-1152",
+      "Product Name": "ÖRSKÄR",
+      "Product URL": "https://www.ikea.com/in/en/p/oerskaer-nest-of-tables-set-of-2-in-outdoor-dark-grey-80536253/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/oerskaer-nest-of-tables-set-of-2-in-outdoor-dark-grey__1166266_pe891092_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-1153",
+      "Product Name": "BOLLSIDAN",
+      "Product URL": "https://www.ikea.com/in/en/p/bollsidan-laptop-stand-white-60557802/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bollsidan-laptop-stand-white__1163783_pe890330_s5.jpg?f=xxs",
+      "Dimensions": "68x36 cm",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-1154",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-desk-beige-anthracite-s89429569/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-desk-beige-anthracite__1012700_pe828979_s5.jpg?f=xxs",
+      "Dimensions": "120x70 cm",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-1155",
+      "Product Name": "LAGKAPTEN / KRILLE",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-krille-desk-white-anthracite-black-s99509725/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-krille-desk-white-anthracite-black__1231917_pe916258_s5.jpg?f=xxs",
+      "Dimensions": "120x60 cm",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-1156",
+      "Product Name": "SANDSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/sandsberg-table-and-4-chairs-black-black-black-s49608799/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandsberg-table-and-4-chairs-black-black-black__1460475_pe993939_s5.jpg?f=xxs",
+      "Dimensions": "110x67 cm",
+      "Price": 7390
+    },
+    {
+      "Product ID": "A-1157",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-bedside-table-off-white-60510008/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-bedside-table-off-white__1247220_pe922596_s5.jpg?f=xxs",
+      "Dimensions": "40x40x59 cm",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-1158",
+      "Product Name": "NÄMMARÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/naemmaroe-folding-table-light-brown-stained-70586700/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naemmaroe-folding-table-light-brown-stained__1364536_pe955925_s5.jpg?f=xxs",
+      "Dimensions": "108x37 cm",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-1159",
+      "Product Name": "DJUPÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/djupoen-folding-table-brown-40557068/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/djupoen-folding-table-brown__1443837_pe987242_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-1160",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-table-white-birch-veneer-80579228/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-table-white-birch-veneer__1350927_pe951819_s5.jpg?f=xxs",
+      "Dimensions": "74x74 cm",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-1161",
+      "Product Name": "BORGEBY",
+      "Product URL": "https://www.ikea.com/in/en/p/borgeby-coffee-table-black-10500356/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/borgeby-coffee-table-black__0983032_pe815898_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9490
+    },
+    {
+      "Product ID": "A-1162",
+      "Product Name": "MICKE",
+      "Product URL": "https://www.ikea.com/in/en/p/micke-desk-white-80354276/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736018_pe740345_s5.jpg?f=xxs",
+      "Dimensions": "105x50 cm",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-1163",
+      "Product Name": "Näsinge",
+      "Product URL": "https://www.ikea.com/in/en/p/naesinge-table-dark-brown-stained-beech-veneer-90587534/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naesinge-table-dark-brown-stained-beech-veneer__1393633_pe966296_s5.jpg?f=xxs",
+      "Dimensions": "80x60 cm",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-1164",
+      "Product Name": "ÅLHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/alhult-table-beige-brown-20600770/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alhult-table-beige-brown__1403274_pe969281_s5.jpg?f=xxs",
+      "Dimensions": "80x74 cm",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-1165",
+      "Product Name": "SANDSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/sandsberg-table-and-4-chairs-black-black-remmarn-dark-blue-dark-blue-s29608795/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandsberg-table-and-4-chairs-black-black-remmarn-dark-blue-dark-blue__1460469_pe993933_s5.jpg?f=xxs",
+      "Dimensions": "110x67 cm",
+      "Price": 10190
+    },
+    {
+      "Product ID": "A-1166",
+      "Product Name": "VIHALS / VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-vihals-table-and-2-chairs-white-white-green-tibbleby-grey-green-s49599436/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-vihals-table-and-2-chairs-white-white-green-tibbleby-grey-green__1388791_pe964960_s5.jpg?f=xxs",
+      "Dimensions": "74x74 cm",
+      "Price": 10890
+    },
+    {
+      "Product ID": "A-1167",
+      "Product Name": "STENSELE",
+      "Product URL": "https://www.ikea.com/in/en/p/stensele-table-anthracite-anthracite-s09323920/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stensele-table-anthracite-anthracite__0773237_pe756241_s5.jpg?f=xxs",
+      "Dimensions": "70x70 cm",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-1168",
+      "Product Name": "STENSELE",
+      "Product URL": "https://www.ikea.com/in/en/p/stensele-table-anthracite-anthracite-s59288231/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stensele-table-anthracite-anthracite__0662009_pe711689_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-1169",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-table-white-birch-veneer-70579224/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-table-white-birch-veneer__1350928_pe951816_s5.jpg?f=xxs",
+      "Dimensions": "118x74 cm",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-1170",
+      "Product Name": "NÄMMARÖ / ENSHOLM",
+      "Product URL": "https://www.ikea.com/in/en/p/naemmaroe-ensholm-table-and-2-chairs-outdoor-light-brown-stained-green-s39544741/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naemmaroe-ensholm-table-and-2-chairs-outdoor-light-brown-stained-green__1240189_pe919213_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12890
+    },
+    {
+      "Product ID": "A-1171",
+      "Product Name": "VITTSJÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vittsjoe-shelving-unit-with-laptop-table-black-brown-glass-s19902660/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vittsjoe-shelving-unit-with-laptop-table-black-brown-glass__0141586_pe301504_s5.jpg?f=xxs",
+      "Dimensions": "202x36x175 cm",
+      "Price": 12970
+    },
+    {
+      "Product ID": "A-1172",
+      "Product Name": "ÅLHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/alhult-table-beige-brown-60600768/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alhult-table-beige-brown__1403289_pe969280_s5.jpg?f=xxs",
+      "Dimensions": "120x80 cm",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-1173",
+      "Product Name": "PINNTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/pinntorp-table-light-brown-stained-white-stained-10529468/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pinntorp-table-light-brown-stained-white-stained__1118109_pe872932_s5.jpg?f=xxs",
+      "Dimensions": "125x75 cm",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-1174",
+      "Product Name": "VIHALS / VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-vihals-table-and-4-chairs-white-white-white-s09599513/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-vihals-table-and-4-chairs-white-white-white__1388770_pe964943_s5.jpg?f=xxs",
+      "Dimensions": "125x74 cm",
+      "Price": 13790
+    },
+    {
+      "Product ID": "A-1175",
+      "Product Name": "VIHALS / VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-vihals-table-and-4-chairs-white-white-white-s09599495/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-vihals-table-and-4-chairs-white-white-white__1388798_pe964971_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13790
+    },
+    {
+      "Product ID": "A-1176",
+      "Product Name": "ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/alex-desk-black-blue-50590473/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alex-desk-black-blue__1494721_pe1004867_s5.jpg?f=xxs",
+      "Dimensions": "132x58 cm",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-1177",
+      "Product Name": "LISABO",
+      "Product URL": "https://www.ikea.com/in/en/p/lisabo-table-black-ash-veneer-00563778/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lisabo-table-black-ash-veneer__1221473_pe913821_s5.jpg?f=xxs",
+      "Dimensions": "88x78 cm",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-1178",
+      "Product Name": "Näsinge",
+      "Product URL": "https://www.ikea.com/in/en/p/naesinge-table-dark-brown-stained-beech-veneer-10587509/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naesinge-table-dark-brown-stained-beech-veneer__1393635_pe966298_s5.jpg?f=xxs",
+      "Dimensions": "130x80 cm",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-1179",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-table-white-birch-veneer-90579218/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-table-white-birch-veneer__1350922_pe951813_s5.jpg?f=xxs",
+      "Dimensions": "168x74 cm",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-1180",
+      "Product Name": "NORBERG / KÄTTIL",
+      "Product URL": "https://www.ikea.com/in/en/p/norberg-kaettil-table-and-2-chairs-white-knisa-light-grey-s99428767/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/norberg-kaettil-table-and-2-chairs-white-knisa-light-grey__1016372_pe830350_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15970
+    },
+    {
+      "Product ID": "A-1181",
+      "Product Name": "LISABO",
+      "Product URL": "https://www.ikea.com/in/en/p/lisabo-table-ash-veneer-80365717/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lisabo-table-ash-veneer__0737105_pe740883_s5.jpg?f=xxs",
+      "Dimensions": "140x78 cm",
+      "Price": 16990
+    },
+    {
+      "Product ID": "A-1182",
+      "Product Name": "PINNTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/pinntorp-gateleg-table-light-brown-stained-white-stained-90529469/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pinntorp-gateleg-table-light-brown-stained-white-stained__1118101_pe872927_s5.jpg?f=xxs",
+      "Dimensions": "124x75 cm",
+      "Price": 16990
+    },
+    {
+      "Product ID": "A-1183",
+      "Product Name": "DANDERYD",
+      "Product URL": "https://www.ikea.com/in/en/p/danderyd-dining-table-white-50568735/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/danderyd-dining-table-white__1198595_pe904135_s5.jpg?f=xxs",
+      "Dimensions": "130x80 cm",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-1184",
+      "Product Name": "DOCKSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/docksta-table-white-white-s79324997/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/docksta-table-white-white__0803262_pe768820_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18990
+    },
+    {
+      "Product ID": "A-1185",
+      "Product Name": "ÅLHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/alhult-table-beige-brown-50600764/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alhult-table-beige-brown__1403284_pe969291_s5.jpg?f=xxs",
+      "Dimensions": "170x80 cm",
+      "Price": 18990
+    },
+    {
+      "Product ID": "A-1186",
+      "Product Name": "HÄGERNÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/haegernaes-table-and-4-chairs-antique-stain-pine-00576035/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/haegernaes-table-and-4-chairs-antique-stain-pine__1350925_pe951817_s5.jpg?f=xxs",
+      "Dimensions": "35x40x4 cm",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-1187",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-gateleg-table-white-70595733/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-gateleg-table-white__1370482_pe958753_s5.jpg?f=xxs",
+      "Dimensions": "151x90 cm",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-1188",
+      "Product Name": "IDÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/idasen-table-brown-dark-grey-s99399595/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idasen-table-brown-dark-grey__0939700_pe794639_s5.jpg?f=xxs",
+      "Dimensions": "140x70x75 cm",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-1189",
+      "Product Name": "VIHALS / VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-vihals-table-and-6-chairs-white-white-s99599561/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-vihals-table-and-6-chairs-white-white__1388788_pe964958_s5.jpg?f=xxs",
+      "Dimensions": "180x74 cm",
+      "Price": 21690
+    },
+    {
+      "Product ID": "A-1190",
+      "Product Name": "DANDERYD",
+      "Product URL": "https://www.ikea.com/in/en/p/danderyd-dining-table-white-10568737/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/danderyd-dining-table-white__1198601_pe904136_s5.jpg?f=xxs",
+      "Dimensions": "180x90 cm",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-1191",
+      "Product Name": "LISABO",
+      "Product URL": "https://www.ikea.com/in/en/p/lisabo-table-black-ash-veneer-00563783/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lisabo-table-black-ash-veneer__1221466_pe913819_s5.jpg?f=xxs",
+      "Dimensions": "200x78 cm",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-1192",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-table-off-white-20600063/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-table-off-white__1393508_pe966264_s5.jpg?f=xxs",
+      "Dimensions": "150x80 cm",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-1193",
+      "Product Name": "NORDEN",
+      "Product URL": "https://www.ikea.com/in/en/p/norden-gateleg-table-birch-80423883/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/norden-gateleg-table-birch__1457135_pe992560_s5.jpg?f=xxs",
+      "Dimensions": "152x80 cm",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-1194",
+      "Product Name": "STENSELE / ODGER",
+      "Product URL": "https://www.ikea.com/in/en/p/stensele-odger-table-and-2-chairs-anthracite-anthracite-anthracite-s39569425/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stensele-odger-table-and-2-chairs-anthracite-anthracite-anthracite__1331415_pe945976_s5.jpg?f=xxs",
+      "Dimensions": "70x70 cm",
+      "Price": 25890
+    },
+    {
+      "Product ID": "A-1195",
+      "Product Name": "STENSELE / ODGER",
+      "Product URL": "https://www.ikea.com/in/en/p/stensele-odger-table-and-2-chairs-anthracite-anthracite-anthracite-s79569414/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stensele-odger-table-and-2-chairs-anthracite-anthracite-anthracite__1331416_pe945978_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25890
+    },
+    {
+      "Product ID": "A-1196",
+      "Product Name": "Näsinge / BERGMUND",
+      "Product URL": "https://www.ikea.com/in/en/p/naesinge-bergmund-table-and-2-chairs-white-gunnared-medium-grey-white-s69602937/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naesinge-bergmund-table-and-2-chairs-white-gunnared-medium-grey-white__1426967_pe980097_s5.jpg?f=xxs",
+      "Dimensions": "80x60 cm",
+      "Price": 26490
+    },
+    {
+      "Product ID": "A-1197",
+      "Product Name": "SKOGSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skogsta-table-acacia-60491774/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skogsta-table-acacia__0546603_pe656255_s5.jpg?f=xxs",
+      "Dimensions": "180x101x74 cm",
+      "Price": 32990
+    },
+    {
+      "Product ID": "A-1198",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-table-oak-veneer-80594059/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-table-oak-veneer__1467537_pe995760_s5.jpg?f=xxs",
+      "Dimensions": "200x85 cm",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-1199",
+      "Product Name": "NORDEN / FRÖSVI",
+      "Product URL": "https://www.ikea.com/in/en/p/norden-froesvi-table-and-4-chairs-birch-beech-s69568900/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/norden-froesvi-table-and-4-chairs-birch-beech__1457137_pe992564_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 36950
+    },
+    {
+      "Product ID": "A-1200",
+      "Product Name": "SKOGSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skogsta-dining-table-acacia-black-40419265/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skogsta-dining-table-acacia-black__1499941_pe1006841_s5.jpg?f=xxs",
+      "Dimensions": "235x100 cm",
+      "Price": 39990
+    },
+    {
+      "Product ID": "A-1201",
+      "Product Name": "LISABO / LISABO",
+      "Product URL": "https://www.ikea.com/in/en/p/lisabo-lisabo-table-and-4-chairs-black-tallmyra-black-grey-s89554916/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lisabo-lisabo-table-and-4-chairs-black-tallmyra-black-grey__1255297_pe924489_s5.jpg?f=xxs",
+      "Dimensions": "140x78 cm",
+      "Price": 40790
+    },
+    {
+      "Product ID": "A-1202",
+      "Product Name": "NORDEN / FRÖSVI",
+      "Product URL": "https://www.ikea.com/in/en/p/norden-froesvi-table-and-4-chairs-white-knisa-light-grey-s69568820/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/norden-froesvi-table-and-4-chairs-white-knisa-light-grey__1328456_pe944791_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40950
+    },
+    {
+      "Product ID": "A-1203",
+      "Product Name": "STOCKHOLM 2025",
+      "Product URL": "https://www.ikea.com/in/en/p/stockholm-2025-table-oak-veneer-oak-veneer-s79606586/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stockholm-2025-table-oak-veneer-oak-veneer__1373056_pe959868_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40990
+    },
+    {
+      "Product ID": "A-1204",
+      "Product Name": "DOCKSTA / KRYLBO",
+      "Product URL": "https://www.ikea.com/in/en/p/docksta-krylbo-table-and-4-chairs-white-white-tonerud-dark-beige-s79568122/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/docksta-krylbo-table-and-4-chairs-white-white-tonerud-dark-beige__1325162_pe943817_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 44790
+    },
+    {
+      "Product ID": "A-1205",
+      "Product Name": "MÖRBYLÅNGA",
+      "Product URL": "https://www.ikea.com/in/en/p/moerbylanga-table-oak-veneer-brown-stained-70386249/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/moerbylanga-table-oak-veneer-brown-stained__0737108_pe740890_s5.jpg?f=xxs",
+      "Dimensions": "140x85 cm",
+      "Price": 49990
+    },
+    {
+      "Product ID": "A-1206",
+      "Product Name": "MARIEDAMM",
+      "Product URL": "https://www.ikea.com/in/en/p/mariedamm-table-white-marble-effect-40603664/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mariedamm-table-white-marble-effect__1348393_pe951194_s5.jpg?f=xxs",
+      "Dimensions": "180x100 cm",
+      "Price": 49990
+    },
+    {
+      "Product ID": "A-1207",
+      "Product Name": "STOCKHOLM 2025",
+      "Product URL": "https://www.ikea.com/in/en/p/stockholm-2025-table-oak-veneer-oak-veneer-s39606588/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stockholm-2025-table-oak-veneer-oak-veneer__1373060_pe959872_s5.jpg?f=xxs",
+      "Dimensions": "230x90 cm",
+      "Price": 50990
+    }
+  ]
+}

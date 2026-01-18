@@ -1,0 +1,248 @@
+{
+  "originalQuery": "rocking chair",
+  "products": [
+    {
+      "Product ID": "A-0781",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-childrens-armchair-cushion-knisa-light-beige-40489673/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-childrens-armchair-cushion-knisa-light-beige__0918666_pe786430_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1100
+    },
+    {
+      "Product ID": "A-0782",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-footstool-cushion-gunnared-blue-30560556/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-footstool-cushion-gunnared-blue__1191505_pe900645_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2390
+    },
+    {
+      "Product ID": "A-0783",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-cushion-knisa-light-beige-90395144/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-cushion-knisa-light-beige__0561144_pe662709_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2690
+    },
+    {
+      "Product ID": "A-0784",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-cushion-with-low-back-katorp-natural-colour-beige-10582205/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-cushion-with-low-back-katorp-natural-colour-beige__1315061_pe940382_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2690
+    },
+    {
+      "Product ID": "A-0785",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-cushion-with-low-back-vissle-red-70582207/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-cushion-with-low-back-vissle-red__1315059_pe940381_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2690
+    },
+    {
+      "Product ID": "A-0786",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-childrens-armchair-frame-birch-veneer-60418057/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-childrens-armchair-frame-birch-veneer__0795619_pe766123_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2890
+    },
+    {
+      "Product ID": "A-0787",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-childrens-armchair-birch-veneer-knisa-light-beige-s09412563/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-childrens-armchair-birch-veneer-knisa-light-beige__0945683_pe797767_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0788",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-footstool-birch-veneer-knisa-light-beige-s49244662/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-footstool-birch-veneer-knisa-light-beige__0571822_pe667070_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0789",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-footstool-black-brown-gunnared-blue-s99502173/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-footstool-black-brown-gunnared-blue__1192184_pe900921_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5290
+    },
+    {
+      "Product ID": "A-0790",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-footstool-birch-veneer-gunnared-blue-s19502167/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-footstool-birch-veneer-gunnared-blue__1192199_pe900931_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5290
+    },
+    {
+      "Product ID": "A-0791",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-birch-veneer-knisa-light-beige-s19240788/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-birch-veneer-knisa-light-beige__0571500_pe666933_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0792",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-brown-knisa-light-beige-s09240798/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-brown-knisa-light-beige__0571543_pe666957_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0793",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-low-back-armchair-natural-colour-beige-katorp-natural-colour-beige-s69551607/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-low-back-armchair-natural-colour-beige-katorp-natural-colour-beige__1315067_pe940386_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0794",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-low-back-armchair-black-brown-vissle-black-s09551573/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-low-back-armchair-black-brown-vissle-black__1315087_pe940398_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0795",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-rocking-chair-brown-knisa-light-beige-s89429263/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-rocking-chair-brown-knisa-light-beige__0572148_pe667313_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0796",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-black-brown-gunnared-light-green-s99501908/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-black-brown-gunnared-light-green__1192112_pe900861_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0797",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-and-footstool-birch-veneer-knisa-light-beige-s49484237/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-and-footstool-birch-veneer-knisa-light-beige__1096006_pe864150_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11980
+    },
+    {
+      "Product ID": "A-0798",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-and-footstool-black-brown-knisa-black-s99484211/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-and-footstool-black-brown-knisa-black__1096010_pe864138_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11980
+    },
+    {
+      "Product ID": "A-0799",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-rocking-chair-birch-veneer-gunnared-light-green-s49501958/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-rocking-chair-birch-veneer-gunnared-light-green__1192262_pe900972_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0800",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-rocking-chair-black-brown-gunnared-dark-grey-s09502120/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-rocking-chair-black-brown-gunnared-dark-grey__1192280_pe900986_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0801",
+      "Product Name": "STRANDMON",
+      "Product URL": "https://www.ikea.com/in/en/p/strandmon-wing-chair-grey-30492317/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/strandmon-wing-chair-grey__0973257_pe811961_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0802",
+      "Product Name": "VEDBO",
+      "Product URL": "https://www.ikea.com/in/en/p/vedbo-high-back-armchair-gunnared-light-green-10494261/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vedbo-high-back-armchair-gunnared-light-green__0949822_pe800039_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23990
+    },
+    {
+      "Product ID": "A-0803",
+      "Product Name": "STRANDMON",
+      "Product URL": "https://www.ikea.com/in/en/p/strandmon-armchair-and-footstool-skiftebo-yellow-s49487863/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/strandmon-armchair-and-footstool-skiftebo-yellow__1094844_pe863644_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25980
+    },
+    {
+      "Product ID": "A-0804",
+      "Product Name": "MUREN",
+      "Product URL": "https://www.ikea.com/in/en/p/muren-recliner-remmarn-dark-grey-30438556/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/muren-recliner-remmarn-dark-grey__0908536_pe783303_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0805",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-armchair-hallarp-beige-s89477169/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-armchair-hallarp-beige__1067987_pe852854_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30990
+    },
+    {
+      "Product ID": "A-0806",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-armchair-with-wide-armrests-hallarp-beige-s89477188/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-armchair-with-wide-armrests-hallarp-beige__1068080_pe852904_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32990
+    },
+    {
+      "Product ID": "A-0807",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-armchair-viarp-beige-brown-s89329758/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-armchair-viarp-beige-brown__0802651_pe768532_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 38900
+    }
+  ]
+}

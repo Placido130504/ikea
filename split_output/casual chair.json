@@ -1,0 +1,905 @@
+{
+  "originalQuery": "casual chair",
+  "products": [
+    {
+      "Product ID": "A-0662",
+      "Product Name": "BRÄMÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/braemoen-chair-pad-grey-beige-in-outdoor-40484661/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/braemoen-chair-pad-grey-beige-in-outdoor__0969559_pe810833_s5.jpg?f=xxs",
+      "Dimensions": "34x34x1.0 cm",
+      "Price": 129
+    },
+    {
+      "Product ID": "A-0663",
+      "Product Name": "BRUNÖRT",
+      "Product URL": "https://www.ikea.com/in/en/p/brunoert-chair-pad-multicolour-10418168/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brunoert-chair-pad-multicolour__0607043_pe682697_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 199
+    },
+    {
+      "Product ID": "A-0664",
+      "Product Name": "ÄNGSFRÄKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/aengsfraeken-chair-pad-black-10573055/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aengsfraeken-chair-pad-black__1251163_pe924152_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 249
+    },
+    {
+      "Product ID": "A-0665",
+      "Product Name": "MALÖRTSMOTT",
+      "Product URL": "https://www.ikea.com/in/en/p/maloertsmott-chair-pad-grey-80553153/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/maloertsmott-chair-pad-grey__1159540_pe888537_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 249
+    },
+    {
+      "Product ID": "A-0666",
+      "Product Name": "BROKAKLEJA",
+      "Product URL": "https://www.ikea.com/in/en/p/brokakleja-chair-pad-black-geometric-40638729/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brokakleja-chair-pad-black-geometric__1489935_pe1004001_s5.jpg?f=xxs",
+      "Dimensions": "40x40x6 cm",
+      "Price": 399
+    },
+    {
+      "Product ID": "A-0667",
+      "Product Name": "GURLI",
+      "Product URL": "https://www.ikea.com/in/en/p/gurli-chair-pad-dark-grey-60638728/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gurli-chair-pad-dark-grey__1489938_pe1004004_s5.jpg?f=xxs",
+      "Dimensions": "40x40x6 cm",
+      "Price": 399
+    },
+    {
+      "Product ID": "A-0668",
+      "Product Name": "REVFINGERÖRT",
+      "Product URL": "https://www.ikea.com/in/en/p/revfingeroert-chair-pad-botanical-details-white-multicolour-80638727/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/revfingeroert-chair-pad-botanical-details-white-multicolour__1489944_pe1004010_s5.jpg?f=xxs",
+      "Dimensions": "40x40x6 cm",
+      "Price": 399
+    },
+    {
+      "Product ID": "A-0669",
+      "Product Name": "JUSTINA",
+      "Product URL": "https://www.ikea.com/in/en/p/justina-chair-pad-grey-10175004/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/justina-chair-pad-grey__0110994_pe261629_s5.jpg?f=xxs",
+      "Dimensions": "35x40x4 cm",
+      "Price": 499
+    },
+    {
+      "Product ID": "A-0670",
+      "Product Name": "ÄLVGRÄSMAL",
+      "Product URL": "https://www.ikea.com/in/en/p/aelvgraesmal-chair-pad-red-00538227/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aelvgraesmal-chair-pad-red__1121071_pe874109_s5.jpg?f=xxs",
+      "Dimensions": "31.3x33x3 cm",
+      "Price": 499
+    },
+    {
+      "Product ID": "A-0671",
+      "Product Name": "MALINDA",
+      "Product URL": "https://www.ikea.com/in/en/p/malinda-chair-cushion-green-20577312/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malinda-chair-cushion-green__1237819_pe918153_s5.jpg?f=xxs",
+      "Dimensions": "35x38x7 cm",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0672",
+      "Product Name": "VILDAURIKEL",
+      "Product URL": "https://www.ikea.com/in/en/p/vildaurikel-chair-cushion-light-beige-20559742/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vildaurikel-chair-cushion-light-beige__0143188_pe302771_s5.jpg?f=xxs",
+      "Dimensions": "35x38x7 cm",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0673",
+      "Product Name": "STAGGSTARR",
+      "Product URL": "https://www.ikea.com/in/en/p/staggstarr-chair-pad-light-grey-60508722/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/staggstarr-chair-pad-light-grey__1024067_pe833404_s5.jpg?f=xxs",
+      "Dimensions": "36x36x2.5 cm",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0674",
+      "Product Name": "GUNDE",
+      "Product URL": "https://www.ikea.com/in/en/p/gunde-folding-chair-black-80217798/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gunde-folding-chair-black__0728313_pe736184_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 699
+    },
+    {
+      "Product ID": "A-0675",
+      "Product Name": "VIPPÄRT",
+      "Product URL": "https://www.ikea.com/in/en/p/vippaert-chair-pad-dark-grey-70612167/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vippaert-chair-pad-dark-grey__1402423_pe969156_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 699
+    },
+    {
+      "Product ID": "A-0676",
+      "Product Name": "VIPPÄRT",
+      "Product URL": "https://www.ikea.com/in/en/p/vippaert-chair-pad-beige-90599283/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vippaert-chair-pad-beige__0668998_pe714812_s5.jpg?f=xxs",
+      "Dimensions": "38x38x6 cm",
+      "Price": 699
+    },
+    {
+      "Product ID": "A-0677",
+      "Product Name": "SANDSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/sandsberg-chair-black-80605430/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandsberg-chair-black__1390732_pe965553_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 850
+    },
+    {
+      "Product ID": "A-0678",
+      "Product Name": "ÅKERVINDEFLY",
+      "Product URL": "https://www.ikea.com/in/en/p/akervindefly-chair-cushion-grey-60554361/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/akervindefly-chair-cushion-grey__1159545_pe888541_s5.jpg?f=xxs",
+      "Dimensions": "35x37x5 cm",
+      "Price": 899
+    },
+    {
+      "Product ID": "A-0679",
+      "Product Name": "JUSTINA",
+      "Product URL": "https://www.ikea.com/in/en/p/justina-chair-pad-grey-s59503202/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/justina-chair-pad-grey__1163422_pe890173_s5.jpg?f=xxs",
+      "Dimensions": "35x40x4 cm",
+      "Price": 998
+    },
+    {
+      "Product ID": "A-0680",
+      "Product Name": "VILDGÅS",
+      "Product URL": "https://www.ikea.com/in/en/p/vildgas-junior-chair-white-green-10589400/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vildgas-junior-chair-white-green__1378364_pe961205_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 999
+    },
+    {
+      "Product ID": "A-0681",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-chair-cover-fridtuna-light-beige-60603578/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-chair-cover-fridtuna-light-beige__1393514_pe966270_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 999
+    },
+    {
+      "Product ID": "A-0682",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-underframe-tubular-metal-light-grey-beige-80611817/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-underframe-tubular-metal-light-grey-beige__1411026_pe973036_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1000
+    },
+    {
+      "Product ID": "A-0683",
+      "Product Name": "MÅRENÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/marenaes-chair-cover-beige-gunnared-10568129/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/marenaes-chair-cover-beige-gunnared__0515739_pe639996_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1300
+    },
+    {
+      "Product ID": "A-0684",
+      "Product Name": "BERGMUND",
+      "Product URL": "https://www.ikea.com/in/en/p/bergmund-chair-cover-gunnared-medium-grey-90481052/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergmund-chair-cover-gunnared-medium-grey__0930216_pe790638_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1300
+    },
+    {
+      "Product ID": "A-0685",
+      "Product Name": "FEJAN",
+      "Product URL": "https://www.ikea.com/in/en/p/fejan-chair-outdoor-foldable-white-90255308/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fejan-chair-outdoor-foldable-white__0728344_pe736190_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1450
+    },
+    {
+      "Product ID": "A-0686",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-folding-chair-white-90592738/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-folding-chair-white__1370474_pe958747_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-0687",
+      "Product Name": "LÄKTARE",
+      "Product URL": "https://www.ikea.com/in/en/p/laektare-chair-cover-gunnared-medium-grey-50527995/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/laektare-chair-cover-gunnared-medium-grey__1187169_pe899072_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1500
+    },
+    {
+      "Product ID": "A-0688",
+      "Product Name": "SANDSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/sandsberg-chair-anthracite-remmarn-anthracite-50605257/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandsberg-chair-anthracite-remmarn-anthracite__1479093_pe999921_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1550
+    },
+    {
+      "Product ID": "A-0689",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-chair-white-80592734/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-chair-white__1370478_pe958751_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1950
+    },
+    {
+      "Product ID": "A-0690",
+      "Product Name": "TÄRNÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/taernoe-chair-outdoor-foldable-black-light-brown-stained-00165128/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taernoe-chair-outdoor-foldable-black-light-brown-stained__0728354_pe736202_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1950
+    },
+    {
+      "Product ID": "A-0691",
+      "Product Name": "JUSTINA",
+      "Product URL": "https://www.ikea.com/in/en/p/justina-chair-pad-grey-s79503220/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/justina-chair-pad-grey__1163432_pe890175_s5.jpg?f=xxs",
+      "Dimensions": "35x40x4 cm",
+      "Price": 1996
+    },
+    {
+      "Product ID": "A-0692",
+      "Product Name": "SUNDSÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/sundsoe-chair-outdoor-orange-50528947/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sundsoe-chair-outdoor-orange__1066648_pe852553_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2250
+    },
+    {
+      "Product ID": "A-0693",
+      "Product Name": "TEODORES",
+      "Product URL": "https://www.ikea.com/in/en/p/teodores-chair-black-00530622/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/teodores-chair-black__1114240_pe871696_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2350
+    },
+    {
+      "Product ID": "A-0694",
+      "Product Name": "TORPARÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/torparoe-chair-outdoor-foldable-white-90596374/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/torparoe-chair-outdoor-foldable-white__1375358_pe960243_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2450
+    },
+    {
+      "Product ID": "A-0695",
+      "Product Name": "ENSHOLM",
+      "Product URL": "https://www.ikea.com/in/en/p/ensholm-chair-green-outdoor-80563294/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ensholm-chair-green-outdoor__1236722_pe917719_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0696",
+      "Product Name": "BUSLÄTT",
+      "Product URL": "https://www.ikea.com/in/en/p/buslaett-chair-grey-green-pine-70601135/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/buslaett-chair-grey-green-pine__1388821_pe964985_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0697",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-plastic-beige-tubular-metal-black-grey-s99612812/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-plastic-beige-tubular-metal-black-grey__1440352_pe985707_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0698",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-plastic-black-tubular-metal-light-grey-beige-s59612814/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-plastic-black-tubular-metal-light-grey-beige__1486592_pe1002451_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0699",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-plastic-red-tubular-metal-black-grey-s89612817/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-plastic-red-tubular-metal-black-grey__1486597_pe1002454_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0700",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-chair-white-50579215/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-chair-white__1336852_pe947477_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0701",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-chair-white-tibbleby-beige-grey-10592761/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-chair-white-tibbleby-beige-grey__1370476_pe958749_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0702",
+      "Product Name": "LÄCKÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/laeckoe-chair-outdoor-grey-10165774/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/laeckoe-chair-outdoor-grey__0728346_pe736205_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2950
+    },
+    {
+      "Product ID": "A-0703",
+      "Product Name": "FRÖSVI",
+      "Product URL": "https://www.ikea.com/in/en/p/froesvi-folding-chair-brown-20534327/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/froesvi-folding-chair-brown__1181803_pe896799_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-0704",
+      "Product Name": "JUSTINA",
+      "Product URL": "https://www.ikea.com/in/en/p/justina-chair-pad-natural-s59503240/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/justina-chair-pad-natural__1163449_pe890179_s5.jpg?f=xxs",
+      "Dimensions": "35x40x4 cm",
+      "Price": 2994
+    },
+    {
+      "Product ID": "A-0705",
+      "Product Name": "URBAN",
+      "Product URL": "https://www.ikea.com/in/en/p/urban-junior-chair-white-30165216/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/urban-junior-chair-white__0727935_pe735948_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-0706",
+      "Product Name": "GRÖTÅN",
+      "Product URL": "https://www.ikea.com/in/en/p/groetan-chair-tibbleby-dark-beige-90610426/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/groetan-chair-tibbleby-dark-beige__1473947_pe997880_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3750
+    },
+    {
+      "Product ID": "A-0707",
+      "Product Name": "STEFAN",
+      "Product URL": "https://www.ikea.com/in/en/p/stefan-chair-brown-black-80363426/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stefan-chair-brown-black__0727320_pe735593_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3950
+    },
+    {
+      "Product ID": "A-0708",
+      "Product Name": "FRÖSVI",
+      "Product URL": "https://www.ikea.com/in/en/p/froesvi-folding-chair-white-knisa-light-grey-00534333/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/froesvi-folding-chair-white-knisa-light-grey__1190178_pe900120_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0709",
+      "Product Name": "TORALD / SMÄLLEN",
+      "Product URL": "https://www.ikea.com/in/en/p/torald-smaellen-desk-and-chair-white-black-s39488575/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/torald-smaellen-desk-and-chair-white-black__1115579_pe872140_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4480
+    },
+    {
+      "Product ID": "A-0710",
+      "Product Name": "TEODORES",
+      "Product URL": "https://www.ikea.com/in/en/p/teodores-chair-white-s79399836/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/teodores-chair-white__1082707_pe858787_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4700
+    },
+    {
+      "Product ID": "A-0711",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-oak-veneer-tubular-metal-light-grey-beige-s79612808/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-oak-veneer-tubular-metal-light-grey-beige__1440351_pe985706_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4950
+    },
+    {
+      "Product ID": "A-0712",
+      "Product Name": "PINNTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/pinntorp-chair-light-brown-stained-20529477/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pinntorp-chair-light-brown-stained__1118078_pe872898_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4950
+    },
+    {
+      "Product ID": "A-0713",
+      "Product Name": "PINNTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/pinntorp-chair-light-brown-stained-80590481/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pinntorp-chair-light-brown-stained__1296225_pe935730_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4950
+    },
+    {
+      "Product ID": "A-0714",
+      "Product Name": "STEFAN",
+      "Product URL": "https://www.ikea.com/in/en/p/stefan-chair-brown-black-knisa-grey-beige-40512089/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stefan-chair-brown-black-knisa-grey-beige__1068137_pe852981_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4950
+    },
+    {
+      "Product ID": "A-0715",
+      "Product Name": "KÄTTIL",
+      "Product URL": "https://www.ikea.com/in/en/p/kaettil-chair-white-knisa-light-grey-50500340/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kaettil-chair-white-knisa-light-grey__1016338_pe830329_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0716",
+      "Product Name": "KULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/kullaberg-swivel-chair-black-70325519/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kullaberg-swivel-chair-black__0724718_pe734601_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0717",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-walnut-veneer-tubular-metal-black-grey-s49612824/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-walnut-veneer-tubular-metal-black-grey__1486604_pe1002461_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5450
+    },
+    {
+      "Product ID": "A-0718",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-knaebaeck-beige-tubular-metal-light-grey-beige-s59612828/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-knaebaeck-beige-tubular-metal-light-grey-beige__1486567_pe1002433_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5450
+    },
+    {
+      "Product ID": "A-0719",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-knaebaeck-grey-green-tubular-metal-black-grey-s79612846/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-knaebaeck-grey-green-tubular-metal-black-grey__1486579_pe1002441_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5450
+    },
+    {
+      "Product ID": "A-0720",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-knaebaeck-beige-tubular-metal-black-grey-s99612831/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-knaebaeck-beige-tubular-metal-black-grey__1486570_pe1002434_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5450
+    },
+    {
+      "Product ID": "A-0721",
+      "Product Name": "NÄMMARÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/naemmaroe-chair-with-armrests-outdoor-light-brown-stained-80511196/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naemmaroe-chair-with-armrests-outdoor-light-brown-stained__1138763_pe880063_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5950
+    },
+    {
+      "Product ID": "A-0722",
+      "Product Name": "MÅNHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/manhult-chair-black-hakebo-grey-green-10546873/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/manhult-chair-black-hakebo-grey-green__1156110_pe886912_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5950
+    },
+    {
+      "Product ID": "A-0723",
+      "Product Name": "LISABO",
+      "Product URL": "https://www.ikea.com/in/en/p/lisabo-chair-ash-tallmyra-white-black-50561041/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lisabo-chair-ash-tallmyra-white-black__1243660_pe920705_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5950
+    },
+    {
+      "Product ID": "A-0724",
+      "Product Name": "NORDVIKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/nordviken-chair-black-70369546/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nordviken-chair-black__0714202_pe729964_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5950
+    },
+    {
+      "Product ID": "A-0725",
+      "Product Name": "ÅLHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/alhult-chair-black-bomstad-black-70600800/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alhult-chair-black-bomstad-black__1403272_pe969279_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5950
+    },
+    {
+      "Product ID": "A-0726",
+      "Product Name": "Näsinge",
+      "Product URL": "https://www.ikea.com/in/en/p/naesinge-chair-white-tibbleby-beige-grey-90587505/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naesinge-chair-white-tibbleby-beige-grey__1393638_pe966307_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5950
+    },
+    {
+      "Product ID": "A-0727",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-rattan-tubular-metal-light-grey-beige-s09612821/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-rattan-tubular-metal-light-grey-beige__1486601_pe1002458_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6450
+    },
+    {
+      "Product ID": "A-0728",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-knaebaeck-dark-grey-tubular-metal-light-grey-beige-s09612840/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-knaebaeck-dark-grey-tubular-metal-light-grey-beige__1486576_pe1002439_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6450
+    },
+    {
+      "Product ID": "A-0729",
+      "Product Name": "SKÅLSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skalsta-chair-knaebaeck-dark-grey-tubular-metal-black-grey-s69612837/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skalsta-chair-knaebaeck-dark-grey-tubular-metal-black-grey__1486573_pe1002438_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6450
+    },
+    {
+      "Product ID": "A-0730",
+      "Product Name": "KRYLBO",
+      "Product URL": "https://www.ikea.com/in/en/p/krylbo-chair-tonerud-blue-00566748/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/krylbo-chair-tonerud-blue__1208500_pe908601_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6450
+    },
+    {
+      "Product ID": "A-0731",
+      "Product Name": "ODGER",
+      "Product URL": "https://www.ikea.com/in/en/p/odger-chair-white-beige-40359997/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/odger-chair-white-beige__0727334_pe735606_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6950
+    },
+    {
+      "Product ID": "A-0732",
+      "Product Name": "LILLÅNÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/lillanaes-chair-chrome-plated-gunnared-dark-grey-00534762/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lillanaes-chair-chrome-plated-gunnared-dark-grey__1150355_pe884489_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6950
+    },
+    {
+      "Product ID": "A-0733",
+      "Product Name": "DUVSKÄR",
+      "Product URL": "https://www.ikea.com/in/en/p/duvskaer-chair-grey-outdoor-indoor-10555985/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/duvskaer-chair-grey-outdoor-indoor__1284127_pe932774_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6950
+    },
+    {
+      "Product ID": "A-0734",
+      "Product Name": "LÄKTARE",
+      "Product URL": "https://www.ikea.com/in/en/p/laektare-conference-chair-birch-veneer-white-s89503192/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/laektare-conference-chair-birch-veneer-white__1188525_pe899485_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0735",
+      "Product Name": "FLINTAN",
+      "Product URL": "https://www.ikea.com/in/en/p/flintan-office-chair-beige-50492203/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/flintan-office-chair-beige__1007198_pe825954_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0736",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-chair-off-white-fridtuna-light-beige-40594037/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-chair-off-white-fridtuna-light-beige__1393496_pe966278_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7450
+    },
+    {
+      "Product ID": "A-0737",
+      "Product Name": "TOBIAS",
+      "Product URL": "https://www.ikea.com/in/en/p/tobias-chair-transparent-chrome-plated-60349672/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tobias-chair-transparent-chrome-plated__0727342_pe735614_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7950
+    },
+    {
+      "Product ID": "A-0738",
+      "Product Name": "ROSENTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/rosentorp-chair-black-60572671/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rosentorp-chair-black__1434531_pe983577_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7950
+    },
+    {
+      "Product ID": "A-0739",
+      "Product Name": "BERGMUND",
+      "Product URL": "https://www.ikea.com/in/en/p/bergmund-chair-white-gunnared-medium-grey-s19384569/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergmund-chair-white-gunnared-medium-grey__0926632_pe789415_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8250
+    },
+    {
+      "Product ID": "A-0740",
+      "Product Name": "FLINTAN",
+      "Product URL": "https://www.ikea.com/in/en/p/flintan-office-chair-with-armrests-black-s69424469/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/flintan-office-chair-with-armrests-black__1007241_pe825960_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8490
+    },
+    {
+      "Product ID": "A-0741",
+      "Product Name": "RÖNNINGE",
+      "Product URL": "https://www.ikea.com/in/en/p/roenninge-chair-birch-80400754/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/roenninge-chair-birch__0642047_pe700849_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8950
+    },
+    {
+      "Product ID": "A-0742",
+      "Product Name": "VÄRMANSÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vaermansoe-chair-outdoor-brown-60536391/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vaermansoe-chair-outdoor-brown__1148145_pe883700_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8950
+    },
+    {
+      "Product ID": "A-0743",
+      "Product Name": "TEODORES",
+      "Product URL": "https://www.ikea.com/in/en/p/teodores-chair-white-s99399840/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/teodores-chair-white__1082708_pe858788_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9400
+    },
+    {
+      "Product ID": "A-0744",
+      "Product Name": "LÄKTARE",
+      "Product URL": "https://www.ikea.com/in/en/p/laektare-conference-chair-medium-grey-black-s29503265/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/laektare-conference-chair-medium-grey-black__1188530_pe899490_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9490
+    },
+    {
+      "Product ID": "A-0745",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-chair-fridtuna-light-beige-off-white-s19599659/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-chair-fridtuna-light-beige-off-white__1447155_pe989004_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9949
+    },
+    {
+      "Product ID": "A-0746",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-chair-fridtuna-light-beige-oak-effect-s79599656/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-chair-fridtuna-light-beige-oak-effect__1447153_pe989002_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9949
+    },
+    {
+      "Product ID": "A-0747",
+      "Product Name": "LYCKAN",
+      "Product URL": "https://www.ikea.com/in/en/p/lyckan-chair-birch-veneer-90569224/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lyckan-chair-birch-veneer__1370466_pe958732_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9950
+    },
+    {
+      "Product ID": "A-0748",
+      "Product Name": "ROSENTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/rosentorp-chair-kilanda-light-beige-white-90614170/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rosentorp-chair-kilanda-light-beige-white__1421988_pe978044_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9950
+    },
+    {
+      "Product ID": "A-0749",
+      "Product Name": "LÅNGFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/langfjaell-conference-chair-gunnared-dark-grey-black-s99177575/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/langfjaell-conference-chair-gunnared-dark-grey-black__0726989_pe735480_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0750",
+      "Product Name": "LÅNGFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/langfjaell-conference-chair-with-armrests-gunnared-dark-grey-white-s69252774/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/langfjaell-conference-chair-with-armrests-gunnared-dark-grey-white__0726976_pe735473_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13490
+    },
+    {
+      "Product ID": "A-0751",
+      "Product Name": "LÅNGFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/langfjaell-conference-chair-gunnared-dark-grey-black-s19177640/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/langfjaell-conference-chair-gunnared-dark-grey-black__0726992_pe735483_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-0752",
+      "Product Name": "TOSSBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/tossberg-chair-metal-black-gunnared-dark-grey-20582648/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tossberg-chair-metal-black-gunnared-dark-grey__1360003_pe954328_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14950
+    },
+    {
+      "Product ID": "A-0753",
+      "Product Name": "MÅRENÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/marenaes-chair-with-armrests-black-gunnared-beige-s09515127/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/marenaes-chair-with-armrests-black-gunnared-beige__1182861_pe897321_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14950
+    },
+    {
+      "Product ID": "A-0754",
+      "Product Name": "MARKUS",
+      "Product URL": "https://www.ikea.com/in/en/p/markus-office-chair-vissle-dark-grey-50261151/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/markus-office-chair-vissle-dark-grey__0724714_pe734597_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0755",
+      "Product Name": "LÅNGFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/langfjaell-conference-chair-with-armrests-gunnared-beige-white-s89252792/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/langfjaell-conference-chair-with-armrests-gunnared-beige-white__0725409_pe734841_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15490
+    },
+    {
+      "Product ID": "A-0756",
+      "Product Name": "BERGMUND",
+      "Product URL": "https://www.ikea.com/in/en/p/bergmund-chair-white-gunnared-medium-grey-s49481597/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergmund-chair-white-gunnared-medium-grey__1082816_pe858830_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16500
+    },
+    {
+      "Product ID": "A-0757",
+      "Product Name": "BALTSAR",
+      "Product URL": "https://www.ikea.com/in/en/p/baltsar-chair-black-30532139/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/baltsar-chair-black__1184759_pe898077_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16950
+    },
+    {
+      "Product ID": "A-0758",
+      "Product Name": "STOCKHOLM 2025",
+      "Product URL": "https://www.ikea.com/in/en/p/stockholm-2025-chair-red-50590944/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stockholm-2025-chair-red__1370459_pe958728_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-0759",
+      "Product Name": "GRÖNFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/groenfjaell-office-chair-with-armrests-letafors-grey-black-90503474/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/groenfjaell-office-chair-with-armrests-letafors-grey-black__1273321_pe930000_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21990
+    },
+    {
+      "Product ID": "A-0760",
+      "Product Name": "DANDERYD",
+      "Product URL": "https://www.ikea.com/in/en/p/danderyd-dining-table-black-30568736/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/danderyd-dining-table-black__1198598_pe904138_s5.jpg?f=xxs",
+      "Dimensions": "180x90 cm",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-0761",
+      "Product Name": "BERGMUND",
+      "Product URL": "https://www.ikea.com/in/en/p/bergmund-chair-white-gunnared-medium-grey-s69481600/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergmund-chair-white-gunnared-medium-grey__1082818_pe858831_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 33000
+    }
+  ]
+}

@@ -1,0 +1,905 @@
+{
+  "originalQuery": "study table",
+  "products": [
+    {
+      "Product ID": "A-0908",
+      "Product Name": "DRÖNJÖNS",
+      "Product URL": "https://www.ikea.com/in/en/p/droenjoens-pen-cup-white-80494880/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/droenjoens-pen-cup-white__0994330_pe822795_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 99
+    },
+    {
+      "Product ID": "A-0909",
+      "Product Name": "SANDLÖPARE",
+      "Product URL": "https://www.ikea.com/in/en/p/sandloepare-desk-pad-multicolour-animals-on-the-savannah-80610196/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sandloepare-desk-pad-multicolour-animals-on-the-savannah__1418591_pe976653_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 299
+    },
+    {
+      "Product ID": "A-0910",
+      "Product Name": "DRÖNJÖNS",
+      "Product URL": "https://www.ikea.com/in/en/p/droenjoens-laptop-support-white-10596801/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/droenjoens-laptop-support-white__1382964_pe962408_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 399
+    },
+    {
+      "Product ID": "A-0911",
+      "Product Name": "PLÖJA",
+      "Product URL": "https://www.ikea.com/in/en/p/ploeja-desk-pad-white-transparent-90520893/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ploeja-desk-pad-white-transparent__1074653_pe856495_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 399
+    },
+    {
+      "Product ID": "A-0912",
+      "Product Name": "ÖVNING",
+      "Product URL": "https://www.ikea.com/in/en/p/oevning-desk-accessories-organiser-90552011/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/oevning-desk-accessories-organiser__1160249_pe888822_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 699
+    },
+    {
+      "Product ID": "A-0913",
+      "Product Name": "DRÖNJÖNS",
+      "Product URL": "https://www.ikea.com/in/en/p/droenjoens-desk-organiser-white-80428828/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/droenjoens-desk-organiser-white__0669938_pe715478_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 999
+    },
+    {
+      "Product ID": "A-0914",
+      "Product Name": "RISATORP",
+      "Product URL": "https://www.ikea.com/in/en/p/risatorp-desk-organiser-white-80542089/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/risatorp-desk-organiser-white__1149497_pe884044_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-0915",
+      "Product Name": "NÄVLINGE",
+      "Product URL": "https://www.ikea.com/in/en/p/naevlinge-led-work-lamp-white-70404922/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naevlinge-led-work-lamp-white__0709828_pe727111_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-0916",
+      "Product Name": "LINNMON",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-table-top-white-00361756/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-table-top-white__0734654_pe739562_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-0917",
+      "Product Name": "TORALD",
+      "Product URL": "https://www.ikea.com/in/en/p/torald-desk-white-70493956/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/torald-desk-white__1055403_pe847976_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-0918",
+      "Product Name": "ELLOVEN",
+      "Product URL": "https://www.ikea.com/in/en/p/elloven-monitor-stand-with-drawer-white-80474783/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/elloven-monitor-stand-with-drawer-white__0955984_pe804426_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-0919",
+      "Product Name": "RÖDFLIK",
+      "Product URL": "https://www.ikea.com/in/en/p/roedflik-desk-lamp-grey-green-60582712/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/roedflik-desk-lamp-grey-green__1327045_pe944344_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-0920",
+      "Product Name": "PÅHL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-desk-top-shelf-white-90519502/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-desk-top-shelf-white__0727235_pe735561_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2000
+    },
+    {
+      "Product ID": "A-0921",
+      "Product Name": "BJÖRKÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/bjoerkasen-laptop-stand-beige-10476479/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bjoerkasen-laptop-stand-beige__0955982_pe804391_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2690
+    },
+    {
+      "Product ID": "A-0922",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-drawer-unit-white-00474782/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-drawer-unit-white__1009417_pe827588_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-0923",
+      "Product Name": "LINNMON / ADILS",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-adils-table-white-s09246408/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-adils-table-white__0737165_pe740925_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-0924",
+      "Product Name": "LINNMON / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-spaend-desk-white-s49563866/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-spaend-desk-white__1328492_pe944819_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-0925",
+      "Product Name": "VITTSJÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vittsjoe-laptop-table-black-brown-glass-60221353/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vittsjoe-laptop-table-black-brown-glass__0736023_pe740350_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0926",
+      "Product Name": "ÖRFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/oerfjaell-childrens-desk-chair-white-vissle-light-grey-20501888/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/oerfjaell-childrens-desk-chair-white-vissle-light-grey__0977960_pe813958_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0927",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-underframe-for-table-top-anthracite-90491616/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-underframe-for-table-top-anthracite__1012661_pe828958_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4000
+    },
+    {
+      "Product ID": "A-0928",
+      "Product Name": "VITVAL",
+      "Product URL": "https://www.ikea.com/in/en/p/vitval-desk-top-white-00411412/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vitval-desk-top-white__0688102_pe722299_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4000
+    },
+    {
+      "Product ID": "A-0929",
+      "Product Name": "TORALD / SMÄLLEN",
+      "Product URL": "https://www.ikea.com/in/en/p/torald-smaellen-desk-and-chair-white-black-s39488575/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/torald-smaellen-desk-and-chair-white-black__1115579_pe872140_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4480
+    },
+    {
+      "Product ID": "A-0930",
+      "Product Name": "LAGKAPTEN / ADILS",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-adils-desk-white-s09416759/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-adils-desk-white__0977229_pe813472_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4490
+    },
+    {
+      "Product ID": "A-0931",
+      "Product Name": "LINNMON / OLOV",
+      "Product URL": "https://www.ikea.com/in/en/p/linnmon-olov-desk-black-brown-s39416381/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnmon-olov-desk-black-brown__0974305_pe812351_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4490
+    },
+    {
+      "Product ID": "A-0932",
+      "Product Name": "LAGKAPTEN / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-spaend-desk-black-brown-white-s19563636/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-spaend-desk-black-brown-white__1328527_pe944854_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4490
+    },
+    {
+      "Product ID": "A-0933",
+      "Product Name": "PÅHL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-desk-white-turquoise-s69437476/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-desk-white-turquoise__1031726_pe836636_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4900
+    },
+    {
+      "Product ID": "A-0934",
+      "Product Name": "PÅHL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-desk-white-s19245106/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-desk-white__0735887_pe740242_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4900
+    },
+    {
+      "Product ID": "A-0935",
+      "Product Name": "MICKE",
+      "Product URL": "https://www.ikea.com/in/en/p/micke-desk-white-80354281/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736022_pe740349_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0936",
+      "Product Name": "LAGKAPTEN / ADILS",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-adils-desk-white-s39417154/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-adils-desk-white__0976080_pe812978_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0937",
+      "Product Name": "ÖVNING",
+      "Product URL": "https://www.ikea.com/in/en/p/oevning-trolley-white-grey-green-80517004/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/oevning-trolley-white-grey-green__1135029_pe878906_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0938",
+      "Product Name": "BERGLÄRKA",
+      "Product URL": "https://www.ikea.com/in/en/p/berglaerka-desk-top-and-shelf-turquoise-60528503/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/berglaerka-desk-top-and-shelf-turquoise__1115121_pe871938_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5000
+    },
+    {
+      "Product ID": "A-0939",
+      "Product Name": "LAGKAPTEN / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-spaend-desk-white-anthracite-s09563689/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-spaend-desk-white-anthracite__1328511_pe944838_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5490
+    },
+    {
+      "Product ID": "A-0940",
+      "Product Name": "LAGKAPTEN / OLOV",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-olov-desk-black-brown-black-s59417030/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-olov-desk-black-brown-black__0977584_pe813663_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5490
+    },
+    {
+      "Product ID": "A-0941",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-desk-white-anthracite-s89429545/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-desk-white-anthracite__1012699_pe828978_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-0942",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-drawer-unit-w-2-drawers-on-castors-white-20474781/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-drawer-unit-w-2-drawers-on-castors-white__1009420_pe827590_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-0943",
+      "Product Name": "BERGLÄRKA",
+      "Product URL": "https://www.ikea.com/in/en/p/berglaerka-desk-top-and-shelf-white-40531653/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/berglaerka-desk-top-and-shelf-white__1115133_pe871946_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6000
+    },
+    {
+      "Product ID": "A-0944",
+      "Product Name": "LAGKAPTEN / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-spaend-desk-white-s69563610/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-spaend-desk-white__1328534_pe944859_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6490
+    },
+    {
+      "Product ID": "A-0945",
+      "Product Name": "PÅHL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-desk-with-shelf-unit-white-turquoise-s19443861/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-desk-with-shelf-unit-white-turquoise__1031731_pe836637_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6900
+    },
+    {
+      "Product ID": "A-0946",
+      "Product Name": "PÅHL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-desk-with-shelf-unit-white-s29529053/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-desk-with-shelf-unit-white__1206606_pe907547_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6900
+    },
+    {
+      "Product ID": "A-0947",
+      "Product Name": "KALLAX",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-desk-white-40582440/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-desk-white__1327543_pe944490_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0948",
+      "Product Name": "BOLLSIDAN",
+      "Product URL": "https://www.ikea.com/in/en/p/bollsidan-laptop-stand-white-60557802/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bollsidan-laptop-stand-white__1163783_pe890330_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0949",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-desk-white-s09424943/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-desk-white__1012705_pe828980_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0950",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-drawer-unit-w-3-drawers-on-castors-white-60485099/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-drawer-unit-w-3-drawers-on-castors-white__1009427_pe827592_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0951",
+      "Product Name": "LAGKAPTEN / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-spaend-desk-white-anthracite-s89563666/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-spaend-desk-white-anthracite__1328518_pe944843_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7490
+    },
+    {
+      "Product ID": "A-0952",
+      "Product Name": "MICKE",
+      "Product URL": "https://www.ikea.com/in/en/p/micke-desk-white-40354278/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736020_pe740347_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0953",
+      "Product Name": "PIPLÄRKA",
+      "Product URL": "https://www.ikea.com/in/en/p/piplaerka-desk-tiltable-20528500/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/piplaerka-desk-tiltable__1115620_pe872163_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0954",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-desk-beige-30477675/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-desk-beige__0955765_pe804101_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0955",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-white-s79560084/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-white__1293268_pe935141_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0956",
+      "Product Name": "PÅHL/ÖRFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/pahl-oerfjaell-desk-and-chair-white-light-green-s69553461/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pahl-oerfjaell-desk-and-chair-white-light-green__1258413_pe926330_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8890
+    },
+    {
+      "Product ID": "A-0957",
+      "Product Name": "MICKE/ÖRFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/micke-oerfjaell-desk-and-chair-white-light-green-s89553455/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/micke-oerfjaell-desk-and-chair-white-light-green__1258411_pe926328_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8980
+    },
+    {
+      "Product ID": "A-0958",
+      "Product Name": "MITTPLAN",
+      "Product URL": "https://www.ikea.com/in/en/p/mittplan-desk-white-50549431/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mittplan-desk-white__1285100_pe933189_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0959",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-desk-beige-anthracite-s69429551/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-desk-beige-anthracite__1012708_pe828983_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0960",
+      "Product Name": "LAGKAPTEN / MITTBACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-mittback-desk-white-birch-s99417194/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-mittback-desk-white-birch__0976099_pe813002_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0961",
+      "Product Name": "MICKE",
+      "Product URL": "https://www.ikea.com/in/en/p/micke-desk-white-80354276/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/micke-desk-white__0736018_pe740345_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0962",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-desk-white-s59429561/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-desk-white__1012718_pe828989_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0963",
+      "Product Name": "HUVUDSPELARE",
+      "Product URL": "https://www.ikea.com/in/en/p/huvudspelare-gaming-desk-black-70540627/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/huvudspelare-gaming-desk-black__1128040_pe876391_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0964",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-grey-wood-effect-s49585364/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-grey-wood-effect__1432275_pe982734_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0965",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-dressing-table-white-40355409/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-dressing-table-white__1400013_pe968487_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0966",
+      "Product Name": "KALLAX / LOBERGET",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-loberget-desk-and-chair-white-s29555004/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-loberget-desk-and-chair-white__1383003_pe962419_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10480
+    },
+    {
+      "Product ID": "A-0967",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-white-s09416820/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-white__0977483_pe813612_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10490
+    },
+    {
+      "Product ID": "A-0968",
+      "Product Name": "LAGKAPTEN / SPÄND",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-spaend-desk-black-brown-white-s99568531/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-spaend-desk-black-brown-white__1330258_pe945530_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10490
+    },
+    {
+      "Product ID": "A-0969",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-white-s29431928/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-white__1022428_pe832716_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0970",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-desk-off-white-00538265/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-desk-off-white__1329847_pe945277_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0971",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-white-anthracite-s39521650/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-white-anthracite__1209788_pe909437_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0972",
+      "Product Name": "SEGRARE",
+      "Product URL": "https://www.ikea.com/in/en/p/segrare-desk-sit-stand-dark-grey-70588110/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/segrare-desk-sit-stand-dark-grey__1358982_pe954021_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0973",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-combination-white-light-grey-green-s89607378/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-combination-white-light-grey-green__1293809_pe935272_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11690
+    },
+    {
+      "Product ID": "A-0974",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-sit-stand-white-s29560086/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-sit-stand-white__1293250_pe935138_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0975",
+      "Product Name": "ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/alex-desk-white-30473559/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alex-desk-white__0977658_pe813725_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0976",
+      "Product Name": "LISABO",
+      "Product URL": "https://www.ikea.com/in/en/p/lisabo-desk-ash-veneer-10361746/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lisabo-desk-ash-veneer__0735972_pe740306_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0977",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-combination-white-s79560102/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-combination-white__1299351_pe936544_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0978",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-white-s39607682/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-white__1454040_pe991474_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12490
+    },
+    {
+      "Product ID": "A-0979",
+      "Product Name": "KALLAX / LINNMON",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-linnmon-desk-combination-white-s09483447/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-linnmon-desk-combination-white__1090542_pe862079_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12580
+    },
+    {
+      "Product ID": "A-0980",
+      "Product Name": "BERGLÄRKA",
+      "Product URL": "https://www.ikea.com/in/en/p/berglaerka-desk-turquoise-white-tiltable-s69488673/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/berglaerka-desk-turquoise-white-tiltable__1115169_pe871964_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0981",
+      "Product Name": "MITTZON",
+      "Product URL": "https://www.ikea.com/in/en/p/mittzon-desk-black-stained-ash-veneer-black-s49525855/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mittzon-desk-black-stained-ash-veneer-black__1206001_pe907335_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0982",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-sit-stand-white-s49560085/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-sit-stand-white__1293258_pe935140_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0983",
+      "Product Name": "SKRUVSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/skruvsta-swivel-chair-ysane-white-30402996/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skruvsta-swivel-chair-ysane-white__0724712_pe734595_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0984",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-underframe-sit-stand-f-table-top-white-20507343/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-underframe-sit-stand-f-table-top-white__0771299_pe756657_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13000
+    },
+    {
+      "Product ID": "A-0985",
+      "Product Name": "KALLAX / LAGKAPTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-lagkapten-desk-combination-white-s89483453/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-lagkapten-desk-combination-white__1090539_pe862076_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13580
+    },
+    {
+      "Product ID": "A-0986",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-desk-white-50361754/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-desk-white__0735975_pe740309_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-0987",
+      "Product Name": "UTESPELARE",
+      "Product URL": "https://www.ikea.com/in/en/p/utespelare-gaming-desk-black-40500350/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/utespelare-gaming-desk-black__0985179_pe816538_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-0988",
+      "Product Name": "FJÄLLBO",
+      "Product URL": "https://www.ikea.com/in/en/p/fjaellbo-desk-black-70587691/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fjaellbo-desk-black__1342778_pe949117_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-0989",
+      "Product Name": "ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/alex-desk-black-brown-80483443/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/alex-desk-black-brown__0977660_pe813727_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-0990",
+      "Product Name": "MICKE",
+      "Product URL": "https://www.ikea.com/in/en/p/micke-corner-workstation-white-20354284/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/micke-corner-workstation-white__0734328_pe739442_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0991",
+      "Product Name": "BERGLÄRKA",
+      "Product URL": "https://www.ikea.com/in/en/p/berglaerka-desk-white-tiltable-s09488671/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/berglaerka-desk-white-tiltable__1115662_pe872198_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0992",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-desk-sit-stand-white-s79429579/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-desk-sit-stand-white__1020756_pe831984_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0993",
+      "Product Name": "MITTZON",
+      "Product URL": "https://www.ikea.com/in/en/p/mittzon-laptop-table-with-castors-black-20515593/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mittzon-laptop-table-with-castors-black__1235858_pe917375_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0994",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-combination-white-light-grey-green-s29607381/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-combination-white-light-grey-green__1299485_pe936578_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15890
+    },
+    {
+      "Product ID": "A-0995",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-desk-with-2-drawers-white-stain-light-brown-00534955/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-desk-with-2-drawers-white-stain-light-brown__1162633_pe889908_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0996",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-grey-wood-effect-s69585396/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-grey-wood-effect__1432286_pe982742_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16490
+    },
+    {
+      "Product ID": "A-0997",
+      "Product Name": "RELATERA",
+      "Product URL": "https://www.ikea.com/in/en/p/relatera-desk-combination-sit-stand-white-light-grey-green-s19560100/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/relatera-desk-combination-sit-stand-white-light-grey-green__1299342_pe936537_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16490
+    },
+    {
+      "Product ID": "A-0998",
+      "Product Name": "VEBJÖRN",
+      "Product URL": "https://www.ikea.com/in/en/p/vebjoern-desk-beige-40460839/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vebjoern-desk-beige__1174618_pe894559_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16990
+    },
+    {
+      "Product ID": "A-0999",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-white-s79431983/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-white__1022432_pe832720_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16990
+    },
+    {
+      "Product ID": "A-1000",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-desk-off-white-70538257/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-desk-off-white__1329852_pe945282_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-1001",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-black-brown-white-s49521659/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-black-brown-white__1213339_pe911091_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-1002",
+      "Product Name": "LAGKAPTEN / ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/lagkapten-alex-desk-white-s39417620/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lagkapten-alex-desk-white__0976159_pe813052_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18490
+    },
+    {
+      "Product ID": "A-1003",
+      "Product Name": "FREDDE",
+      "Product URL": "https://www.ikea.com/in/en/p/fredde-gaming-desk-black-30361953/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fredde-gaming-desk-black__0736008_pe740351_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-1004",
+      "Product Name": "IDÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/idasen-desk-brown-dark-grey-s79281040/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idasen-desk-brown-dark-grey__0736572_pe740626_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25490
+    },
+    {
+      "Product ID": "A-1005",
+      "Product Name": "RODULF",
+      "Product URL": "https://www.ikea.com/in/en/p/rodulf-desk-sit-stand-electric-white-s79581802/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rodulf-desk-sit-stand-electric-white__1209823_pe909462_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25990
+    },
+    {
+      "Product ID": "A-1006",
+      "Product Name": "MITTZON",
+      "Product URL": "https://www.ikea.com/in/en/p/mittzon-desk-sit-stand-electric-black-stained-ash-veneer-black-s49526591/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mittzon-desk-sit-stand-electric-black-stained-ash-veneer-black__1205589_pe907152_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-1007",
+      "Product Name": "MITTZON",
+      "Product URL": "https://www.ikea.com/in/en/p/mittzon-desk-sit-stand-electric-black-stained-ash-veneer-black-s89529192/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mittzon-desk-sit-stand-electric-black-stained-ash-veneer-black__1210772_pe909839_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 38990
+    }
+  ]
+}

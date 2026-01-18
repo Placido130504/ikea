@@ -2694,3 +2694,98 @@ For (2), check out our guide on configuring puppeteer at https://pptr.dev/guides
 2026-01-16 13:45:59 [INFO]: Processing query: "rocking chair"
 2026-01-16 13:45:59 [INFO]: Starting search on ikea for "rocking chair"
 2026-01-16 13:48:01 [INFO]: Received SIGINT, shutting down gracefully...
+2026-01-17 19:31:15 [INFO]: === Initializing Price Comparison Scraper ===
+2026-01-17 19:31:15 [INFO]: Configuration loaded successfully
+2026-01-17 19:31:15 [INFO]: Initialized 1 scrapers: ikea
+2026-01-17 19:31:15 [INFO]: Application initialized successfully
+2026-01-17 19:31:15 [INFO]: Starting price comparison scraping process
+2026-01-17 19:31:15 [INFO]: === Starting Price Comparison Scraper ===
+2026-01-17 19:31:15 [INFO]: Starting 14 search queries across 1 sites
+2026-01-17 19:31:15 [INFO]: Processing query: "shelves"
+2026-01-17 19:31:15 [INFO]: Starting search on ikea for "shelves"
+2026-01-17 19:31:39 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:31:39 [INFO]: ikea scraping successful
+2026-01-17 19:31:39 [INFO]: Processing query: "shelves"
+2026-01-17 19:31:39 [INFO]: Query "shelves" completed: 100 products found
+2026-01-17 19:31:39 [INFO]: Processing query: "cupboard"
+2026-01-17 19:31:39 [INFO]: Starting search on ikea for "cupboard"
+2026-01-17 19:31:59 [INFO]: Total IKEA products collected: 167
+2026-01-17 19:31:59 [INFO]: ikea scraping successful
+2026-01-17 19:31:59 [INFO]: Processing query: "cupboard"
+2026-01-17 19:31:59 [INFO]: Query "cupboard" completed: 100 products found
+2026-01-17 19:31:59 [INFO]: Processing query: "wardrobe"
+2026-01-17 19:31:59 [INFO]: Starting search on ikea for "wardrobe"
+2026-01-17 19:32:19 [INFO]: Total IKEA products collected: 61
+2026-01-17 19:32:19 [INFO]: ikea scraping successful
+2026-01-17 19:32:19 [INFO]: Processing query: "wardrobe"
+2026-01-17 19:32:19 [INFO]: Query "wardrobe" completed: 61 products found
+2026-01-17 19:32:19 [INFO]: Processing query: "cabinets"
+2026-01-17 19:32:19 [INFO]: Starting search on ikea for "cabinets"
+2026-01-17 19:32:38 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:32:38 [INFO]: ikea scraping successful
+2026-01-17 19:32:38 [INFO]: Processing query: "cabinets"
+2026-01-17 19:32:38 [INFO]: Query "cabinets" completed: 100 products found
+2026-01-17 19:32:38 [INFO]: Processing query: "sofa"
+2026-01-17 19:32:38 [INFO]: Starting search on ikea for "sofa"
+2026-01-17 19:32:58 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:32:58 [INFO]: ikea scraping successful
+2026-01-17 19:32:58 [INFO]: Processing query: "sofa"
+2026-01-17 19:32:58 [INFO]: Query "sofa" completed: 100 products found
+2026-01-17 19:32:58 [INFO]: Processing query: "bed"
+2026-01-17 19:32:58 [INFO]: Starting search on ikea for "bed"
+2026-01-17 19:33:17 [INFO]: Total IKEA products collected: 108
+2026-01-17 19:33:17 [INFO]: ikea scraping successful
+2026-01-17 19:33:17 [INFO]: Processing query: "bed"
+2026-01-17 19:33:17 [INFO]: Query "bed" completed: 100 products found
+2026-01-17 19:33:17 [INFO]: Processing query: "dining chair"
+2026-01-17 19:33:17 [INFO]: Starting search on ikea for "dining chair"
+2026-01-17 19:33:35 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:33:35 [INFO]: ikea scraping successful
+2026-01-17 19:33:35 [INFO]: Processing query: "dining chair"
+2026-01-17 19:33:35 [INFO]: Query "dining chair" completed: 100 products found
+2026-01-17 19:33:35 [INFO]: Processing query: "casual chair"
+2026-01-17 19:33:35 [INFO]: Starting search on ikea for "casual chair"
+2026-01-17 19:33:53 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:33:53 [INFO]: ikea scraping successful
+2026-01-17 19:33:53 [INFO]: Processing query: "casual chair"
+2026-01-17 19:33:53 [INFO]: Query "casual chair" completed: 100 products found
+2026-01-17 19:33:53 [INFO]: Processing query: "gaming chair"
+2026-01-17 19:33:53 [INFO]: Starting search on ikea for "gaming chair"
+2026-01-17 19:34:11 [INFO]: Total IKEA products collected: 19
+2026-01-17 19:34:11 [INFO]: ikea scraping successful
+2026-01-17 19:34:11 [INFO]: Processing query: "gaming chair"
+2026-01-17 19:34:11 [INFO]: Query "gaming chair" completed: 19 products found
+2026-01-17 19:34:11 [INFO]: Processing query: "rocking chair"
+2026-01-17 19:34:11 [INFO]: Starting search on ikea for "rocking chair"
+2026-01-17 19:34:31 [INFO]: Total IKEA products collected: 27
+2026-01-17 19:34:31 [INFO]: ikea scraping successful
+2026-01-17 19:34:31 [INFO]: Processing query: "rocking chair"
+2026-01-17 19:34:31 [INFO]: Query "rocking chair" completed: 27 products found
+2026-01-17 19:34:31 [INFO]: Processing query: "dining table"
+2026-01-17 19:34:31 [INFO]: Starting search on ikea for "dining table"
+2026-01-17 19:34:50 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:34:50 [INFO]: ikea scraping successful
+2026-01-17 19:34:50 [INFO]: Processing query: "dining table"
+2026-01-17 19:34:50 [INFO]: Query "dining table" completed: 100 products found
+2026-01-17 19:34:50 [INFO]: Processing query: "study table"
+2026-01-17 19:34:50 [INFO]: Starting search on ikea for "study table"
+2026-01-17 19:35:09 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:35:09 [INFO]: ikea scraping successful
+2026-01-17 19:35:09 [INFO]: Processing query: "study table"
+2026-01-17 19:35:09 [INFO]: Query "study table" completed: 100 products found
+2026-01-17 19:35:09 [INFO]: Processing query: "casual table"
+2026-01-17 19:35:09 [INFO]: Starting search on ikea for "casual table"
+2026-01-17 19:35:28 [INFO]: Total IKEA products collected: 166
+2026-01-17 19:35:28 [INFO]: ikea scraping successful
+2026-01-17 19:35:28 [INFO]: Processing query: "casual table"
+2026-01-17 19:35:28 [INFO]: Query "casual table" completed: 100 products found
+2026-01-17 19:35:28 [INFO]: Processing query: "tea table"
+2026-01-17 19:35:28 [INFO]: Starting search on ikea for "tea table"
+2026-01-17 19:35:49 [INFO]: Total IKEA products collected: 172
+2026-01-17 19:35:49 [INFO]: ikea scraping successful
+2026-01-17 19:35:49 [INFO]: Processing query: "tea table"
+2026-01-17 19:35:49 [INFO]: Query "tea table" completed: 100 products found
+2026-01-17 19:35:49 [INFO]: === Scraping Complete ===
+2026-01-17 19:35:50 [INFO]: Price comparison scraping completed successfully
+2026-01-17 19:35:50 [INFO]: Cleaning up scrapers...
+2026-01-17 19:35:50 [INFO]: Scraper cleanup completed

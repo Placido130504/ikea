@@ -1,0 +1,905 @@
+{
+  "originalQuery": "cabinets",
+  "products": [
+    {
+      "Product ID": "A-0262",
+      "Product Name": "TRONES",
+      "Product URL": "https://www.ikea.com/in/en/p/trones-shoe-cabinet-storage-white-80397308/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trones-shoe-cabinet-storage-white__0710711_pe727734_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1690
+    },
+    {
+      "Product ID": "A-0263",
+      "Product Name": "TRONES",
+      "Product URL": "https://www.ikea.com/in/en/p/trones-shoe-cabinet-storage-black-30397315/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trones-shoe-cabinet-storage-black__0710712_pe727733_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1690
+    },
+    {
+      "Product ID": "A-0264",
+      "Product Name": "ASPUDDEN",
+      "Product URL": "https://www.ikea.com/in/en/p/aspudden-drawer-front-light-grey-10596274/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aspudden-drawer-front-light-grey__1413445_pe974379_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2000
+    },
+    {
+      "Product ID": "A-0265",
+      "Product Name": "BAGGEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/baggebo-cabinet-with-door-white-70483882/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/baggebo-cabinet-with-door-white__1016757_pe830615_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-0266",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-cabinet-dark-grey-blue-30605319/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-cabinet-dark-grey-blue__1417236_pe975985_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2500
+    },
+    {
+      "Product ID": "A-0267",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-cabinet-dark-grey-blue-00595538/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-cabinet-dark-grey-blue__1417234_pe975983_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3500
+    },
+    {
+      "Product ID": "A-0268",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-door-white-s09528342/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-door-white__0667888_pe714149_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3690
+    },
+    {
+      "Product ID": "A-0269",
+      "Product Name": "ENHET",
+      "Product URL": "https://www.ikea.com/in/en/p/enhet-wall-cb-w-2-shlvs-door-white-s39396585/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/enhet-wall-cb-w-2-shlvs-door-white__0816127_pe773279_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3900
+    },
+    {
+      "Product ID": "A-0270",
+      "Product Name": "IVÖSJÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/ivoesjoen-cabinet-with-doors-green-70573175/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ivoesjoen-cabinet-with-doors-green__1383429_pe962557_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0271",
+      "Product Name": "LIXHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/lixhult-cabinet-metal-anthracite-00476521/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lixhult-cabinet-metal-anthracite__0914419_pe784005_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0272",
+      "Product Name": "LIXHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/lixhult-cabinet-metal-grey-80328678/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lixhult-cabinet-metal-grey__0644746_pe702934_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0273",
+      "Product Name": "ÖVNING",
+      "Product URL": "https://www.ikea.com/in/en/p/oevning-trolley-white-grey-green-80517004/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/oevning-trolley-white-grey-green__1135029_pe878906_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0274",
+      "Product Name": "ENHET",
+      "Product URL": "https://www.ikea.com/in/en/p/enhet-wall-cb-w-2-shlvs-door-white-s59395108/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/enhet-wall-cb-w-2-shlvs-door-white__0816094_pe773318_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5800
+    },
+    {
+      "Product ID": "A-0275",
+      "Product Name": "SPIKSMED",
+      "Product URL": "https://www.ikea.com/in/en/p/spiksmed-cabinet-light-grey-90520874/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/spiksmed-cabinet-light-grey__1152576_pe885416_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-0276",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-cabinet-w-2-doors-and-1-shelf-white-80333953/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-cabinet-w-2-doors-and-1-shelf-white__0472902_pe614311_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7000
+    },
+    {
+      "Product ID": "A-0277",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-top-cabinet-white-aspudden-light-grey-s19604745/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-top-cabinet-white-aspudden-light-grey__1428209_pe980938_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7000
+    },
+    {
+      "Product ID": "A-0278",
+      "Product Name": "ASPUDDEN",
+      "Product URL": "https://www.ikea.com/in/en/p/aspudden-2-p-door-f-corner-base-cabinet-set-light-grey-50596267/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aspudden-2-p-door-f-corner-base-cabinet-set-light-grey__1413437_pe974343_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7000
+    },
+    {
+      "Product ID": "A-0279",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-with-shelves-white-askersund-light-ash-effect-s59450562/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-with-shelves-white-askersund-light-ash-effect__0707403_pe726213_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7300
+    },
+    {
+      "Product ID": "A-0280",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-white-askersund-light-ash-effect-s99471082/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-white-askersund-light-ash-effect__0511365_pe637726_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7300
+    },
+    {
+      "Product ID": "A-0281",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-with-shelves-white-askersund-light-ash-effect-s99450715/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-with-shelves-white-askersund-light-ash-effect__0511366_pe637808_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7500
+    },
+    {
+      "Product ID": "A-0282",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-1-front-for-dishwasher-aspudden-light-grey-s69605610/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-1-front-for-dishwasher-aspudden-light-grey__1428201_pe980935_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7800
+    },
+    {
+      "Product ID": "A-0283",
+      "Product Name": "MOSSJÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite-80573170/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite__1239715_pe919026_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0284",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-door-white-glass-s79528348/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-panel-glass-door-white-glass__0668157_pe714277_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0285",
+      "Product Name": "SÅGMÄSTARE",
+      "Product URL": "https://www.ikea.com/in/en/p/sagmaestare-cabinet-light-grey-blue-70570252/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sagmaestare-cabinet-light-grey-blue__1391205_pe965711_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0286",
+      "Product Name": "NYSJÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/nysjoen-high-cabinet-white-40470862/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nysjoen-high-cabinet-white__0971572_pe811380_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0287",
+      "Product Name": "BRUSALI",
+      "Product URL": "https://www.ikea.com/in/en/p/brusali-shoe-cabinet-with-3-compartments-brown-00267607/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brusali-shoe-cabinet-with-3-compartments-brown__0710744_pe727762_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0288",
+      "Product Name": "KLEPPSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/kleppstad-shoe-cabinet-storage-white-90508914/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kleppstad-shoe-cabinet-storage-white__1005444_pe825460_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0289",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-cabinet-combination-with-legs-white-wood-s59388004/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-cabinet-combination-with-legs-white-wood__0915225_pe784665_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8100
+    },
+    {
+      "Product ID": "A-0290",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-cabinet-combination-with-legs-white-pale-lilac-s59602103/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-cabinet-combination-with-legs-white-pale-lilac__1418003_pe976339_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8200
+    },
+    {
+      "Product ID": "A-0291",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-doors-white-s49528340/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-doors-white__0667847_pe714123_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8390
+    },
+    {
+      "Product ID": "A-0292",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-cabinet-with-doors-black-20351860/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-cabinet-with-doors-black__0627112_pe693188_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0293",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s59545358/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-glass-door-white-glass__0667948_pe714198_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0294",
+      "Product Name": "IKEA PS",
+      "Product URL": "https://www.ikea.com/in/en/p/ikea-ps-cabinet-white-90251452/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ikea-ps-cabinet-white__0644741_pe702929_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0295",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-cabinet-with-doors-white-90474773/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-cabinet-with-doors-white__1007247_pe825962_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9490
+    },
+    {
+      "Product ID": "A-0296",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-for-microwave-oven-white-aspudden-light-grey-s59604121/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-for-microwave-oven-white-aspudden-light-grey__1428320_pe981053_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9600
+    },
+    {
+      "Product ID": "A-0297",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-4-fronts-for-dishwasher-aspudden-light-grey-s69604639/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-4-fronts-for-dishwasher-aspudden-light-grey__1428199_pe980933_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9700
+    },
+    {
+      "Product ID": "A-0298",
+      "Product Name": "SKRUVBY",
+      "Product URL": "https://www.ikea.com/in/en/p/skruvby-cabinet-with-doors-white-00508857/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skruvby-cabinet-with-doors-white__1128173_pe876446_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0299",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-cabinet-with-doors-glass-white-40351699/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-cabinet-with-doors-glass-white__0644781_pe702960_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0300",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-with-2-doors-white-askersund-light-ash-effect-s89450872/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-with-2-doors-white-askersund-light-ash-effect__0511372_pe637730_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10300
+    },
+    {
+      "Product ID": "A-0301",
+      "Product Name": "RUNMARÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/runmaroe-cabinet-with-doors-dark-grey-indoor-outdoor-60551310/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/runmaroe-cabinet-with-doors-dark-grey-indoor-outdoor__1171308_pe893031_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0302",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-horizontal-white-askersund-light-ash-effect-s89391533/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-horizontal-white-askersund-light-ash-effect__0511381_pe637734_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11600
+    },
+    {
+      "Product ID": "A-0303",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-with-dish-drainer-white-askersund-light-ash-effect-s99451748/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-with-dish-drainer-white-askersund-light-ash-effect__0511390_pe637739_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11800
+    },
+    {
+      "Product ID": "A-0304",
+      "Product Name": "ENHET",
+      "Product URL": "https://www.ikea.com/in/en/p/enhet-hi-cb-w-4-shlvs-door-white-s19396553/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/enhet-hi-cb-w-4-shlvs-door-white__0816086_pe773312_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0305",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cabinet-with-drawer-door-white-aspudden-light-grey-s89606147/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cabinet-with-drawer-door-white-aspudden-light-grey__1428726_pe981650_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12700
+    },
+    {
+      "Product ID": "A-0306",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-white-s39528345/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-panel-glass-doors-white__0667793_pe714087_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0307",
+      "Product Name": "SKRUVBY",
+      "Product URL": "https://www.ikea.com/in/en/p/skruvby-sideboard-black-blue-50568721/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skruvby-sideboard-black-blue__1241238_pe919728_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0308",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-cabinet-with-2-doors-beige-00415071/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-cabinet-with-2-doors-beige__0949262_pe799594_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0309",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-for-sink-2-doors-white-askersund-light-ash-effect-s79447875/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-for-sink-2-doors-white-askersund-light-ash-effect__0707416_pe726227_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13100
+    },
+    {
+      "Product ID": "A-0310",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cabinet-for-oven-with-drawer-white-aspudden-light-grey-s29605669/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cabinet-for-oven-with-drawer-white-aspudden-light-grey__1428930_pe981466_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13200
+    },
+    {
+      "Product ID": "A-0311",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-pull-out-int-fittings-white-askersund-light-ash-effect-s89301349/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-pull-out-int-fittings-white-askersund-light-ash-effect__0707404_pe726217_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13300
+    },
+    {
+      "Product ID": "A-0312",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-with-shelves-2-doors-white-askersund-light-ash-effect-s99471204/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-with-shelves-2-doors-white-askersund-light-ash-effect__0707399_pe726209_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13900
+    },
+    {
+      "Product ID": "A-0313",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-with-shelves-2-doors-white-askersund-light-ash-effect-s69448583/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-with-shelves-2-doors-white-askersund-light-ash-effect__0511373_pe637835_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14000
+    },
+    {
+      "Product ID": "A-0314",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-with-doors-black-brown-lappviken-stubbarp-walnut-effect-s09612190/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-with-doors-black-brown-lappviken-stubbarp-walnut-effect__1449577_pe989955_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14400
+    },
+    {
+      "Product ID": "A-0315",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-corner-wall-cabinet-with-shelves-white-aspudden-light-grey-s99605374/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-corner-wall-cabinet-with-shelves-white-aspudden-light-grey__1428234_pe980967_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14900
+    },
+    {
+      "Product ID": "A-0316",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-sideboard-white-10491719/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-sideboard-white__1035578_pe838113_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0317",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cab-f-tallsjoen-sink-white-aspudden-light-grey-s69604314/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cab-f-tallsjoen-sink-white-aspudden-light-grey__1428731_pe981661_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15500
+    },
+    {
+      "Product ID": "A-0318",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-w-dish-drainer-2-doors-white-aspudden-light-grey-s89606208/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-w-dish-drainer-2-doors-white-aspudden-light-grey__1428325_pe981059_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15600
+    },
+    {
+      "Product ID": "A-0319",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-glass-door-cabinet-white-30409889/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-glass-door-cabinet-white__0601759_pe681618_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0320",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-storage-unit-white-70483269/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-storage-unit-white__1038847_pe839901_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0321",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-f-sink-w-2-doors-front-white-askersund-light-ash-effect-s89448836/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-f-sink-w-2-doors-front-white-askersund-light-ash-effect__0511358_pe637844_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16200
+    },
+    {
+      "Product ID": "A-0322",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-with-wire-baskets-white-aspudden-light-grey-s59605516/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-with-wire-baskets-white-aspudden-light-grey__1428756_pe981690_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16400
+    },
+    {
+      "Product ID": "A-0323",
+      "Product Name": "TROTTEN",
+      "Product URL": "https://www.ikea.com/in/en/p/trotten-cabinet-with-doors-white-70474774/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trotten-cabinet-with-doors-white__1007249_pe826000_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16490
+    },
+    {
+      "Product ID": "A-0324",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cabinet-f-combi-micro-drawers-white-askersund-light-ash-effect-s79398479/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cabinet-f-combi-micro-drawers-white-askersund-light-ash-effect__0941771_pe795706_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16850
+    },
+    {
+      "Product ID": "A-0325",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-horizontal-w-2-doors-white-aspudden-light-grey-s69605243/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-horizontal-w-2-doors-white-aspudden-light-grey__1428305_pe981034_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17200
+    },
+    {
+      "Product ID": "A-0326",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-w-doors-drawers-white-lappviken-stubbarp-walnut-effect-s99612204/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-w-doors-drawers-white-lappviken-stubbarp-walnut-effect__1449591_pe989958_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17800
+    },
+    {
+      "Product ID": "A-0327",
+      "Product Name": "IVAR",
+      "Product URL": "https://www.ikea.com/in/en/p/ivar-cabinet-with-doors-grey-green-mesh-s69508119/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ivar-cabinet-with-doors-grey-green-mesh__1184104_pe897733_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17980
+    },
+    {
+      "Product ID": "A-0328",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cab-with-2-fronts-3-drawers-white-aspudden-light-grey-s89605360/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cab-with-2-fronts-3-drawers-white-aspudden-light-grey__1428659_pe981602_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18900
+    },
+    {
+      "Product ID": "A-0329",
+      "Product Name": "LEDAMOT",
+      "Product URL": "https://www.ikea.com/in/en/p/ledamot-cabinet-light-grey-beige-60544895/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ledamot-cabinet-light-grey-beige__1369359_pe958105_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-0330",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cab-f-tallsjoen-sink-white-aspudden-light-grey-s89605510/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cab-f-tallsjoen-sink-white-aspudden-light-grey__1428843_pe981426_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20000
+    },
+    {
+      "Product ID": "A-0331",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cb-f-havsen-snk-3-frnts-2-drws-white-askersund-light-ash-effect-s89398054/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cb-f-havsen-snk-3-frnts-2-drws-white-askersund-light-ash-effect__0511647_pe637871_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20350
+    },
+    {
+      "Product ID": "A-0332",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-sideboard-white-20407292/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-sideboard-white__0914116_pe783853_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20990
+    },
+    {
+      "Product ID": "A-0333",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-shelves-white-aspudden-light-grey-s69604125/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-shelves-white-aspudden-light-grey__1428510_pe981065_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21100
+    },
+    {
+      "Product ID": "A-0334",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cabinet-with-2-drawers-white-aspudden-light-grey-s29606094/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cabinet-with-2-drawers-white-aspudden-light-grey__1428642_pe981566_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21500
+    },
+    {
+      "Product ID": "A-0335",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-wall-mounted-cabinet-combination-black-brown-lappviken-walnut-effect-s99612218/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-wall-mounted-cabinet-combination-black-brown-lappviken-walnut-effect__1451135_pe990611_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21600
+    },
+    {
+      "Product ID": "A-0336",
+      "Product Name": "SKRUVBY",
+      "Product URL": "https://www.ikea.com/in/en/p/skruvby-storage-combination-black-blue-s19525606/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skruvby-storage-combination-black-blue__1333010_pe946381_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22980
+    },
+    {
+      "Product ID": "A-0337",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-wall-mounted-cabinet-combination-white-pale-lilac-s09602054/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-wall-mounted-cabinet-combination-white-pale-lilac__1418015_pe976347_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23400
+    },
+    {
+      "Product ID": "A-0338",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cb-2-fronts-2-high-drawers-white-aspudden-light-grey-s99605680/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cb-2-fronts-2-high-drawers-white-aspudden-light-grey__1428944_pe981500_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23500
+    },
+    {
+      "Product ID": "A-0339",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cabinet-with-drawer-2-doors-white-aspudden-light-grey-s59604376/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cabinet-with-drawer-2-doors-white-aspudden-light-grey__1428825_pe981412_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23600
+    },
+    {
+      "Product ID": "A-0340",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-shelves-2-doors-white-askersund-light-ash-effect-s99450923/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-shelves-2-doors-white-askersund-light-ash-effect__0511410_pe637837_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23700
+    },
+    {
+      "Product ID": "A-0341",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-w-glass-doors-black-brown-lappviken-black-brown-clear-glass-s09412520/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-w-glass-doors-black-brown-lappviken-black-brown-clear-glass__0719328_pe731982_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23900
+    },
+    {
+      "Product ID": "A-0342",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-with-drawers-white-lappviken-stubbarp-walnut-effect-s89612209/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-with-drawers-white-lappviken-stubbarp-walnut-effect__1451125_pe990598_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24600
+    },
+    {
+      "Product ID": "A-0343",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-w-shelves-wire-basket-white-aspudden-light-grey-s99605675/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-w-shelves-wire-basket-white-aspudden-light-grey__1428509_pe981175_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24600
+    },
+    {
+      "Product ID": "A-0344",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-hi-cab-f-fridge-or-freezer-w-2-drs-white-askersund-light-ash-effect-s49426313/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-hi-cab-f-fridge-or-freezer-w-2-drs-white-askersund-light-ash-effect__0511434_pe637696_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25700
+    },
+    {
+      "Product ID": "A-0345",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cab-f-micro-w-2-doors-shelves-white-aspudden-light-grey-s39606574/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cab-f-micro-w-2-doors-shelves-white-aspudden-light-grey__1428584_pe981125_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 27400
+    },
+    {
+      "Product ID": "A-0346",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cab-f-oven-w-2-doors-shelves-white-aspudden-light-grey-s09606537/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cab-f-oven-w-2-doors-shelves-white-aspudden-light-grey__1428464_pe981296_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29700
+    },
+    {
+      "Product ID": "A-0347",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cab-f-fridge-freezer-w-2-doors-white-aspudden-light-grey-s09604939/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cab-f-fridge-freezer-w-2-doors-white-aspudden-light-grey__1428517_pe981259_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30100
+    },
+    {
+      "Product ID": "A-0348",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-hi-cb-f-oven-micro-w-2-drs-shelves-white-aspudden-light-grey-s79605916/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-hi-cb-f-oven-micro-w-2-drs-shelves-white-aspudden-light-grey__1428585_pe981126_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30300
+    },
+    {
+      "Product ID": "A-0349",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-high-cab-f-oven-micro-w-dr-2-drwrs-white-aspudden-light-grey-s69604738/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-high-cab-f-oven-micro-w-dr-2-drwrs-white-aspudden-light-grey__1428588_pe981153_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30500
+    },
+    {
+      "Product ID": "A-0350",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-cleaning-interior-white-aspudden-light-grey-s49604329/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-cleaning-interior-white-aspudden-light-grey__1428368_pe981332_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32450
+    },
+    {
+      "Product ID": "A-0351",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cab-4-frnts-4-drawers-white-aspudden-light-grey-s69604130/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cab-4-frnts-4-drawers-white-aspudden-light-grey__1428949_pe981638_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32500
+    },
+    {
+      "Product ID": "A-0352",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-shelves-white-aspudden-light-grey-s99605623/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-shelves-white-aspudden-light-grey__1428582_pe981123_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34500
+    },
+    {
+      "Product ID": "A-0353",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-with-doors-white-lappviken-white-s89187443/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-with-doors-white-lappviken-white__0350868_pe535038_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34600
+    },
+    {
+      "Product ID": "A-0354",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-cleaning-interior-white-aspudden-light-grey-s89606265/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-cleaning-interior-white-aspudden-light-grey__1428332_pe981178_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 35050
+    },
+    {
+      "Product ID": "A-0355",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-w-glass-doors-white-lappviken-sindvik-walnut-effect-s49612225/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-w-glass-doors-white-lappviken-sindvik-walnut-effect__1449592_pe989969_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 35200
+    },
+    {
+      "Product ID": "A-0356",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-glass-door-cabinet-with-3-drawers-white-stain-light-brown-70413506/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-glass-door-cabinet-with-3-drawers-white-stain-light-brown__0805255_pe769478_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 35990
+    },
+    {
+      "Product ID": "A-0357",
+      "Product Name": "METOD / MAXIMERA",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-maximera-base-cb-4-frnts-2-low-3-md-drwrs-white-aspudden-light-grey-s29606107/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-maximera-base-cb-4-frnts-2-low-3-md-drwrs-white-aspudden-light-grey__1428904_pe981443_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 39600
+    },
+    {
+      "Product ID": "A-0358",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-with-doors-black-brown-lappviken-sindvik-walnut-effect-s69612234/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-with-doors-black-brown-lappviken-sindvik-walnut-effect__1449595_pe989960_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40000
+    },
+    {
+      "Product ID": "A-0359",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-pull-out-larder-white-aspudden-light-grey-s79604375/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-pull-out-larder-white-aspudden-light-grey__1428339_pe981248_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 56990
+    },
+    {
+      "Product ID": "A-0360",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-pull-out-larder-white-askersund-light-ash-effect-s19472170/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-pull-out-larder-white-askersund-light-ash-effect__1065146_pe852091_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 58290
+    },
+    {
+      "Product ID": "A-0361",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-pull-out-larder-white-aspudden-light-grey-s59606530/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-pull-out-larder-white-aspudden-light-grey__1428559_pe981113_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 64190
+    }
+  ]
+}

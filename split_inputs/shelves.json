@@ -1,0 +1,905 @@
+{
+  "originalQuery": "shelves",
+  "products": [
+    {
+      "Product ID": "A-0001",
+      "Product Name": "HAVREKROSS",
+      "Product URL": "https://www.ikea.com/in/en/p/havrekross-wall-organiser-w-hooks-light-grey-beige-80569413/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/havrekross-wall-organiser-w-hooks-light-grey-beige__1256313_pe925019_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 149
+    },
+    {
+      "Product ID": "A-0002",
+      "Product Name": "BURHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/burhult-shelf-white-70430520/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/burhult-shelf-white__0670004_pe715282_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 199
+    },
+    {
+      "Product ID": "A-0003",
+      "Product Name": "BURHULT / SIBBHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-white-white-s69325964/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/burhult-sibbhult-wall-shelf-white-white__0817489_pe774045_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 299
+    },
+    {
+      "Product ID": "A-0004",
+      "Product Name": "VARIERA",
+      "Product URL": "https://www.ikea.com/in/en/p/variera-shelf-insert-white-50177727/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/variera-shelf-insert-white__81980_pe207259_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 399
+    },
+    {
+      "Product ID": "A-0005",
+      "Product Name": "MOSSLANDA",
+      "Product URL": "https://www.ikea.com/in/en/p/mosslanda-picture-ledge-white-30297467/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mosslanda-picture-ledge-white__0634119_pe696315_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 499
+    },
+    {
+      "Product ID": "A-0006",
+      "Product Name": "LACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lack-wall-shelf-white-30282178/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lack-wall-shelf-white__0641086_pe700251_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 499
+    },
+    {
+      "Product ID": "A-0007",
+      "Product Name": "BILLY",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-shelf-white-50525270/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-shelf-white__1355954_pe953249_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 500
+    },
+    {
+      "Product ID": "A-0008",
+      "Product Name": "BURHULT / SIBBHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/burhult-sibbhult-wall-shelf-combination-white-white-s69326100/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/burhult-sibbhult-wall-shelf-combination-white-white__0817490_pe774044_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 598
+    },
+    {
+      "Product ID": "A-0009",
+      "Product Name": "MOSSLANDA",
+      "Product URL": "https://www.ikea.com/in/en/p/mosslanda-picture-ledge-walnut-effect-30586938/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mosslanda-picture-ledge-walnut-effect__1314690_pe940196_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0010",
+      "Product Name": "MOSSLANDA",
+      "Product URL": "https://www.ikea.com/in/en/p/mosslanda-picture-ledge-oak-effect-90586940/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mosslanda-picture-ledge-oak-effect__1314693_pe940200_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0011",
+      "Product Name": "MALMBÄCK",
+      "Product URL": "https://www.ikea.com/in/en/p/malmbaeck-display-shelf-dark-grey-20446340/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malmbaeck-display-shelf-dark-grey__0689493_pe722993_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0012",
+      "Product Name": "TROFAST",
+      "Product URL": "https://www.ikea.com/in/en/p/trofast-shelf-white-20169922/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trofast-shelf-white__0626615_pe692908_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 600
+    },
+    {
+      "Product ID": "A-0013",
+      "Product Name": "VESKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/vesken-corner-shelf-unit-white-10453883/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vesken-corner-shelf-unit-white__0831999_pe777543_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 649
+    },
+    {
+      "Product ID": "A-0014",
+      "Product Name": "MOSSLANDA",
+      "Product URL": "https://www.ikea.com/in/en/p/mosslanda-picture-ledge-white-70297465/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mosslanda-picture-ledge-white__0634121_pe696313_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 799
+    },
+    {
+      "Product ID": "A-0015",
+      "Product Name": "MOSSLANDA",
+      "Product URL": "https://www.ikea.com/in/en/p/mosslanda-picture-ledge-black-00297464/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mosslanda-picture-ledge-black__0634120_pe696314_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 799
+    },
+    {
+      "Product ID": "A-0016",
+      "Product Name": "BILLY",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-shelf-white-90525273/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-shelf-white__1355955_pe953248_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 800
+    },
+    {
+      "Product ID": "A-0017",
+      "Product Name": "SVENSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/svenshult-wall-shelf-grey-green-70557260/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/svenshult-wall-shelf-grey-green__1242876_pe920450_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 899
+    },
+    {
+      "Product ID": "A-0018",
+      "Product Name": "BERGSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-shelf-white-80430510/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-shelf-white__0670067_pe715304_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 990
+    },
+    {
+      "Product ID": "A-0019",
+      "Product Name": "MELLÖSA",
+      "Product URL": "https://www.ikea.com/in/en/p/melloesa-picture-ledge-transparent-80446342/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/melloesa-picture-ledge-transparent__0689494_pe722995_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 999
+    },
+    {
+      "Product ID": "A-0020",
+      "Product Name": "BERGSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-shelf-white-50430516/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-shelf-white__0670054_pe715295_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1190
+    },
+    {
+      "Product ID": "A-0021",
+      "Product Name": "OMAR",
+      "Product URL": "https://www.ikea.com/in/en/p/omar-shelving-unit-galvanised-40483077/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/omar-shelving-unit-galvanised__0945020_pe797537_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1190
+    },
+    {
+      "Product ID": "A-0022",
+      "Product Name": "LACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lack-wall-shelf-black-brown-00186183/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lack-wall-shelf-black-brown__0641085_pe700249_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1390
+    },
+    {
+      "Product ID": "A-0023",
+      "Product Name": "HYLLIS",
+      "Product URL": "https://www.ikea.com/in/en/p/hyllis-shelving-unit-with-cover-transparent-s49285940/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hyllis-shelving-unit-with-cover-transparent__0661305_pe712598_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1390
+    },
+    {
+      "Product ID": "A-0024",
+      "Product Name": "GULLHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/gullhult-wall-shelf-black-pine-antique-effect-40489022/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gullhult-wall-shelf-black-pine-antique-effect__0955140_pe803666_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-0025",
+      "Product Name": "LINDÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/lindasen-display-shelf-anthracite-40515808/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lindasen-display-shelf-anthracite__1157649_pe887800_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1490
+    },
+    {
+      "Product ID": "A-0026",
+      "Product Name": "UTRUSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/utrusta-shelf-white-90271148/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/utrusta-shelf-white__0162252_pe317455_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1500
+    },
+    {
+      "Product ID": "A-0027",
+      "Product Name": "BERGSHULT / RAMSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-ramshult-wall-shelf-brown-black-s09290613/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-ramshult-wall-shelf-brown-black__0671585_pe716299_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1552
+    },
+    {
+      "Product ID": "A-0028",
+      "Product Name": "BERGSHULT / KROKSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-krokshult-wall-shelf-brown-black-anthracite-s99326066/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-krokshult-wall-shelf-brown-black-anthracite__0789718_pe764135_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1590
+    },
+    {
+      "Product ID": "A-0029",
+      "Product Name": "BAGGEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/baggebo-shelving-unit-metal-white-60483873/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/baggebo-shelving-unit-metal-white__0981562_pe815396_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1790
+    },
+    {
+      "Product ID": "A-0030",
+      "Product Name": "BERGSHULT / KROKSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-krokshult-wall-shelf-brown-black-anthracite-s39326074/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-krokshult-wall-shelf-brown-black-anthracite__0789724_pe764141_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1790
+    },
+    {
+      "Product ID": "A-0031",
+      "Product Name": "GURSKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/gursken-bedside-table-light-beige-90503290/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gursken-bedside-table-light-beige__0923962_pe788458_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1790
+    },
+    {
+      "Product ID": "A-0032",
+      "Product Name": "HYLLIS",
+      "Product URL": "https://www.ikea.com/in/en/p/hyllis-shelving-unit-in-outdoor-80278579/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hyllis-shelving-unit-in-outdoor__0626021_pe692562_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-0033",
+      "Product Name": "BILLY",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-bookcase-white-90522038/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-bookcase-white__0627110_pe693186_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-0034",
+      "Product Name": "RUNMARÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/runmaroe-shelving-unit-dark-grey-indoor-outdoor-50551315/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/runmaroe-shelving-unit-dark-grey-indoor-outdoor__1171319_pe893037_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1990
+    },
+    {
+      "Product ID": "A-0035",
+      "Product Name": "FÄRGSÄTTARE",
+      "Product URL": "https://www.ikea.com/in/en/p/faergsaettare-wall-shelf-green-80595799/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/faergsaettare-wall-shelf-green__1420626_pe977436_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2000
+    },
+    {
+      "Product ID": "A-0036",
+      "Product Name": "BERGSHULT / GRANHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-granhult-wall-shelf-white-nickel-plated-s49290809/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-granhult-wall-shelf-white-nickel-plated__0671467_pe716273_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2190
+    },
+    {
+      "Product ID": "A-0037",
+      "Product Name": "BERGSHULT / TOMTHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-tomthult-shelf-with-bracket-white-s19418319/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-tomthult-shelf-with-bracket-white__0992808_pe820283_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2190
+    },
+    {
+      "Product ID": "A-0038",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-storage-combination-white-s69297131/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-storage-combination-white__0703688_pe732250_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2200
+    },
+    {
+      "Product ID": "A-0039",
+      "Product Name": "TROFAST",
+      "Product URL": "https://www.ikea.com/in/en/p/trofast-wall-storage-white-00182750/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/trofast-wall-storage-white__0642798_pe701439_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2450
+    },
+    {
+      "Product ID": "A-0040",
+      "Product Name": "LERBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/lerberg-shelf-unit-dark-grey-60186401/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lerberg-shelf-unit-dark-grey__69211_pe183961_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-0041",
+      "Product Name": "BAGGEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/baggebo-cabinet-with-door-white-70483882/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/baggebo-cabinet-with-door-white__1016757_pe830615_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-0042",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-shelving-unit-white-60431313/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-shelving-unit-white__0678063_pe719175_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-0043",
+      "Product Name": "KRÖNIKÖR",
+      "Product URL": "https://www.ikea.com/in/en/p/kroenikoer-open-storage-red-90574598/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kroenikoer-open-storage-red__1389120_pe965089_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-0044",
+      "Product Name": "FJÄLLBO",
+      "Product URL": "https://www.ikea.com/in/en/p/fjaellbo-wall-shelf-black-00430585/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fjaellbo-wall-shelf-black__0670302_pe715438_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2490
+    },
+    {
+      "Product ID": "A-0045",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-wall-mounted-shelving-unit-white-s29285818/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-wall-mounted-shelving-unit-white__1326088_pe944115_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2600
+    },
+    {
+      "Product ID": "A-0046",
+      "Product Name": "BERGSHULT / PERSHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-pershult-wall-shelf-white-white-s59290776/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-pershult-wall-shelf-white-white__0676485_pe718680_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2790
+    },
+    {
+      "Product ID": "A-0047",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-storage-combination-white-s39297142/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-storage-combination-white__0703661_pe732239_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2800
+    },
+    {
+      "Product ID": "A-0048",
+      "Product Name": "SUNNERSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/sunnersta-storage-unit-50500279/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sunnersta-storage-unit__1012592_pe828951_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-0049",
+      "Product Name": "FRÖSJÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/froesjoen-shelving-unit-black-90574918/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/froesjoen-shelving-unit-black__1253952_pe924351_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-0050",
+      "Product Name": "TORNVIKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/tornviken-wall-shelf-off-white-40402260/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tornviken-wall-shelf-off-white__0734304_pe739421_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2990
+    },
+    {
+      "Product ID": "A-0051",
+      "Product Name": "EKBY ALEX",
+      "Product URL": "https://www.ikea.com/in/en/p/ekby-alex-shelf-with-drawers-white-10363514/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ekby-alex-shelf-with-drawers-white__0100681_pe244016_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-0052",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-storage-combination-white-s69297145/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-storage-combination-white__0703702_pe732304_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3500
+    },
+    {
+      "Product ID": "A-0053",
+      "Product Name": "ENHET",
+      "Product URL": "https://www.ikea.com/in/en/p/enhet-wall-cb-w-2-shelves-white-50440638/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/enhet-wall-cb-w-2-shelves-white__0784885_pe761924_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3600
+    },
+    {
+      "Product ID": "A-0054",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-door-white-s09528342/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-door-white__0667888_pe714149_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3690
+    },
+    {
+      "Product ID": "A-0055",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-shelving-unit-white-70431317/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-shelving-unit-white__0678052_pe719167_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0056",
+      "Product Name": "GERSBY",
+      "Product URL": "https://www.ikea.com/in/en/p/gersby-bookcase-white-60360730/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gersby-bookcase-white__0251910_pe390723_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0057",
+      "Product Name": "RÅGRUND",
+      "Product URL": "https://www.ikea.com/in/en/p/ragrund-shelving-unit-bamboo-10253068/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ragrund-shelving-unit-bamboo__0721634_pe733311_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4303
+    },
+    {
+      "Product ID": "A-0058",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-wall-cabinet-with-glass-door-pale-lilac-s89602130/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-wall-cabinet-with-glass-door-pale-lilac__1418008_pe976363_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4400
+    },
+    {
+      "Product ID": "A-0059",
+      "Product Name": "VITTSJÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vittsjoe-shelving-unit-black-brown-glass-30214679/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vittsjoe-shelving-unit-black-brown-glass__0644374_pe702640_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4490
+    },
+    {
+      "Product ID": "A-0060",
+      "Product Name": "TORNVIKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/tornviken-open-cabinet-off-white-20359007/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tornviken-open-cabinet-off-white__0593874_pe675413_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4500
+    },
+    {
+      "Product ID": "A-0061",
+      "Product Name": "BILLY",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-bookcase-white-30522041/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-bookcase-white__0644260_pe702536_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0062",
+      "Product Name": "BILLY",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-bookcase-white-70522044/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-bookcase-white__0644780_pe702956_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0063",
+      "Product Name": "EKET",
+      "Product URL": "https://www.ikea.com/in/en/p/eket-cabinet-with-4-compartments-white-90333957/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/eket-cabinet-with-4-compartments-white__0473436_pe614568_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5000
+    },
+    {
+      "Product ID": "A-0064",
+      "Product Name": "BERGSHULT / GRANHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/bergshult-granhult-wall-shelf-combination-white-nickel-plated-s59291083/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/bergshult-granhult-wall-shelf-combination-white-nickel-plated__0688446_pe722427_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5370
+    },
+    {
+      "Product ID": "A-0065",
+      "Product Name": "VARBY",
+      "Product URL": "https://www.ikea.com/in/en/p/varby-corner-shelf-unit-medium-brown-00417579/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/varby-corner-shelf-unit-medium-brown__0653925_pe708165_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5490
+    },
+    {
+      "Product ID": "A-0066",
+      "Product Name": "KALLAX",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-shelving-unit-white-70351886/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-shelving-unit-white__0644753_pe702937_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5490
+    },
+    {
+      "Product ID": "A-0067",
+      "Product Name": "LACK",
+      "Product URL": "https://www.ikea.com/in/en/p/lack-wall-shelf-unit-white-40282187/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lack-wall-shelf-unit-white__0246565_pe385541_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6190
+    },
+    {
+      "Product ID": "A-0068",
+      "Product Name": "BILLY",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-bookcase-white-00522047/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-bookcase-white__0625599_pe692385_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0069",
+      "Product Name": "FJÄLLBO",
+      "Product URL": "https://www.ikea.com/in/en/p/fjaellbo-shelving-unit-black-90342198/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fjaellbo-shelving-unit-black__0473389_pe614540_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0070",
+      "Product Name": "EKENABBEN",
+      "Product URL": "https://www.ikea.com/in/en/p/ekenabben-open-shelving-unit-aspen-white-60487814/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ekenabben-open-shelving-unit-aspen-white__1029351_pe835758_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0071",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-white-askersund-light-ash-effect-s99471082/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-white-askersund-light-ash-effect__0511365_pe637726_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7300
+    },
+    {
+      "Product ID": "A-0072",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-with-shelves-white-askersund-light-ash-effect-s99450715/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-with-shelves-white-askersund-light-ash-effect__0511366_pe637808_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7500
+    },
+    {
+      "Product ID": "A-0073",
+      "Product Name": "MOSSJÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite-80573170/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mossjoen-wall-cabinet-w-shelves-glass-door-anthracite__1239715_pe919026_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0074",
+      "Product Name": "KALLAX",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-shelving-unit-white-20351884/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-shelving-unit-white__0644757_pe702939_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0075",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-glass-door-white-glass-s59545358/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-glass-door-white-glass__0667948_pe714198_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0076",
+      "Product Name": "KALLAX",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-shelving-unit-dark-green-00562081/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-shelving-unit-dark-green__1287916_pe934042_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0077",
+      "Product Name": "KALLAX",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-shelving-unit-with-underframe-dark-green-black-s89569692/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-shelving-unit-with-underframe-dark-green-black__1291708_pe934971_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10390
+    },
+    {
+      "Product ID": "A-0078",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-base-cabinet-with-shelves-white-askersund-light-ash-effect-s99451753/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-base-cabinet-with-shelves-white-askersund-light-ash-effect__0511333_pe637710_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10400
+    },
+    {
+      "Product ID": "A-0079",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-bookcase-white-10351686/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-bookcase-white__0644268_pe702543_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0080",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-horizontal-white-askersund-light-ash-effect-s89391533/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-horizontal-white-askersund-light-ash-effect__0511381_pe637734_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11600
+    },
+    {
+      "Product ID": "A-0081",
+      "Product Name": "FJÄLLBO",
+      "Product URL": "https://www.ikea.com/in/en/p/fjaellbo-shelving-unit-black-10339294/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fjaellbo-shelving-unit-black__0473388_pe614539_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0082",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-tv-bench-with-doors-black-brown-lappviken-stubbarp-walnut-effect-s79612101/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-tv-bench-with-doors-black-brown-lappviken-stubbarp-walnut-effect__1449578_pe989956_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12900
+    },
+    {
+      "Product ID": "A-0083",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-with-doors-black-brown-lappviken-stubbarp-walnut-effect-s09612190/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-with-doors-black-brown-lappviken-stubbarp-walnut-effect__1449577_pe989955_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14400
+    },
+    {
+      "Product ID": "A-0084",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-corner-wall-cabinet-with-shelves-white-aspudden-light-grey-s99605374/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-corner-wall-cabinet-with-shelves-white-aspudden-light-grey__1428234_pe980967_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14900
+    },
+    {
+      "Product ID": "A-0085",
+      "Product Name": "KALLAX",
+      "Product URL": "https://www.ikea.com/in/en/p/kallax-shelving-unit-white-60351882/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kallax-shelving-unit-white__0644546_pe702768_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0086",
+      "Product Name": "VITTSJÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vittsjoe-storage-combination-black-brown-glass-s69294533/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vittsjoe-storage-combination-black-brown-glass__0754460_pe747925_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15980
+    },
+    {
+      "Product ID": "A-0087",
+      "Product Name": "BILLY / OXBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/billy-oxberg-bookcase-with-panel-glass-doors-brown-walnut-effect-s39483634/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/billy-oxberg-bookcase-with-panel-glass-doors-brown-walnut-effect__1096993_pe864655_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0088",
+      "Product Name": "JÄTTESTA",
+      "Product URL": "https://www.ikea.com/in/en/p/jaettesta-shelving-unit-black-60512960/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jaettesta-shelving-unit-black__1154339_pe885996_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0089",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-wall-cabinet-horizontal-w-2-doors-white-askersund-light-ash-effect-s59391582/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-wall-cabinet-horizontal-w-2-doors-white-askersund-light-ash-effect__0511383_pe637685_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20700
+    },
+    {
+      "Product ID": "A-0090",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-shelves-white-aspudden-light-grey-s69604125/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-shelves-white-aspudden-light-grey__1428510_pe981065_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21100
+    },
+    {
+      "Product ID": "A-0091",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-wall-mounted-cabinet-combination-black-brown-lappviken-walnut-effect-s99612218/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-wall-mounted-cabinet-combination-black-brown-lappviken-walnut-effect__1451135_pe990611_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21600
+    },
+    {
+      "Product ID": "A-0092",
+      "Product Name": "LÅDMAKARE",
+      "Product URL": "https://www.ikea.com/in/en/p/ladmakare-storage-combination-w-sliding-doors-with-6-shelves-oak-effect-s69566675/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ladmakare-storage-combination-w-sliding-doors-with-6-shelves-oak-effect__1377057_pe960722_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22300
+    },
+    {
+      "Product ID": "A-0093",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-tv-bench-with-doors-white-lappviken-walnut-effect-s39612160/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-tv-bench-with-doors-white-lappviken-walnut-effect__1449586_pe989951_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23200
+    },
+    {
+      "Product ID": "A-0094",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-w-shelves-wire-basket-white-aspudden-light-grey-s99605675/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-w-shelves-wire-basket-white-aspudden-light-grey__1428509_pe981175_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24600
+    },
+    {
+      "Product ID": "A-0095",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cab-f-oven-w-2-doors-shelves-white-aspudden-light-grey-s89605058/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cab-f-oven-w-2-doors-shelves-white-aspudden-light-grey__1428530_pe981291_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 27200
+    },
+    {
+      "Product ID": "A-0096",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-hi-cb-f-oven-micro-w-2-drs-shelves-white-aspudden-light-grey-s79605916/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-hi-cb-f-oven-micro-w-2-drs-shelves-white-aspudden-light-grey__1428585_pe981126_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30300
+    },
+    {
+      "Product ID": "A-0097",
+      "Product Name": "BESTÅ",
+      "Product URL": "https://www.ikea.com/in/en/p/besta-storage-combination-with-doors-black-brown-lappviken-walnut-effect-s89612228/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/besta-storage-combination-with-doors-black-brown-lappviken-walnut-effect__1449599_pe989946_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32800
+    },
+    {
+      "Product ID": "A-0098",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-shelves-2-doors-white-aspudden-light-grey-s89605906/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-shelves-2-doors-white-aspudden-light-grey__1428566_pe981107_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32900
+    },
+    {
+      "Product ID": "A-0099",
+      "Product Name": "METOD",
+      "Product URL": "https://www.ikea.com/in/en/p/metod-high-cabinet-with-shelves-white-aspudden-light-grey-s99605623/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/metod-high-cabinet-with-shelves-white-aspudden-light-grey__1428582_pe981123_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34500
+    },
+    {
+      "Product ID": "A-0100",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-storage-combination-with-drawers-off-white-glass-s39612419/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-storage-combination-with-drawers-off-white-glass__1287765_pe933965_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 61980
+    }
+  ]
+}

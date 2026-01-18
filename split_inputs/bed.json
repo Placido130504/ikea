@@ -1,0 +1,905 @@
+{
+  "originalQuery": "bed",
+  "products": [
+    {
+      "Product ID": "A-0462",
+      "Product Name": "STICKAT",
+      "Product URL": "https://www.ikea.com/in/en/p/stickat-bed-pocket-black-60378339/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stickat-bed-pocket-black__0642793_pe701435_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 299
+    },
+    {
+      "Product ID": "A-0463",
+      "Product Name": "KLIPSK",
+      "Product URL": "https://www.ikea.com/in/en/p/klipsk-bed-tray-white-10289086/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/klipsk-bed-tray-white__0373657_pe553485_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 599
+    },
+    {
+      "Product ID": "A-0464",
+      "Product Name": "LÖVA",
+      "Product URL": "https://www.ikea.com/in/en/p/loeva-bed-canopy-leaf-green-60542127/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/loeva-bed-canopy-leaf-green__1160651_pe889036_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 799
+    },
+    {
+      "Product ID": "A-0465",
+      "Product Name": "SUFFLETT",
+      "Product URL": "https://www.ikea.com/in/en/p/sufflett-bed-tent-pink-60332469/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sufflett-bed-tent-pink__0711400_pe728188_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 899
+    },
+    {
+      "Product ID": "A-0466",
+      "Product Name": "RESGODS",
+      "Product URL": "https://www.ikea.com/in/en/p/resgods-bed-tray-bamboo-10444469/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/resgods-bed-tray-bamboo__0735331_pe739885_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1209
+    },
+    {
+      "Product ID": "A-0467",
+      "Product Name": "KURA",
+      "Product URL": "https://www.ikea.com/in/en/p/kura-bed-curtain-multicolour-animals-on-the-savannah-70603219/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kura-bed-curtain-multicolour-animals-on-the-savannah__1418630_pe976667_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1396
+    },
+    {
+      "Product ID": "A-0468",
+      "Product Name": "VARDÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/vardoe-bed-storage-box-black-20354514/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vardoe-bed-storage-box-black__0636228_pe697741_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2500
+    },
+    {
+      "Product ID": "A-0469",
+      "Product Name": "GRIMSBU",
+      "Product URL": "https://www.ikea.com/in/en/p/grimsbu-bed-frame-grey-20458757/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/grimsbu-bed-frame-grey__0749251_pe747239_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3490
+    },
+    {
+      "Product ID": "A-0470",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bedside-table-brown-90367443/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bedside-table-brown__0550416_pe658162_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0471",
+      "Product Name": "NODELAND",
+      "Product URL": "https://www.ikea.com/in/en/p/nodeland-bed-storage-box-medium-brown-20496274/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nodeland-bed-storage-box-medium-brown__0980162_pe814845_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4000
+    },
+    {
+      "Product ID": "A-0472",
+      "Product Name": "GRIMSBU",
+      "Product URL": "https://www.ikea.com/in/en/p/grimsbu-bed-frame-white-80458311/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/grimsbu-bed-frame-white__0749252_pe747238_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 4990
+    },
+    {
+      "Product ID": "A-0473",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-storage-box-set-of-2-white-10372537/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-storage-box-set-of-2-white__0636232_pe697744_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5000
+    },
+    {
+      "Product ID": "A-0474",
+      "Product Name": "GRIMSBU",
+      "Product URL": "https://www.ikea.com/in/en/p/grimsbu-bed-frame-white-luroey-s39311930/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/grimsbu-bed-frame-white-luroey__0749254_pe747237_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 5490
+    },
+    {
+      "Product ID": "A-0475",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-white-90602426/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-white__1446112_pe988552_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6490
+    },
+    {
+      "Product ID": "A-0476",
+      "Product Name": "SLATTUM",
+      "Product URL": "https://www.ikea.com/in/en/p/slattum-upholstered-bed-frame-vissle-dark-grey-60571252/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/slattum-upholstered-bed-frame-vissle-dark-grey__1259336_pe926649_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0477",
+      "Product Name": "VEVELSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/vevelstad-bed-frame-white-20518271/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vevelstad-bed-frame-white__1035360_pe840536_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0478",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-white-luroey-s99581858/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-white-luroey__1446112_pe988552_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8490
+    },
+    {
+      "Product ID": "A-0479",
+      "Product Name": "GRIMSBU",
+      "Product URL": "https://www.ikea.com/in/en/p/grimsbu-bed-frame-grey-luroey-s19311931/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/grimsbu-bed-frame-grey-luroey__0749249_pe747240_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0480",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-white-40602443/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-white__1447011_pe988918_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0481",
+      "Product Name": "NODELAND",
+      "Product URL": "https://www.ikea.com/in/en/p/nodeland-bed-frame-medium-brown-s29308527/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nodeland-bed-frame-medium-brown__0752420_pe747436_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0482",
+      "Product Name": "MINNEN",
+      "Product URL": "https://www.ikea.com/in/en/p/minnen-ext-bed-frame-with-slatted-bed-base-light-pink-s59418812/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/minnen-ext-bed-frame-with-slatted-bed-base-light-pink__0944272_pe797209_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0483",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-day-bed-frame-white-80595087/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-day-bed-frame-white__1420913_pe977540_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0484",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-frame-brown-20372551/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-frame-brown__0655005_pe708893_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10490
+    },
+    {
+      "Product ID": "A-0485",
+      "Product Name": "STJÄRNÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/stjaernoe-bed-frame-anthracite-00575366/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stjaernoe-bed-frame-anthracite__1298063_pe936036_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10490
+    },
+    {
+      "Product ID": "A-0486",
+      "Product Name": "SLÄKT",
+      "Product URL": "https://www.ikea.com/in/en/p/slaekt-bed-frame-with-slatted-bed-base-white-s59227756/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/slaekt-bed-frame-with-slatted-bed-base-white__0637774_pe698536_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10490
+    },
+    {
+      "Product ID": "A-0487",
+      "Product Name": "KLEPPSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/kleppstad-bed-frame-white-vissle-beige-20492676/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kleppstad-bed-frame-white-vissle-beige__1035340_pe840527_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0488",
+      "Product Name": "RAMSTA",
+      "Product URL": "https://www.ikea.com/in/en/p/ramsta-day-bed-frame-with-slatted-bed-base-white-s99184378/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ramsta-day-bed-frame-with-slatted-bed-base-white__0442871_pe594008_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0489",
+      "Product Name": "SLATTUM",
+      "Product URL": "https://www.ikea.com/in/en/p/slattum-upholstered-bed-frame-vissle-dark-grey-60571247/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/slattum-upholstered-bed-frame-vissle-dark-grey__1259335_pe926650_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0490",
+      "Product Name": "VITARNA",
+      "Product URL": "https://www.ikea.com/in/en/p/vitarna-four-poster-bed-frame-white-40573681/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vitarna-four-poster-bed-frame-white__1339949_pe948465_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0491",
+      "Product Name": "VEVELSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/vevelstad-bed-frame-white-60506389/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vevelstad-bed-frame-white__1035358_pe840534_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0492",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-white-luroey-s59581836/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-white-luroey__1447011_pe988918_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0493",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-with-2-storage-boxes-white-luroey-s39581984/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-with-2-storage-boxes-white-luroey__1447002_pe988912_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13490
+    },
+    {
+      "Product ID": "A-0494",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-high-white-20265179/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-high-white__0637620_pe704551_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13490
+    },
+    {
+      "Product ID": "A-0495",
+      "Product Name": "STJÄRNÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/stjaernoe-bed-frame-white-50579055/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stjaernoe-bed-frame-white__1298056_pe936029_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13990
+    },
+    {
+      "Product ID": "A-0496",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-frame-brown-loenset-s19240948/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-frame-brown-loenset__0655005_pe708893_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14490
+    },
+    {
+      "Product ID": "A-0497",
+      "Product Name": "RAMNEFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/ramnefjaell-upholstered-bed-frame-kilanda-dark-blue-s29607480/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ramnefjaell-upholstered-bed-frame-kilanda-dark-blue__1480721_pe1000244_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0498",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-day-bed-frame-with-storage-white-s69571587/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-day-bed-frame-with-storage-white__1426644_pe979884_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0499",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-day-bed-with-1-mattress-white-afjaell-medium-firm-s49580559/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-day-bed-with-1-mattress-white-afjaell-medium-firm__1426629_pe979878_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15480
+    },
+    {
+      "Product ID": "A-0500",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-frame-with-2-storage-boxes-brown-s89240983/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-frame-with-2-storage-boxes-brown__1151059_pe884759_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15490
+    },
+    {
+      "Product ID": "A-0501",
+      "Product Name": "NESTTUN",
+      "Product URL": "https://www.ikea.com/in/en/p/nesttun-bed-frame-white-luroey-s89198465/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nesttun-bed-frame-white-luroey__0637599_pe698415_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0502",
+      "Product Name": "VITARNA",
+      "Product URL": "https://www.ikea.com/in/en/p/vitarna-four-poster-bed-frame-white-luroey-s29556131/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vitarna-four-poster-bed-frame-white-luroey__1339949_pe948465_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0503",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-with-1-trundle-bed-white-luroey-s39582035/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-with-1-trundle-bed-white-luroey__1447003_pe988914_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16490
+    },
+    {
+      "Product ID": "A-0504",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-high-black-brown-luroey-s49009565/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-high-black-brown-luroey__0637621_pe704552_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16490
+    },
+    {
+      "Product ID": "A-0505",
+      "Product Name": "NODELAND",
+      "Product URL": "https://www.ikea.com/in/en/p/nodeland-bed-frame-with-2-storage-boxes-medium-brown-luroey-s59420283/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nodeland-bed-frame-with-2-storage-boxes-medium-brown-luroey__1020684_pe831951_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0506",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-frame-brown-luroey-s09241062/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-frame-brown-luroey__0638582_pe699001_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0507",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-with-2-storage-boxes-white-luroey-s79581977/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-with-2-storage-boxes-white-luroey__1447008_pe988916_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0508",
+      "Product Name": "TÄLLÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/taellasen-upholstered-bed-frame-kulsta-grey-green-50538927/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taellasen-upholstered-bed-frame-kulsta-grey-green__1239398_pe918880_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0509",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-bed-frame-white-stain-00354384/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-bed-frame-white-stain__0637616_pe698429_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18490
+    },
+    {
+      "Product ID": "A-0510",
+      "Product Name": "VITARNA",
+      "Product URL": "https://www.ikea.com/in/en/p/vitarna-four-poster-bed-frame-white-luroey-skadis-white-s69556327/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vitarna-four-poster-bed-frame-white-luroey-skadis-white__1339951_pe948468_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18802
+    },
+    {
+      "Product ID": "A-0511",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-day-bed-with-storage-1-mattress-white-agotnes-firm-s19580589/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-day-bed-with-storage-1-mattress-white-agotnes-firm__1426986_pe980114_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18980
+    },
+    {
+      "Product ID": "A-0512",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-frame-with-2-storage-boxes-white-s19241212/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-frame-with-2-storage-boxes-white__1151019_pe884760_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 18990
+    },
+    {
+      "Product ID": "A-0513",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-high-w-2-storage-boxes-white-s39199207/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white__1154404_pe886051_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 19490
+    },
+    {
+      "Product ID": "A-0514",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-bed-frame-with-storage-white-luroey-s99198139/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-bed-frame-with-storage-white-luroey__1151024_pe884762_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20990
+    },
+    {
+      "Product ID": "A-0515",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-high-white-luroey-s89030720/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-high-white-luroey__0749130_pe745499_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20990
+    },
+    {
+      "Product ID": "A-0516",
+      "Product Name": "STJÄRNÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/stjaernoe-bed-frame-anthracite-loenset-s09563397/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stjaernoe-bed-frame-anthracite-loenset__1298073_pe936046_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21990
+    },
+    {
+      "Product ID": "A-0517",
+      "Product Name": "SLÄKT",
+      "Product URL": "https://www.ikea.com/in/en/p/slaekt-bed-frame-with-underbed-and-storage-white-s49227752/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/slaekt-bed-frame-with-underbed-and-storage-white__0637775_pe698535_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22480
+    },
+    {
+      "Product ID": "A-0518",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-day-bed-frame-with-2-drawers-white-30503655/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-day-bed-frame-with-2-drawers-white__1161827_pe889528_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22490
+    },
+    {
+      "Product ID": "A-0519",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-with-4-storage-boxes-white-luroey-s79581996/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-with-4-storage-boxes-white-luroey__1447023_pe988921_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-0520",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-with-1-trundle-bed-white-luroey-s89582033/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-with-1-trundle-bed-white-luroey__1447039_pe988923_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23990
+    },
+    {
+      "Product ID": "A-0521",
+      "Product Name": "TÄLLÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/taellasen-upholstered-bed-frame-kulsta-light-beige-luroey-s59514743/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taellasen-upholstered-bed-frame-kulsta-light-beige-luroey__1198826_pe904230_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23990
+    },
+    {
+      "Product ID": "A-0522",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-bed-frame-white-stain-leirsund-s39198401/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-bed-frame-white-stain-leirsund__0637616_pe698429_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24490
+    },
+    {
+      "Product ID": "A-0523",
+      "Product Name": "SAGESUND",
+      "Product URL": "https://www.ikea.com/in/en/p/sagesund-upholstered-bed-frame-diseroed-brown-10490381/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sagesund-upholstered-bed-frame-diseroed-brown__1124332_pe888920_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-0524",
+      "Product Name": "SLÄKT",
+      "Product URL": "https://www.ikea.com/in/en/p/slaekt-bed-frame-w-storage-slatted-bedbase-white-s99291967/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/slaekt-bed-frame-w-storage-slatted-bedbase-white__0648346_pe704865_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 26990
+    },
+    {
+      "Product ID": "A-0525",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-2-stor-box-1-trundle-bed-white-luroey-s89582014/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-2-stor-box-1-trundle-bed-white-luroey__1447026_pe988922_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 26990
+    },
+    {
+      "Product ID": "A-0526",
+      "Product Name": "TÄRNKULLEN",
+      "Product URL": "https://www.ikea.com/in/en/p/taernkullen-upholstered-bed-frame-vissle-beige-luroey-s99564364/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taernkullen-upholstered-bed-frame-vissle-beige-luroey__1323523_pe942742_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 26990
+    },
+    {
+      "Product ID": "A-0527",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-high-w-4-storage-boxes-white-s19276999/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-high-w-4-storage-boxes-white__1154393_pe886042_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 28990
+    },
+    {
+      "Product ID": "A-0528",
+      "Product Name": "TÄRNKULLEN",
+      "Product URL": "https://www.ikea.com/in/en/p/taernkullen-upholstered-bed-frame-kelinge-beige-luroey-s89608132/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taernkullen-upholstered-bed-frame-kelinge-beige-luroey__1478421_pe999540_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 28990
+    },
+    {
+      "Product ID": "A-0529",
+      "Product Name": "SAGESUND",
+      "Product URL": "https://www.ikea.com/in/en/p/sagesund-upholstered-bed-frame-graesbo-white-luroey-s49502689/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sagesund-upholstered-bed-frame-graesbo-white-luroey__1193863_pe902232_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 28990
+    },
+    {
+      "Product ID": "A-0530",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bed-frame-with-4-storage-boxes-brown-luroey-s49241183/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bed-frame-with-4-storage-boxes-brown-luroey__1151018_pe884725_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0531",
+      "Product Name": "IDANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/idanaes-bed-frame-white-70458905/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idanaes-bed-frame-white__0916069_pe784945_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0532",
+      "Product Name": "FLEKKE",
+      "Product URL": "https://www.ikea.com/in/en/p/flekke-day-bed-frame-with-2-drawers-white-40320132/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/flekke-day-bed-frame-with-2-drawers-white__1162510_pe889844_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0533",
+      "Product Name": "SKÖNABÄCK",
+      "Product URL": "https://www.ikea.com/in/en/p/skoenabaeck-2-seat-sofa-bed-knisa-dark-grey-00582545/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skoenabaeck-2-seat-sofa-bed-knisa-dark-grey__1360572_pe954478_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0534",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-day-bed-w-2-drawers-2-mattresses-white-agotnes-firm-s29427064/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-day-bed-w-2-drawers-2-mattresses-white-agotnes-firm__1171930_pe893212_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30470
+    },
+    {
+      "Product ID": "A-0535",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-high-w-2-storage-boxes-white-loenset-s89199894/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-high-w-2-storage-boxes-white-loenset__1154393_pe886042_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30990
+    },
+    {
+      "Product ID": "A-0536",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-bed-frame-white-stain-loenset-s49198410/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-bed-frame-white-stain-loenset__0637516_pe698353_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30990
+    },
+    {
+      "Product ID": "A-0537",
+      "Product Name": "TYSSEDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/tyssedal-bed-frame-white-s09198643/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tyssedal-bed-frame-white__0637608_pe698420_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 31990
+    },
+    {
+      "Product ID": "A-0538",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-bed-frame-with-2-trundle-beds-white-luroey-s19582055/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-bed-frame-with-2-trundle-beds-white-luroey__1447040_pe988924_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 31990
+    },
+    {
+      "Product ID": "A-0539",
+      "Product Name": "SLÄKT",
+      "Product URL": "https://www.ikea.com/in/en/p/slaekt-bed-frame-with-storage-incl-headboard-vissle-beige-s49612046/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/slaekt-bed-frame-with-storage-incl-headboard-vissle-beige__1451402_pe990721_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32980
+    },
+    {
+      "Product ID": "A-0540",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-day-bed-frame-with-3-drawers-white-70349327/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-frame-with-3-drawers-white__1180454_pe896328_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0541",
+      "Product Name": "ÄLVDALEN",
+      "Product URL": "https://www.ikea.com/in/en/p/aelvdalen-3-seat-sofa-bed-knisa-grey-beige-30530649/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aelvdalen-3-seat-sofa-bed-knisa-grey-beige__1194633_pe902030_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0542",
+      "Product Name": "IDANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/idanaes-bed-frame-dark-brown-loenset-s09406487/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idanaes-bed-frame-dark-brown-loenset__0916066_pe784942_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0543",
+      "Product Name": "TÄLLÅSEN",
+      "Product URL": "https://www.ikea.com/in/en/p/taellasen-upholstered-bed-frame-with-mattress-kulsta-grey-green-valevag-extra-firm-s59536938/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/taellasen-upholstered-bed-frame-with-mattress-kulsta-grey-green-valevag-extra-firm__1236183_pe917463_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 37980
+    },
+    {
+      "Product ID": "A-0544",
+      "Product Name": "ÄLVDALEN",
+      "Product URL": "https://www.ikea.com/in/en/p/aelvdalen-3-seat-sofa-bed-with-chaise-longue-knisa-dark-grey-90530665/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aelvdalen-3-seat-sofa-bed-with-chaise-longue-knisa-dark-grey__1194630_pe902027_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 39990
+    },
+    {
+      "Product ID": "A-0545",
+      "Product Name": "FLEKKE",
+      "Product URL": "https://www.ikea.com/in/en/p/flekke-day-bed-w-2-drawers-2-mattresses-black-brown-afjaell-firm-s69521432/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/flekke-day-bed-w-2-drawers-2-mattresses-black-brown-afjaell-firm__1162088_pe889631_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40970
+    },
+    {
+      "Product ID": "A-0546",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-bed-frame-with-mattress-black-brown-valevag-firm-s59544504/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-bed-frame-with-mattress-black-brown-valevag-firm__1236213_pe917491_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 41980
+    },
+    {
+      "Product ID": "A-0547",
+      "Product Name": "TUFJORD",
+      "Product URL": "https://www.ikea.com/in/en/p/tufjord-upholstered-bed-frame-tallmyra-black-blue-70572500/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tufjord-upholstered-bed-frame-tallmyra-black-blue__1259492_pe926697_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 41990
+    },
+    {
+      "Product ID": "A-0548",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bedroom-furniture-set-of-4-brown-s69488055/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bedroom-furniture-set-of-4-brown__1101659_pe866486_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42960
+    },
+    {
+      "Product ID": "A-0549",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-day-bed-w-3-drawers-2-mattresses-white-agotnes-firm-s59428118/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-day-bed-w-3-drawers-2-mattresses-white-agotnes-firm__1180458_pe896335_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42970
+    },
+    {
+      "Product ID": "A-0550",
+      "Product Name": "HEMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/hemnes-bed-frame-with-mattress-white-stain-valevag-firm-s99542980/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hemnes-bed-frame-with-mattress-white-stain-valevag-firm__1236192_pe917468_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42980
+    },
+    {
+      "Product ID": "A-0551",
+      "Product Name": "MALM",
+      "Product URL": "https://www.ikea.com/in/en/p/malm-ottoman-bed-white-70431223/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/malm-ottoman-bed-white__0749127_pe745496_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 44990
+    },
+    {
+      "Product ID": "A-0552",
+      "Product Name": "IDANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/idanaes-bed-frame-with-storage-dark-brown-stained-50458874/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idanaes-bed-frame-with-storage-dark-brown-stained__1151042_pe884745_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 47990
+    },
+    {
+      "Product ID": "A-0553",
+      "Product Name": "IDANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/idanaes-upholstered-storage-bed-naggen-beige-60588097/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idanaes-upholstered-storage-bed-naggen-beige__1322819_pe942273_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 48990
+    },
+    {
+      "Product ID": "A-0554",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-bed-frame-with-storage-brown-stained-oak-veneer-10556923/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-bed-frame-with-storage-brown-stained-oak-veneer__1259648_pe926745_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 49990
+    },
+    {
+      "Product ID": "A-0555",
+      "Product Name": "IDANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/idanaes-upholstered-ottoman-bed-gunnared-dark-grey-60458977/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idanaes-upholstered-ottoman-bed-gunnared-dark-grey__1012432_pe829085_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 52990
+    },
+    {
+      "Product ID": "A-0556",
+      "Product Name": "IDANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/idanaes-bed-frame-with-storage-dark-brown-loenset-s39406527/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/idanaes-bed-frame-with-storage-dark-brown-loenset__1151052_pe884754_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 52990
+    },
+    {
+      "Product ID": "A-0557",
+      "Product Name": "TUFJORD",
+      "Product URL": "https://www.ikea.com/in/en/p/tufjord-upholstered-bed-frame-tallmyra-white-black-loenset-s99555345/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tufjord-upholstered-bed-frame-tallmyra-white-black-loenset__1259500_pe926690_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 52990
+    },
+    {
+      "Product ID": "A-0558",
+      "Product Name": "FRIHETEN",
+      "Product URL": "https://www.ikea.com/in/en/p/friheten-corner-sofa-bed-with-storage-faringe-brown-orange-s99517042/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/friheten-corner-sofa-bed-with-storage-faringe-brown-orange__1360635_pe954538_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 54990
+    },
+    {
+      "Product ID": "A-0559",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-bedroom-furniture-set-of-5-white-s89488196/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-bedroom-furniture-set-of-5-white__1101646_pe866463_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 55950
+    },
+    {
+      "Product ID": "A-0560",
+      "Product Name": "TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/tonstad-bed-frame-with-storage-brown-stained-oak-veneer-loenset-s89504592/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/tonstad-bed-frame-with-storage-brown-stained-oak-veneer-loenset__1259648_pe926745_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 57990
+    },
+    {
+      "Product ID": "A-0561",
+      "Product Name": "FRIHETEN / KLAGSHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/friheten-klagshamn-corner-sofa-bed-with-storage-skiftebo-dark-grey-s49444331/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/friheten-klagshamn-corner-sofa-bed-with-storage-skiftebo-dark-grey__1057056_pe848725_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 62386
+    }
+  ]
+}

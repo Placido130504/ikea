@@ -1,0 +1,905 @@
+{
+  "originalQuery": "sofa",
+  "products": [
+    {
+      "Product ID": "A-0362",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-cover-for-armrest-gunnared-medium-grey-90495799/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-cover-for-armrest-gunnared-medium-grey__0781586_pe760892_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2500
+    },
+    {
+      "Product ID": "A-0363",
+      "Product Name": "LINNEBÄCK",
+      "Product URL": "https://www.ikea.com/in/en/p/linnebaeck-easy-chair-orrsta-olive-green-30487231/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linnebaeck-easy-chair-orrsta-olive-green__0933454_pe791910_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 3990
+    },
+    {
+      "Product ID": "A-0364",
+      "Product Name": "JOLPEN",
+      "Product URL": "https://www.ikea.com/in/en/p/jolpen-2-seat-sofa-outdoor-white-grey-20522739/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jolpen-2-seat-sofa-outdoor-white-grey__1138956_pe880161_s5.jpg?f=xxs",
+      "Dimensions": "100x59x67 cm",
+      "Price": 5990
+    },
+    {
+      "Product ID": "A-0365",
+      "Product Name": "IKEA PS LÖMSK",
+      "Product URL": "https://www.ikea.com/in/en/p/ikea-ps-loemsk-swivel-armchair-white-red-90407137/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ikea-ps-loemsk-swivel-armchair-white-red__0726690_pe735385_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6900
+    },
+    {
+      "Product ID": "A-0366",
+      "Product Name": "FLINTAN",
+      "Product URL": "https://www.ikea.com/in/en/p/flintan-office-chair-beige-50492203/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/flintan-office-chair-beige__1007198_pe825954_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 6990
+    },
+    {
+      "Product ID": "A-0367",
+      "Product Name": "INGMARSÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/ingmarsoe-2-seat-sofa-in-outdoor-white-green-beige-50463291/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ingmarsoe-2-seat-sofa-in-outdoor-white-green-beige__0928417_pe789849_s5.jpg?f=xxs",
+      "Dimensions": "118x69x69 cm",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0368",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-brown-knisa-light-beige-s09240798/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-brown-knisa-light-beige__0571543_pe666957_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0369",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-low-back-armchair-natural-colour-beige-katorp-natural-colour-beige-s69551607/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-low-back-armchair-natural-colour-beige-katorp-natural-colour-beige__1315067_pe940386_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0370",
+      "Product Name": "HERRÅKRA",
+      "Product URL": "https://www.ikea.com/in/en/p/herrakra-armchair-diseroed-dark-yellow-10535544/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/herrakra-armchair-diseroed-dark-yellow__1213667_pe911203_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 8990
+    },
+    {
+      "Product ID": "A-0371",
+      "Product Name": "GLOSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/glostad-2-seat-sofa-knisa-dark-grey-10489009/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/glostad-2-seat-sofa-knisa-dark-grey__0950864_pe800736_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0372",
+      "Product Name": "HAMMARN",
+      "Product URL": "https://www.ikea.com/in/en/p/hammarn-sofa-bed-knisa-dark-grey-black-80361494/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hammarn-sofa-bed-knisa-dark-grey-black__0519027_pe641353_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0373",
+      "Product Name": "LÄCKÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/laeckoe-2-seat-sofa-outdoor-grey-30522734/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/laeckoe-2-seat-sofa-outdoor-grey__1138955_pe880166_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0374",
+      "Product Name": "POÄNG",
+      "Product URL": "https://www.ikea.com/in/en/p/poaeng-armchair-and-footstool-birch-veneer-knisa-light-beige-s49484237/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/poaeng-armchair-and-footstool-birch-veneer-knisa-light-beige__1096006_pe864150_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11980
+    },
+    {
+      "Product ID": "A-0375",
+      "Product Name": "LÅNGFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/langfjaell-conference-chair-gunnared-dark-grey-black-s99177575/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/langfjaell-conference-chair-gunnared-dark-grey-black__0726989_pe735480_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0376",
+      "Product Name": "GLOSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/glostad-3-seat-sofa-knisa-dark-grey-40595937/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/glostad-3-seat-sofa-knisa-dark-grey__1234948_pe917261_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0377",
+      "Product Name": "GLOSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/glostad-2-seat-sofa-with-chaise-longue-knisa-dark-grey-s09618804/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/glostad-2-seat-sofa-with-chaise-longue-knisa-dark-grey__1234949_pe917266_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13480
+    },
+    {
+      "Product ID": "A-0378",
+      "Product Name": "LÅNGFJÄLL",
+      "Product URL": "https://www.ikea.com/in/en/p/langfjaell-conference-chair-with-armrests-gunnared-dark-grey-white-s69252774/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/langfjaell-conference-chair-with-armrests-gunnared-dark-grey-white__0726976_pe735473_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13490
+    },
+    {
+      "Product ID": "A-0379",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-day-bed-with-1-mattress-white-afjaell-medium-firm-s49580559/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-day-bed-with-1-mattress-white-afjaell-medium-firm__1426629_pe979878_s5.jpg?f=xxs",
+      "Dimensions": "80x200 cm",
+      "Price": 15480
+    },
+    {
+      "Product ID": "A-0380",
+      "Product Name": "GLOSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/glostad-3-seat-sofa-with-chaise-longue-knisa-dark-grey-s49578599/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/glostad-3-seat-sofa-with-chaise-longue-knisa-dark-grey__1234952_pe917265_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16480
+    },
+    {
+      "Product ID": "A-0381",
+      "Product Name": "EKENÄSET",
+      "Product URL": "https://www.ikea.com/in/en/p/ekenaeset-armchair-kilanda-light-beige-70533491/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ekenaeset-armchair-kilanda-light-beige__1109687_pe870153_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0382",
+      "Product Name": "VEDBO",
+      "Product URL": "https://www.ikea.com/in/en/p/vedbo-armchair-gunnared-light-green-00494247/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vedbo-armchair-gunnared-light-green__0949818_pe800035_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0383",
+      "Product Name": "STRANDMON",
+      "Product URL": "https://www.ikea.com/in/en/p/strandmon-wing-chair-grey-30492317/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/strandmon-wing-chair-grey__0973257_pe811961_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0384",
+      "Product Name": "FRIDHULT",
+      "Product URL": "https://www.ikea.com/in/en/p/fridhult-sofa-bed-skiftebo-yellow-20575450/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/fridhult-sofa-bed-skiftebo-yellow__1265821_pe927821_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-0385",
+      "Product Name": "DYVLINGE",
+      "Product URL": "https://www.ikea.com/in/en/p/dyvlinge-swivel-easy-chair-kelinge-orange-80581919/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/dyvlinge-swivel-easy-chair-kelinge-orange__1322501_pe942192_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-0386",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-day-bed-with-storage-1-mattress-white-afjaell-firm-s49580578/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-day-bed-with-storage-1-mattress-white-afjaell-firm__1426965_pe980096_s5.jpg?f=xxs",
+      "Dimensions": "80x200 cm",
+      "Price": 20480
+    },
+    {
+      "Product ID": "A-0387",
+      "Product Name": "LILLEHEM",
+      "Product URL": "https://www.ikea.com/in/en/p/lillehem-2-seat-module-gunnared-dark-grey-wood-s19577515/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lillehem-2-seat-module-gunnared-dark-grey-wood__1358203_pe953815_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21000
+    },
+    {
+      "Product ID": "A-0388",
+      "Product Name": "LINANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/linanaes-2-seat-sofa-vissle-beige-10499975/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linanaes-2-seat-sofa-vissle-beige__0972125_pe811545_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21990
+    },
+    {
+      "Product ID": "A-0389",
+      "Product Name": "SOTENÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/sotenaes-armchair-hakebo-red-90581914/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sotenaes-armchair-hakebo-red__1322509_pe942197_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21990
+    },
+    {
+      "Product ID": "A-0390",
+      "Product Name": "GAMMALBYN",
+      "Product URL": "https://www.ikea.com/in/en/p/gammalbyn-2-seat-sofa-black-60501834/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gammalbyn-2-seat-sofa-black__1030886_pe836420_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21990
+    },
+    {
+      "Product ID": "A-0391",
+      "Product Name": "EKTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/ektorp-2-seat-sofa-kilanda-light-beige-s29509026/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ektorp-2-seat-sofa-kilanda-light-beige__1194833_pe902081_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-0392",
+      "Product Name": "HAVBERG",
+      "Product URL": "https://www.ikea.com/in/en/p/havberg-swivel-easy-chair-lejde-red-brown-30526039/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/havberg-swivel-easy-chair-lejde-red-brown__1019876_pe831634_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-0393",
+      "Product Name": "KLIPPAN",
+      "Product URL": "https://www.ikea.com/in/en/p/klippan-2-seat-sofa-vissle-grey-s49010615/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/klippan-2-seat-sofa-vissle-grey__0239990_pe379591_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23990
+    },
+    {
+      "Product ID": "A-0394",
+      "Product Name": "LINANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/linanaes-3-seat-sofa-vissle-beige-90512237/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linanaes-3-seat-sofa-vissle-beige__1013894_pe829446_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-0395",
+      "Product Name": "ROCKSJÖN",
+      "Product URL": "https://www.ikea.com/in/en/p/rocksjoen-2-seat-sofa-kilanda-light-beige-s39508861/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rocksjoen-2-seat-sofa-kilanda-light-beige__1247376_pe922644_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-0396",
+      "Product Name": "NYHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/nyhamn-3-seat-sofa-bed-with-foam-mattress-knisa-grey-beige-s19306369/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nyhamn-3-seat-sofa-bed-with-foam-mattress-knisa-grey-beige__0767330_pe754069_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-0397",
+      "Product Name": "KIVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/kivik-chaise-longue-tresund-light-beige-s89482887/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kivik-chaise-longue-tresund-light-beige__1124088_pe875004_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25000
+    },
+    {
+      "Product ID": "A-0398",
+      "Product Name": "STRANDMON",
+      "Product URL": "https://www.ikea.com/in/en/p/strandmon-armchair-and-footstool-nordvalla-dark-grey-s69487862/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/strandmon-armchair-and-footstool-nordvalla-dark-grey__1094843_pe863646_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 25980
+    },
+    {
+      "Product ID": "A-0399",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-cover-3-seat-sofa-w-chaise-longue-with-wide-armrests-gunnared-medium-grey-s69401137/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-cover-3-seat-sofa-w-chaise-longue-with-wide-armrests-gunnared-medium-grey__0781586_pe760892_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 26000
+    },
+    {
+      "Product ID": "A-0400",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-1-seat-section-viarp-beige-brown-s09305662/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-1-seat-section-viarp-beige-brown__0802778_pe768589_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 28000
+    },
+    {
+      "Product ID": "A-0401",
+      "Product Name": "EKTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/ektorp-3-seat-sofa-kilanda-dark-blue-s09509008/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ektorp-3-seat-sofa-kilanda-dark-blue__1194843_pe902111_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0402",
+      "Product Name": "GAMMALBYN",
+      "Product URL": "https://www.ikea.com/in/en/p/gammalbyn-3-seat-sofa-gunnared-dark-grey-00638774/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-gunnared-dark-grey__1503339_pe1007848_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0403",
+      "Product Name": "SKÖNABÄCK",
+      "Product URL": "https://www.ikea.com/in/en/p/skoenabaeck-2-seat-sofa-bed-knisa-dark-grey-00582545/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skoenabaeck-2-seat-sofa-bed-knisa-dark-grey__1360572_pe954478_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0404",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-chaise-longue-viarp-beige-brown-s69305621/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-chaise-longue-viarp-beige-brown__0802369_pe768433_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32000
+    },
+    {
+      "Product ID": "A-0405",
+      "Product Name": "KIVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/kivik-2-seat-sofa-tibbleby-beige-grey-s19440594/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kivik-2-seat-sofa-tibbleby-beige-grey__1056142_pe848270_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32990
+    },
+    {
+      "Product ID": "A-0406",
+      "Product Name": "MANNARP",
+      "Product URL": "https://www.ikea.com/in/en/p/mannarp-3-seat-sofa-saxemara-black-blue-s79604040/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/mannarp-3-seat-sofa-saxemara-black-blue__1446811_pe988706_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0407",
+      "Product Name": "LINDÅKRA",
+      "Product URL": "https://www.ikea.com/in/en/p/lindakra-2-seat-sofa-bed-vissle-dark-grey-40582614/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lindakra-2-seat-sofa-bed-vissle-dark-grey__1360552_pe954473_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0408",
+      "Product Name": "EKHOLMA",
+      "Product URL": "https://www.ikea.com/in/en/p/ekholma-2-seat-sofa-kilanda-light-beige-s09537407/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ekholma-2-seat-sofa-kilanda-light-beige__1376262_pe960437_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0409",
+      "Product Name": "KIVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/kivik-3-seat-sofa-tibbleby-beige-grey-s59440592/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kivik-3-seat-sofa-tibbleby-beige-grey__1056144_pe848277_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 35990
+    },
+    {
+      "Product ID": "A-0410",
+      "Product Name": "LINANÄS",
+      "Product URL": "https://www.ikea.com/in/en/p/linanaes-3-seat-sofa-with-chaise-longue-vissle-beige-50512239/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/linanaes-3-seat-sofa-with-chaise-longue-vissle-beige__1013903_pe829455_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 35990
+    },
+    {
+      "Product ID": "A-0411",
+      "Product Name": "LILLEHEM",
+      "Product URL": "https://www.ikea.com/in/en/p/lillehem-2-seat-modular-sofa-vissle-beige-metal-s99471280/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lillehem-2-seat-modular-sofa-vissle-beige-metal__1247111_pe922521_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 37000
+    },
+    {
+      "Product ID": "A-0412",
+      "Product Name": "EKTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/ektorp-3-seat-sofa-with-chaise-longue-kilanda-light-beige-s19509041/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ektorp-3-seat-sofa-with-chaise-longue-kilanda-light-beige__1194849_pe902099_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 37990
+    },
+    {
+      "Product ID": "A-0413",
+      "Product Name": "EKHOLMA",
+      "Product URL": "https://www.ikea.com/in/en/p/ekholma-3-seat-sofa-kilanda-light-beige-s39537420/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/ekholma-3-seat-sofa-kilanda-light-beige__1360617_pe954528_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 37990
+    },
+    {
+      "Product ID": "A-0414",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-3-seat-section-saxemara-black-blue-s99392476/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-3-seat-section-saxemara-black-blue__0949321_pe799639_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 38990
+    },
+    {
+      "Product ID": "A-0415",
+      "Product Name": "PÄRUP",
+      "Product URL": "https://www.ikea.com/in/en/p/paerup-2-seat-sofa-bed-vissle-yellow-brown-s79514191/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/paerup-2-seat-sofa-bed-vissle-yellow-brown__1213966_pe911441_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 39990
+    },
+    {
+      "Product ID": "A-0416",
+      "Product Name": "SALTSJÖBADEN",
+      "Product URL": "https://www.ikea.com/in/en/p/saltsjoebaden-3-seat-sofa-tonerud-red-brown-s49579198/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/saltsjoebaden-3-seat-sofa-tonerud-red-brown__1421463_pe977659_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 41990
+    },
+    {
+      "Product ID": "A-0417",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-3-seat-section-fridtuna-light-beige-s79449643/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-3-seat-section-fridtuna-light-beige__1057705_pe848919_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42090
+    },
+    {
+      "Product ID": "A-0418",
+      "Product Name": "SALTSJÖBADEN",
+      "Product URL": "https://www.ikea.com/in/en/p/saltsjoebaden-2-seat-sofa-fridtuna-light-beige-s39622512/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/saltsjoebaden-2-seat-sofa-fridtuna-light-beige__1498167_pe1006214_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42990
+    },
+    {
+      "Product ID": "A-0419",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-2-seat-sofa-saxemara-light-blue-s89399020/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-2-seat-sofa-saxemara-light-blue__0949423_pe799729_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 44990
+    },
+    {
+      "Product ID": "A-0420",
+      "Product Name": "FRIHETEN",
+      "Product URL": "https://www.ikea.com/in/en/p/friheten-3-seat-sofa-bed-faringe-light-grey-40551226/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/friheten-3-seat-sofa-bed-faringe-light-grey__1320694_pe941315_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 49990
+    },
+    {
+      "Product ID": "A-0421",
+      "Product Name": "GAMMALBYN",
+      "Product URL": "https://www.ikea.com/in/en/p/gammalbyn-3-seat-sofa-bed-gunnared-dark-grey-50638781/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gammalbyn-3-seat-sofa-bed-gunnared-dark-grey__1503134_pe1007798_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 49990
+    },
+    {
+      "Product ID": "A-0422",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-3-seat-sofa-fridtuna-dark-grey-s19449622/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-3-seat-sofa-fridtuna-dark-grey__1057767_pe848961_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 51990
+    },
+    {
+      "Product ID": "A-0423",
+      "Product Name": "FRIHETEN",
+      "Product URL": "https://www.ikea.com/in/en/p/friheten-corner-sofa-bed-with-storage-skiftebo-dark-grey-s09216755/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/friheten-corner-sofa-bed-with-storage-skiftebo-dark-grey__0175610_pe328883_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 54990
+    },
+    {
+      "Product ID": "A-0424",
+      "Product Name": "BÅRSLÖV",
+      "Product URL": "https://www.ikea.com/in/en/p/barsloev-3-seat-sofa-bed-tibbleby-light-grey-turquoise-10541583/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/barsloev-3-seat-sofa-bed-tibbleby-light-grey-turquoise__1344859_pe949940_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 54990
+    },
+    {
+      "Product ID": "A-0425",
+      "Product Name": "KIVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/kivik-3-seat-sofa-with-chaise-longue-tibbleby-beige-grey-s19440589/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kivik-3-seat-sofa-with-chaise-longue-tibbleby-beige-grey__1056147_pe848280_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 57990
+    },
+    {
+      "Product ID": "A-0426",
+      "Product Name": "HYLTARP",
+      "Product URL": "https://www.ikea.com/in/en/p/hyltarp-3-seat-sofa-hallarp-white-s29489641/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hyltarp-3-seat-sofa-hallarp-white__1193806_pe901633_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 57990
+    },
+    {
+      "Product ID": "A-0427",
+      "Product Name": "NÄMMARÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/naemmaroe-modular-corner-sofa-3-seat-outdoor-light-brown-stained-froesoen-duvholmen-beige-s39585821/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/naemmaroe-modular-corner-sofa-3-seat-outdoor-light-brown-stained-froesoen-duvholmen-beige__1213447_pe911141_s5.jpg?f=xxs",
+      "Dimensions": "260x148x108 cm",
+      "Price": 58000
+    },
+    {
+      "Product ID": "A-0428",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-3-seat-sofa-with-wide-armrests-hallarp-beige-s39401431/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-3-seat-sofa-with-wide-armrests-hallarp-beige__1029990_pe836077_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 58990
+    },
+    {
+      "Product ID": "A-0429",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-3-seat-sofa-with-open-end-fridtuna-light-beige-s59449696/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-3-seat-sofa-with-open-end-fridtuna-light-beige__1057780_pe848970_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 59000
+    },
+    {
+      "Product ID": "A-0430",
+      "Product Name": "BÅRSLÖV",
+      "Product URL": "https://www.ikea.com/in/en/p/barsloev-3-seat-sofa-bed-with-chaise-longue-tibbleby-light-grey-turquoise-30541577/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/barsloev-3-seat-sofa-bed-with-chaise-longue-tibbleby-light-grey-turquoise__1344846_pe949936_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 59990
+    },
+    {
+      "Product ID": "A-0431",
+      "Product Name": "LANDSKRONA",
+      "Product URL": "https://www.ikea.com/in/en/p/landskrona-2-seat-sofa-gunnared-dark-grey-wood-s29270280/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/landskrona-2-seat-sofa-gunnared-dark-grey-wood__0602101_pe680170_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 59990
+    },
+    {
+      "Product ID": "A-0432",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-3-seat-sofa-gunnared-medium-grey-s99399029/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-3-seat-sofa-gunnared-medium-grey__0514368_pe639441_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 60990
+    },
+    {
+      "Product ID": "A-0433",
+      "Product Name": "FRIHETEN / KLAGSHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/friheten-klagshamn-corner-sofa-bed-with-storage-skiftebo-dark-grey-s49444331/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/friheten-klagshamn-corner-sofa-bed-with-storage-skiftebo-dark-grey__1057056_pe848725_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 62386
+    },
+    {
+      "Product ID": "A-0434",
+      "Product Name": "LILLEHEM",
+      "Product URL": "https://www.ikea.com/in/en/p/lillehem-4-seat-modular-sofa-s19536054/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lillehem-4-seat-modular-sofa__1247151_pe922551_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 64000
+    },
+    {
+      "Product ID": "A-0435",
+      "Product Name": "KIVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/kivik-4-seat-sofa-with-chaise-longue-tresund-light-beige-s39494388/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kivik-4-seat-sofa-with-chaise-longue-tresund-light-beige__1125141_pe875384_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 68990
+    },
+    {
+      "Product ID": "A-0436",
+      "Product Name": "LILLEHEM",
+      "Product URL": "https://www.ikea.com/in/en/p/lillehem-3-seat-modular-sofa-w-chaise-longue-s89570407/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lillehem-3-seat-modular-sofa-w-chaise-longue__1324801_pe943608_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 69500
+    },
+    {
+      "Product ID": "A-0437",
+      "Product Name": "LANDSKRONA",
+      "Product URL": "https://www.ikea.com/in/en/p/landskrona-3-seat-sofa-gunnared-light-green-wood-s19270327/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/landskrona-3-seat-sofa-gunnared-light-green-wood__0602122_pe680191_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 69990
+    },
+    {
+      "Product ID": "A-0438",
+      "Product Name": "ÄPPLARYD",
+      "Product URL": "https://www.ikea.com/in/en/p/aepplaryd-2-seat-sofa-djuparp-red-brown-10504284/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aepplaryd-2-seat-sofa-djuparp-red-brown__0992861_pe820288_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 69990
+    },
+    {
+      "Product ID": "A-0439",
+      "Product Name": "ÄPPLARYD",
+      "Product URL": "https://www.ikea.com/in/en/p/aepplaryd-3-seat-sofa-lejde-light-grey-30506244/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aepplaryd-3-seat-sofa-lejde-light-grey__0992909_pe820327_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 78990
+    },
+    {
+      "Product ID": "A-0440",
+      "Product Name": "HYLTARP",
+      "Product URL": "https://www.ikea.com/in/en/p/hyltarp-3-seat-sofa-w-chaise-longue-left-gransel-natural-s59489687/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hyltarp-3-seat-sofa-w-chaise-longue-left-gransel-natural__1193846_pe901657_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 79990
+    },
+    {
+      "Product ID": "A-0441",
+      "Product Name": "STOCKHOLM 2025",
+      "Product URL": "https://www.ikea.com/in/en/p/stockholm-2025-2-seat-sofa-alhamn-dark-brown-70591749/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stockholm-2025-2-seat-sofa-alhamn-dark-brown__1362730_pe955307_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 79990
+    },
+    {
+      "Product ID": "A-0442",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-4-seat-sofa-with-chaise-longue-and-open-end-viarp-beige-brown-s69305819/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-4-seat-sofa-with-chaise-longue-and-open-end-viarp-beige-brown__0802723_pe768561_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 82540
+    },
+    {
+      "Product ID": "A-0443",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-corner-sofa-3-seat-fridtuna-light-beige-s59449658/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-corner-sofa-3-seat-fridtuna-light-beige__1057725_pe848937_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 84000
+    },
+    {
+      "Product ID": "A-0444",
+      "Product Name": "VIMLE",
+      "Product URL": "https://www.ikea.com/in/en/p/vimle-4-seat-sofa-with-chaise-longue-hallarp-grey-s69399511/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vimle-4-seat-sofa-with-chaise-longue-hallarp-grey__0949535_pe799809_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 86990
+    },
+    {
+      "Product ID": "A-0445",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-4-seat-sofa-with-chaise-longue-viarp-beige-brown-s49395019/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-4-seat-sofa-with-chaise-longue-viarp-beige-brown__0928882_pe790044_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 87990
+    },
+    {
+      "Product ID": "A-0446",
+      "Product Name": "VISKAFORS",
+      "Product URL": "https://www.ikea.com/in/en/p/viskafors-2-seat-sofa-lejde-light-beige-birch-s89443216/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/viskafors-2-seat-sofa-lejde-light-beige-birch__1088067_pe861042_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 89990
+    },
+    {
+      "Product ID": "A-0447",
+      "Product Name": "LANDSKRONA",
+      "Product URL": "https://www.ikea.com/in/en/p/landskrona-3-seat-sofa-with-chaise-longue-gunnared-light-green-wood-s49272688/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/landskrona-3-seat-sofa-with-chaise-longue-gunnared-light-green-wood__0602395_pe680328_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 93490
+    },
+    {
+      "Product ID": "A-0448",
+      "Product Name": "LILLEHEM",
+      "Product URL": "https://www.ikea.com/in/en/p/lillehem-6-seat-modular-sofa-s69536202/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/lillehem-6-seat-modular-sofa__1247053_pe922451_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 96000
+    },
+    {
+      "Product ID": "A-0449",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-corner-sofa-4-seat-with-open-end-tonerud-grey-s99452074/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-corner-sofa-4-seat-with-open-end-tonerud-grey__1057824_pe849005_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 98540
+    },
+    {
+      "Product ID": "A-0450",
+      "Product Name": "VISKAFORS",
+      "Product URL": "https://www.ikea.com/in/en/p/viskafors-3-seat-sofa-lejde-light-beige-brown-s79443373/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/viskafors-3-seat-sofa-lejde-light-beige-brown__1088069_pe861044_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 99990
+    },
+    {
+      "Product ID": "A-0451",
+      "Product Name": "JÄTTEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/jaettebo-3-seat-modular-sofa-samsala-dark-blue-s49617628/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jaettebo-3-seat-modular-sofa-samsala-dark-blue__1448011_pe989427_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 109000
+    },
+    {
+      "Product ID": "A-0452",
+      "Product Name": "STOCKHOLM 2025",
+      "Product URL": "https://www.ikea.com/in/en/p/stockholm-2025-3-seat-sofa-alhamn-beige-s89574293/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stockholm-2025-3-seat-sofa-alhamn-beige__1362835_pe955331_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 109890
+    },
+    {
+      "Product ID": "A-0453",
+      "Product Name": "LANDSKRONA",
+      "Product URL": "https://www.ikea.com/in/en/p/landskrona-4-seat-sofa-with-chaise-longue-djuparp-dark-blue-wood-s89420502/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/landskrona-4-seat-sofa-with-chaise-longue-djuparp-dark-blue-wood__0990567_pe819061_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 110490
+    },
+    {
+      "Product ID": "A-0454",
+      "Product Name": "ÄPPLARYD",
+      "Product URL": "https://www.ikea.com/in/en/p/aepplaryd-4-seat-sofa-with-chaise-longue-lejde-light-grey-s19429539/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/aepplaryd-4-seat-sofa-with-chaise-longue-lejde-light-grey__1010450_pe828073_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 120990
+    },
+    {
+      "Product ID": "A-0455",
+      "Product Name": "SÖDERHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/soederhamn-corner-sofa-6-seat-fridtuna-light-beige-s49449668/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/soederhamn-corner-sofa-6-seat-fridtuna-light-beige__1057738_pe848945_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 128080
+    },
+    {
+      "Product ID": "A-0456",
+      "Product Name": "LANDSKRONA",
+      "Product URL": "https://www.ikea.com/in/en/p/landskrona-5-seat-sofa-with-chaise-longues-gunnared-dark-grey-metal-s49269978/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/landskrona-5-seat-sofa-with-chaise-longues-gunnared-dark-grey-metal__0602494_pe680402_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 136990
+    },
+    {
+      "Product ID": "A-0457",
+      "Product Name": "STOCKHOLM 2025",
+      "Product URL": "https://www.ikea.com/in/en/p/stockholm-2025-4-seat-sofa-alhamn-beige-s49574308/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/stockholm-2025-4-seat-sofa-alhamn-beige__1362840_pe955335_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 139790
+    },
+    {
+      "Product ID": "A-0458",
+      "Product Name": "JÄTTEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/jaettebo-4-seat-mod-sofa-w-chaise-longue-right-with-headrest-samsala-dark-yellow-green-s19510836/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jaettebo-4-seat-mod-sofa-w-chaise-longue-right-with-headrest-samsala-dark-yellow-green__1179846_pe896116_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 168000
+    },
+    {
+      "Product ID": "A-0459",
+      "Product Name": "JÄTTEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/jaettebo-4-5-seat-mod-sofa-w-chaise-longue-right-samsala-dark-yellow-green-s89471394/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jaettebo-4-5-seat-mod-sofa-w-chaise-longue-right-samsala-dark-yellow-green__1109600_pe870091_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 182500
+    },
+    {
+      "Product ID": "A-0460",
+      "Product Name": "JÄTTEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/jaettebo-modular-corner-sofa-6-seat-samsala-dark-yellow-green-s09485248/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jaettebo-modular-corner-sofa-6-seat-samsala-dark-yellow-green__1109619_pe870109_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 239500
+    },
+    {
+      "Product ID": "A-0461",
+      "Product Name": "JÄTTEBO",
+      "Product URL": "https://www.ikea.com/in/en/p/jaettebo-u-shaped-sofa-7-seat-with-chaise-longue-right-with-headrests-samsala-grey-beige-s49510613/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jaettebo-u-shaped-sofa-7-seat-with-chaise-longue-right-with-headrests-samsala-grey-beige__1179838_pe896111_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 302500
+    }
+  ]
+}

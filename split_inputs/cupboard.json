@@ -1,0 +1,905 @@
+{
+  "originalQuery": "cupboard",
+  "products": [
+    {
+      "Product ID": "A-0101",
+      "Product Name": "KLEPPSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/kleppstad-shelf-white-40449516/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kleppstad-shelf-white__0753593_pe748774_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 900
+    },
+    {
+      "Product ID": "A-0102",
+      "Product Name": "VUKU",
+      "Product URL": "https://www.ikea.com/in/en/p/vuku-wardrobe-white-10339331/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vuku-wardrobe-white__0498088_pe629449_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 1590
+    },
+    {
+      "Product ID": "A-0103",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-wardrobe-combination-white-s29311493/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-wardrobe-combination-white__0754738_pe748072_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 2200
+    },
+    {
+      "Product ID": "A-0104",
+      "Product Name": "GURSKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/gursken-wardrobe-light-beige-50503292/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gursken-wardrobe-light-beige__0923964_pe788459_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 7990
+    },
+    {
+      "Product ID": "A-0105",
+      "Product Name": "JONAXEL",
+      "Product URL": "https://www.ikea.com/in/en/p/jonaxel-wardrobe-combination-white-s89297658/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/jonaxel-wardrobe-combination-white__0703635_pe732230_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9380
+    },
+    {
+      "Product ID": "A-0106",
+      "Product Name": "KLEPPSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/kleppstad-wardrobe-with-2-doors-white-10437237/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kleppstad-wardrobe-with-2-doors-white__0733324_pe748781_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0107",
+      "Product Name": "GODISHUS",
+      "Product URL": "https://www.ikea.com/in/en/p/godishus-wardrobe-white-30433484/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/godishus-wardrobe-white__0721180_pe735622_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 9990
+    },
+    {
+      "Product ID": "A-0108",
+      "Product Name": "RAKKESTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/rakkestad-wardrobe-with-2-doors-black-brown-30453759/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rakkestad-wardrobe-with-2-doors-black-brown__0780372_pe760493_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 10990
+    },
+    {
+      "Product ID": "A-0109",
+      "Product Name": "KLEPPSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/kleppstad-wardrobe-with-3-doors-white-80441759/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kleppstad-wardrobe-with-3-doors-white__0753594_pe748782_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0110",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-wardrobe-with-2-doors-white-20400479/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-wardrobe-with-2-doors-white__0140624_pe300605_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 11990
+    },
+    {
+      "Product ID": "A-0111",
+      "Product Name": "SMÅGÖRA",
+      "Product URL": "https://www.ikea.com/in/en/p/smagoera-wardrobe-white-30460892/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/smagoera-wardrobe-white__0772938_pe756155_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 12990
+    },
+    {
+      "Product ID": "A-0112",
+      "Product Name": "PAX / ÅHEIM",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-aheim-wardrobe-combination-white-mirror-glass-s19336154/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-aheim-wardrobe-combination-white-mirror-glass__0914282_pe783899_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 13900
+    },
+    {
+      "Product ID": "A-0113",
+      "Product Name": "KLEPPSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/kleppstad-wardrobe-with-sliding-doors-white-30437241/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/kleppstad-wardrobe-with-sliding-doors-white__0823547_pe775917_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0114",
+      "Product Name": "SUNDVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/sundvik-wardrobe-white-20368832/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/sundvik-wardrobe-white__0626568_pe692872_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0115",
+      "Product Name": "RAKKESTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/rakkestad-wardrobe-with-3-doors-black-brown-30453764/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rakkestad-wardrobe-with-3-doors-black-brown__0823987_pe776018_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 14990
+    },
+    {
+      "Product ID": "A-0116",
+      "Product Name": "BRIMNES",
+      "Product URL": "https://www.ikea.com/in/en/p/brimnes-wardrobe-with-3-doors-white-10407928/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/brimnes-wardrobe-with-3-doors-white__0176787_pe329567_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 15990
+    },
+    {
+      "Product ID": "A-0117",
+      "Product Name": "RAKKESTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/rakkestad-wardrobe-with-sliding-doors-black-brown-40453768/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/rakkestad-wardrobe-with-sliding-doors-black-brown__0823992_pe776023_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 16990
+    },
+    {
+      "Product ID": "A-0118",
+      "Product Name": "NODELAND",
+      "Product URL": "https://www.ikea.com/in/en/p/nodeland-wardrobe-with-3-doors-medium-brown-40417092/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/nodeland-wardrobe-with-3-doors-medium-brown__0836933_pe778609_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 17990
+    },
+    {
+      "Product ID": "A-0119",
+      "Product Name": "SONGESAND",
+      "Product URL": "https://www.ikea.com/in/en/p/songesand-wardrobe-brown-40375134/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/songesand-wardrobe-brown__0555114_pe660180_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 19990
+    },
+    {
+      "Product ID": "A-0120",
+      "Product Name": "PAX / BERGSBO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-bergsbo-wardrobe-white-white-s49500633/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-bergsbo-wardrobe-white-white__1153750_pe885811_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 20500
+    },
+    {
+      "Product ID": "A-0121",
+      "Product Name": "PAX / FLISBERGET",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-flisberget-wardrobe-white-light-beige-s39480310/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-flisberget-wardrobe-white-light-beige__1080350_pe857984_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21400
+    },
+    {
+      "Product ID": "A-0122",
+      "Product Name": "PAX / GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-wardrobe-combination-white-grey-green-s99579228/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-wardrobe-combination-white-grey-green__1424485_pe979291_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21500
+    },
+    {
+      "Product ID": "A-0123",
+      "Product Name": "PAX / FLISBERGET",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-flisberget-wardrobe-white-light-beige-s19500658/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-flisberget-wardrobe-white-light-beige__1153762_pe885823_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 21700
+    },
+    {
+      "Product ID": "A-0124",
+      "Product Name": "HAUGA",
+      "Product URL": "https://www.ikea.com/in/en/p/hauga-wardrobe-with-sliding-doors-white-40456917/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/hauga-wardrobe-with-sliding-doors-white__0898797_pe782657_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 22990
+    },
+    {
+      "Product ID": "A-0125",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-white-white-s89500650/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-white-white__1153759_pe885817_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 23700
+    },
+    {
+      "Product ID": "A-0126",
+      "Product Name": "MUSKEN",
+      "Product URL": "https://www.ikea.com/in/en/p/musken-wardrobe-with-2-doors-3-drawers-brown-70378683/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/musken-wardrobe-with-2-doors-3-drawers-brown__0179835_pe332005_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-0127",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-wardrobe-with-2-doors-white-40483256/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-wardrobe-with-2-doors-white__1070907_pe854805_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 24990
+    },
+    {
+      "Product ID": "A-0128",
+      "Product Name": "RÅDMANSÖ",
+      "Product URL": "https://www.ikea.com/in/en/p/radmansoe-wardrobe-brown-walnut-effect-70593828/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/radmansoe-wardrobe-brown-walnut-effect__1384140_pe962861_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 29990
+    },
+    {
+      "Product ID": "A-0129",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-white-white-s49030128/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-white-white__0258419_pe402285_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30000
+    },
+    {
+      "Product ID": "A-0130",
+      "Product Name": "PAX / FORSAND/ÅHEIM",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-aheim-wardrobe-combination-white-mirror-glass-s69431177/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-aheim-wardrobe-combination-white-mirror-glass__0928647_pe789945_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30036
+    },
+    {
+      "Product ID": "A-0131",
+      "Product Name": "PAX / FARDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-wardrobe-combination-white-high-gloss-light-orange-s79590793/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-wardrobe-combination-white-high-gloss-light-orange__1409969_pe972437_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30300
+    },
+    {
+      "Product ID": "A-0132",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-combination-grey-beige-grey-beige-s99429724/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-combination-grey-beige-grey-beige__1030181_pe836174_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30300
+    },
+    {
+      "Product ID": "A-0133",
+      "Product Name": "PAX / STORKLINTA",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect-s29562599/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect__1365111_pe956172_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 30700
+    },
+    {
+      "Product ID": "A-0134",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-combination-white-white-s69481898/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-combination-white-white__1085525_pe860132_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 31100
+    },
+    {
+      "Product ID": "A-0135",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-white-grey-s99562987/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-white-grey__1364692_pe955971_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 31300
+    },
+    {
+      "Product ID": "A-0136",
+      "Product Name": "PAX / KAMMARTORP",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-kammartorp-wardrobe-combination-white-mirror-glass-grey-s59572422/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-kammartorp-wardrobe-combination-white-mirror-glass-grey__1405758_pe970570_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 31800
+    },
+    {
+      "Product ID": "A-0137",
+      "Product Name": "PAX",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-wardrobe-white-s09128565/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-wardrobe-white__0383291_pe557275_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 31900
+    },
+    {
+      "Product ID": "A-0138",
+      "Product Name": "PAX / GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-corner-wardrobe-white-white-s79218510/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-corner-wardrobe-white-white__0626011_pe692559_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32500
+    },
+    {
+      "Product ID": "A-0139",
+      "Product Name": "GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/gullaberg-wardrobe-white-90573952/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/gullaberg-wardrobe-white__1384133_pe962851_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 32990
+    },
+    {
+      "Product ID": "A-0140",
+      "Product Name": "PAX / HASVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-hasvik-wardrobe-white-white-s19429756/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-hasvik-wardrobe-white-white__1190098_pe900086_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 33000
+    },
+    {
+      "Product ID": "A-0141",
+      "Product Name": "PAX / BERGSBO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-bergsbo-wardrobe-combination-white-white-s49500690/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-bergsbo-wardrobe-combination-white-white__1153773_pe885830_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34000
+    },
+    {
+      "Product ID": "A-0142",
+      "Product Name": "PAX",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-wardrobe-white-s69227874/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-wardrobe-white__0563729_pe663962_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34550
+    },
+    {
+      "Product ID": "A-0143",
+      "Product Name": "VISTHUS",
+      "Product URL": "https://www.ikea.com/in/en/p/visthus-wardrobe-grey-white-30347617/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/visthus-wardrobe-grey-white__0592302_pe674454_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 34990
+    },
+    {
+      "Product ID": "A-0144",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-white-white-s49501034/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-white-white__1153785_pe885845_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 36200
+    },
+    {
+      "Product ID": "A-0145",
+      "Product Name": "PAX / ÅHEIM",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-aheim-wardrobe-combination-white-mirror-glass-s69429749/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-aheim-wardrobe-combination-white-mirror-glass__1024718_pe833643_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 36300
+    },
+    {
+      "Product ID": "A-0146",
+      "Product Name": "PAX / AULI",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-auli-wardrobe-with-sliding-doors-white-mirror-glass-s39561349/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-auli-wardrobe-with-sliding-doors-white-mirror-glass__1149172_pe883871_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 37200
+    },
+    {
+      "Product ID": "A-0147",
+      "Product Name": "PAX / FORSAND/ÅHEIM",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-aheim-wardrobe-combination-white-mirror-glass-s89553648/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-aheim-wardrobe-combination-white-mirror-glass__1287173_pe933877_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 39400
+    },
+    {
+      "Product ID": "A-0148",
+      "Product Name": "PAX / GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-wardrobe-combination-white-white-s89478098/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-wardrobe-combination-white-white__1080153_pe857919_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 39500
+    },
+    {
+      "Product ID": "A-0149",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-combination-dark-grey-dark-grey-oak-effect-s89607260/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-combination-dark-grey-dark-grey-oak-effect__1443357_pe987129_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40300
+    },
+    {
+      "Product ID": "A-0150",
+      "Product Name": "PAX / GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-wardrobe-combination-white-white-s49429731/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-wardrobe-combination-white-white__1024715_pe833640_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40400
+    },
+    {
+      "Product ID": "A-0151",
+      "Product Name": "PAX / KAMMARTORP/GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-kammartorp-grimo-wardrobe-combination-dark-grey-mirror-glass-grey-green-s69579258/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-kammartorp-grimo-wardrobe-combination-dark-grey-mirror-glass-grey-green__1405996_pe970725_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 40800
+    },
+    {
+      "Product ID": "A-0152",
+      "Product Name": "PAX / BERGSBO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-bergsbo-wardrobe-white-white-s59244925/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-bergsbo-wardrobe-white-white__0258313_pe402253_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 41400
+    },
+    {
+      "Product ID": "A-0153",
+      "Product Name": "PAX / BERGSBO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-bergsbo-wardrobe-combination-white-frosted-glass-white-s29480278/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-bergsbo-wardrobe-combination-white-frosted-glass-white__1080343_pe857979_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 41900
+    },
+    {
+      "Product ID": "A-0154",
+      "Product Name": "PAX / MEHAMN/AULI",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-mehamn-auli-wardrobe-with-sliding-doors-white-double-sided-light-green-mirror-glass-s49551731/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-mehamn-auli-wardrobe-with-sliding-doors-white-double-sided-light-green-mirror-glass__1293634_pe935232_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42100
+    },
+    {
+      "Product ID": "A-0155",
+      "Product Name": "PAX / FARDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-wardrobe-combination-white-high-gloss-light-orange-s59590807/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-wardrobe-combination-white-high-gloss-light-orange__1409981_pe972440_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 42700
+    },
+    {
+      "Product ID": "A-0156",
+      "Product Name": "VIHALS",
+      "Product URL": "https://www.ikea.com/in/en/p/vihals-wardrobe-combination-white-mirror-glass-s99442184/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/vihals-wardrobe-combination-white-mirror-glass__1177293_pe895284_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 44980
+    },
+    {
+      "Product ID": "A-0157",
+      "Product Name": "PAX / AULI",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-auli-wardrobe-with-sliding-doors-white-mirror-glass-s79561309/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-auli-wardrobe-with-sliding-doors-white-mirror-glass__1030195_pe836181_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 45400
+    },
+    {
+      "Product ID": "A-0158",
+      "Product Name": "PAX / HASVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-hasvik-wardrobe-dark-grey-dark-grey-s79435981/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-hasvik-wardrobe-dark-grey-dark-grey__1119873_pe873634_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 45500
+    },
+    {
+      "Product ID": "A-0159",
+      "Product Name": "PAX / GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-wardrobe-combination-white-white-s79432973/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-wardrobe-combination-white-white__1190126_pe900109_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 47900
+    },
+    {
+      "Product ID": "A-0160",
+      "Product Name": "PAX / KAMMARTORP/GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-kammartorp-grimo-wardrobe-combination-dark-grey-mirror-glass-grey-green-s69579263/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-kammartorp-grimo-wardrobe-combination-dark-grey-mirror-glass-grey-green__1406000_pe970727_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 47900
+    },
+    {
+      "Product ID": "A-0161",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-combination-grey-beige-grey-beige-oak-effect-s59607054/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-combination-grey-beige-grey-beige-oak-effect__1443282_pe987101_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 49000
+    },
+    {
+      "Product ID": "A-0162",
+      "Product Name": "PAX / MEHAMN/AULI",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-mehamn-auli-wardrobe-combination-dark-grey-double-sided-dark-grey-mirror-glass-s39561368/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-mehamn-auli-wardrobe-combination-dark-grey-double-sided-dark-grey-mirror-glass__1038496_pe839699_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 49400
+    },
+    {
+      "Product ID": "A-0163",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-combination-dark-grey-dark-grey-oak-effect-s09606924/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-combination-dark-grey-dark-grey-oak-effect__1442992_pe986997_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 53000
+    },
+    {
+      "Product ID": "A-0164",
+      "Product Name": "PAX / MEHAMN",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-mehamn-wardrobe-combination-dark-grey-double-sided-dark-grey-s89432369/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-mehamn-wardrobe-combination-dark-grey-double-sided-dark-grey__1038486_pe839698_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 54800
+    },
+    {
+      "Product ID": "A-0165",
+      "Product Name": "PAX / BERGSBO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-bergsbo-wardrobe-combination-dark-grey-dark-grey-oak-effect-s49607399/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-bergsbo-wardrobe-combination-dark-grey-dark-grey-oak-effect__1444015_pe987291_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 55100
+    },
+    {
+      "Product ID": "A-0166",
+      "Product Name": "PAX / VIKANES",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-vikanes-wardrobe-combination-white-white-s29393403/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-vikanes-wardrobe-combination-white-white__0955348_pe803768_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 56000
+    },
+    {
+      "Product ID": "A-0167",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-white-grey-s39563046/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-white-grey__1364723_pe955986_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 57000
+    },
+    {
+      "Product ID": "A-0168",
+      "Product Name": "PAX / KAMMARTORP/GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-kammartorp-grimo-wardrobe-combination-white-mirror-glass-grey-grey-green-s09578493/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-kammartorp-grimo-wardrobe-combination-white-mirror-glass-grey-grey-green__1405980_pe970707_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 57800
+    },
+    {
+      "Product ID": "A-0169",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-white-white-s79561564/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-white-white__1364666_pe955952_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 57900
+    },
+    {
+      "Product ID": "A-0170",
+      "Product Name": "PAX / HASVIK",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-hasvik-wardrobe-combination-dark-grey-dark-grey-oak-effect-s39606970/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-hasvik-wardrobe-combination-dark-grey-dark-grey-oak-effect__1443033_pe987020_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 58600
+    },
+    {
+      "Product ID": "A-0171",
+      "Product Name": "PAX / FLISBERGET",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-flisberget-wardrobe-white-light-beige-s89304338/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-flisberget-wardrobe-white-light-beige__0730832_pe737811_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 59350
+    },
+    {
+      "Product ID": "A-0172",
+      "Product Name": "PAX / STORKLINTA",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect-s99562746/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect__1365156_pe956205_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 59900
+    },
+    {
+      "Product ID": "A-0173",
+      "Product Name": "PAX / FARDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-wardrobe-combination-white-high-gloss-light-orange-s79606930/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-wardrobe-combination-white-high-gloss-light-orange__1410010_pe972462_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 60000
+    },
+    {
+      "Product ID": "A-0174",
+      "Product Name": "PAX / STORKLINTA",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect-s99562567/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect__1365017_pe956147_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 60300
+    },
+    {
+      "Product ID": "A-0175",
+      "Product Name": "PAX / STORKLINTA",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect-s99562794/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect__1365057_pe956153_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 60900
+    },
+    {
+      "Product ID": "A-0176",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-white-white-s89478022/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-white-white__1080484_pe858058_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 61000
+    },
+    {
+      "Product ID": "A-0177",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-white-grey-s49563814/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-white-grey__1364741_pe956002_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 61500
+    },
+    {
+      "Product ID": "A-0178",
+      "Product Name": "PAX / BERGSBO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-bergsbo-wardrobe-combination-grey-beige-grey-beige-oak-effect-s99607090/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-bergsbo-wardrobe-combination-grey-beige-grey-beige-oak-effect__1443286_pe987104_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 62350
+    },
+    {
+      "Product ID": "A-0179",
+      "Product Name": "PAX / FORSAND",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-forsand-wardrobe-combination-dark-grey-dark-grey-s99431326/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-forsand-wardrobe-combination-dark-grey-dark-grey__1152507_pe885394_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 63392
+    },
+    {
+      "Product ID": "A-0180",
+      "Product Name": "PAX / FARDAL/ÅHEIM",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-aheim-wardrobe-combination-white-high-gloss-light-orange-mirror-glass-s29596698/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-aheim-wardrobe-combination-white-high-gloss-light-orange-mirror-glass__1410037_pe972485_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 64400
+    },
+    {
+      "Product ID": "A-0181",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-dark-grey-grey-s89563082/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-dark-grey-grey__1364736_pe955989_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 65800
+    },
+    {
+      "Product ID": "A-0182",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-white-grey-s99563604/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-white-grey__1364811_pe956047_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 66600
+    },
+    {
+      "Product ID": "A-0183",
+      "Product Name": "PAX / KAMMARTORP/GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-kammartorp-gullaberg-wardrobe-combination-white-mirror-glass-grey-s69572582/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-kammartorp-gullaberg-wardrobe-combination-white-mirror-glass-grey__1405968_pe970695_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 66900
+    },
+    {
+      "Product ID": "A-0184",
+      "Product Name": "PAX / TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass-s79549360/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass__1363619_pe955561_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 68200
+    },
+    {
+      "Product ID": "A-0185",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-corner-wardrobe-white-white-s59602594/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-corner-wardrobe-white-white__1445695_pe988319_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 69718
+    },
+    {
+      "Product ID": "A-0186",
+      "Product Name": "PAX / TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass-s49549069/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass__1303968_pe938536_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 70600
+    },
+    {
+      "Product ID": "A-0187",
+      "Product Name": "PAX / GRIMO",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-wardrobe-combination-white-grey-green-s89579281/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-wardrobe-combination-white-grey-green__1424491_pe979294_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 71500
+    },
+    {
+      "Product ID": "A-0188",
+      "Product Name": "PAX / GULLABERG",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-gullaberg-wardrobe-combination-white-grey-s89563708/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-gullaberg-wardrobe-combination-white-grey__1364828_pe956062_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 72400
+    },
+    {
+      "Product ID": "A-0189",
+      "Product Name": "PAX / SVARTISDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-svartisdal-wardrobe-combination-white-white-paper-effect-s79521040/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-svartisdal-wardrobe-combination-white-white-paper-effect__0841100_pe778786_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 72992
+    },
+    {
+      "Product ID": "A-0190",
+      "Product Name": "SKYTTA / SVARTISDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/skytta-svartisdal-sliding-door-combination-black-white-paper-s79549831/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skytta-svartisdal-sliding-door-combination-black-white-paper__1004820_pe825199_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 73000
+    },
+    {
+      "Product ID": "A-0191",
+      "Product Name": "PAX / TYSSEDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-tyssedal-wardrobe-combination-white-white-glass-s89575377/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-tyssedal-wardrobe-combination-white-white-glass__1352354_pe952182_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 73800
+    },
+    {
+      "Product ID": "A-0192",
+      "Product Name": "PAX / TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-s49549309/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer__1304098_pe938652_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 74600
+    },
+    {
+      "Product ID": "A-0193",
+      "Product Name": "PAX / TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass-s99551210/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass__1304144_pe938665_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 80600
+    },
+    {
+      "Product ID": "A-0194",
+      "Product Name": "PAX / STORKLINTA",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect-s79562912/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-storklinta-wardrobe-combination-dark-grey-dark-brown-stained-oak-effect__1365125_pe956182_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 81400
+    },
+    {
+      "Product ID": "A-0195",
+      "Product Name": "PAX / FARDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-wardrobe-combination-grey-beige-high-gloss-light-orange-s69597926/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-wardrobe-combination-grey-beige-high-gloss-light-orange__1409950_pe972428_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 85900
+    },
+    {
+      "Product ID": "A-0196",
+      "Product Name": "PAX / TONSTAD",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass-s99549378/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-tonstad-wardrobe-combination-dark-grey-brown-stained-oak-veneer-glass__1304104_pe938655_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 96800
+    },
+    {
+      "Product ID": "A-0197",
+      "Product Name": "PAX / FARDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-wardrobe-combination-white-high-gloss-light-orange-s29590823/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-wardrobe-combination-white-high-gloss-light-orange__1410002_pe972454_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 100400
+    },
+    {
+      "Product ID": "A-0198",
+      "Product Name": "PAX / GRIMO/ÅHEIM",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-grimo-aheim-corner-wardrobe-white-white-mirror-glass-s59336171/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-grimo-aheim-corner-wardrobe-white-white-mirror-glass__0914289_pe783904_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 102100
+    },
+    {
+      "Product ID": "A-0199",
+      "Product Name": "PAX / FARDAL",
+      "Product URL": "https://www.ikea.com/in/en/p/pax-fardal-wardrobe-combination-white-high-gloss-light-orange-s49590817/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/pax-fardal-wardrobe-combination-white-high-gloss-light-orange__1409992_pe972446_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 107000
+    },
+    {
+      "Product ID": "A-0200",
+      "Product Name": "SKYTTA / PAX",
+      "Product URL": "https://www.ikea.com/in/en/p/skytta-pax-walk-in-wardrobe-with-sliding-doors-black-auli-mirror-glass-s69562168/",
+      "Rating": 0,
+      "Image URL": "https://www.ikea.com/in/en/images/products/skytta-pax-walk-in-wardrobe-with-sliding-doors-black-auli-mirror-glass__1219586_pe913465_s5.jpg?f=xxs",
+      "Dimensions": "N/A",
+      "Price": 109400
+    }
+  ]
+}
