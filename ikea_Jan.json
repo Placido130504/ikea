@@ -2,7 +2,7 @@
   {
     "ID": "I-0001",
     "Name": "STICKAT",
-    "Dimension": "",
+    "Dimension": "39x30cm",
     "Price": 299,
     "Type": "Bed",
     "SubType": "bed",
@@ -52,7 +52,7 @@
   {
     "ID": "I-0006",
     "Name": "KURA",
-    "Dimension": "",
+    "Dimension": "115x84cm",
     "Price": 1396,
     "Type": "Bed",
     "SubType": "bed",
@@ -62,7 +62,7 @@
   {
     "ID": "I-0007",
     "Name": "VARDÖ",
-    "Dimension": "",
+    "Dimension": "65x70cm",
     "Price": 2500,
     "Type": "Bed",
     "SubType": "bed",
@@ -72,7 +72,7 @@
   {
     "ID": "I-0008",
     "Name": "GRIMSBU",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 3490,
     "Type": "Bed",
     "SubType": "bed",
@@ -82,7 +82,7 @@
   {
     "ID": "I-0009",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "42x40cm",
     "Price": 3990,
     "Type": "Bed",
     "SubType": "bed",
@@ -92,7 +92,7 @@
   {
     "ID": "I-0010",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "21x61x100cm",
     "Price": 4000,
     "Type": "Bed",
     "SubType": "bed",
@@ -102,7 +102,7 @@
   {
     "ID": "I-0011",
     "Name": "GRIMSBU",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 4990,
     "Type": "Bed",
     "SubType": "bed",
@@ -122,7 +122,7 @@
   {
     "ID": "I-0013",
     "Name": "GRIMSBU",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 5490,
     "Type": "Bed",
     "SubType": "bed",
@@ -132,7 +132,7 @@
   {
     "ID": "I-0014",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 6490,
     "Type": "Bed",
     "SubType": "bed",
@@ -142,7 +142,7 @@
   {
     "ID": "I-0015",
     "Name": "SLATTUM",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 6990,
     "Type": "Bed",
     "SubType": "bed",
@@ -152,7 +152,7 @@
   {
     "ID": "I-0016",
     "Name": "VEVELSTAD",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 6990,
     "Type": "Bed",
     "SubType": "bed",
@@ -162,7 +162,7 @@
   {
     "ID": "I-0017",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 8490,
     "Type": "Bed",
     "SubType": "bed",
@@ -172,7 +172,7 @@
   {
     "ID": "I-0018",
     "Name": "GRIMSBU",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 8990,
     "Type": "Bed",
     "SubType": "bed",
@@ -182,7 +182,7 @@
   {
     "ID": "I-0019",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 9990,
     "Type": "Bed",
     "SubType": "bed",
@@ -192,7 +192,7 @@
   {
     "ID": "I-0020",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 9990,
     "Type": "Bed",
     "SubType": "bed",
@@ -202,7 +202,7 @@
   {
     "ID": "I-0021",
     "Name": "MINNEN",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 9990,
     "Type": "Bed",
     "SubType": "bed",
@@ -212,7 +212,7 @@
   {
     "ID": "I-0022",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 9990,
     "Type": "Bed",
     "SubType": "bed",
@@ -222,7 +222,7 @@
   {
     "ID": "I-0023",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 10490,
     "Type": "Bed",
     "SubType": "bed",
@@ -232,7 +232,7 @@
   {
     "ID": "I-0024",
     "Name": "STJÄRNÖ",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 10490,
     "Type": "Bed",
     "SubType": "bed",
@@ -242,7 +242,7 @@
   {
     "ID": "I-0025",
     "Name": "SLÄKT",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 10490,
     "Type": "Bed",
     "SubType": "bed",
@@ -252,7 +252,7 @@
   {
     "ID": "I-0026",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 10990,
     "Type": "Bed",
     "SubType": "bed",
@@ -262,7 +262,7 @@
   {
     "ID": "I-0027",
     "Name": "RAMSTA",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 10990,
     "Type": "Bed",
     "SubType": "bed",
@@ -272,7 +272,7 @@
   {
     "ID": "I-0028",
     "Name": "SLATTUM",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 11990,
     "Type": "Bed",
     "SubType": "bed",
@@ -282,7 +282,7 @@
   {
     "ID": "I-0029",
     "Name": "VITARNA",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 11990,
     "Type": "Bed",
     "SubType": "bed",
@@ -292,7 +292,7 @@
   {
     "ID": "I-0030",
     "Name": "VEVELSTAD",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 11990,
     "Type": "Bed",
     "SubType": "bed",
@@ -302,7 +302,7 @@
   {
     "ID": "I-0031",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 12990,
     "Type": "Bed",
     "SubType": "bed",
@@ -312,7 +312,7 @@
   {
     "ID": "I-0032",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 13490,
     "Type": "Bed",
     "SubType": "bed",
@@ -322,7 +322,7 @@
   {
     "ID": "I-0033",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 13490,
     "Type": "Bed",
     "SubType": "bed",
@@ -332,7 +332,7 @@
   {
     "ID": "I-0034",
     "Name": "STJÄRNÖ",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 13990,
     "Type": "Bed",
     "SubType": "bed",
@@ -342,7 +342,7 @@
   {
     "ID": "I-0035",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 14490,
     "Type": "Bed",
     "SubType": "bed",
@@ -352,7 +352,7 @@
   {
     "ID": "I-0036",
     "Name": "RAMNEFJÄLL",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 14990,
     "Type": "Bed",
     "SubType": "bed",
@@ -362,7 +362,7 @@
   {
     "ID": "I-0037",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 14990,
     "Type": "Bed",
     "SubType": "bed",
@@ -372,7 +372,7 @@
   {
     "ID": "I-0038",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 15480,
     "Type": "Bed",
     "SubType": "bed",
@@ -382,7 +382,7 @@
   {
     "ID": "I-0039",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 15490,
     "Type": "Bed",
     "SubType": "bed",
@@ -392,7 +392,7 @@
   {
     "ID": "I-0040",
     "Name": "NESTTUN",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 15990,
     "Type": "Bed",
     "SubType": "bed",
@@ -402,7 +402,7 @@
   {
     "ID": "I-0041",
     "Name": "VITARNA",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 15990,
     "Type": "Bed",
     "SubType": "bed",
@@ -412,7 +412,7 @@
   {
     "ID": "I-0042",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 16490,
     "Type": "Bed",
     "SubType": "bed",
@@ -422,7 +422,7 @@
   {
     "ID": "I-0043",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 16490,
     "Type": "Bed",
     "SubType": "bed",
@@ -432,7 +432,7 @@
   {
     "ID": "I-0044",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 17990,
     "Type": "Bed",
     "SubType": "bed",
@@ -442,7 +442,7 @@
   {
     "ID": "I-0045",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 17990,
     "Type": "Bed",
     "SubType": "bed",
@@ -452,7 +452,7 @@
   {
     "ID": "I-0046",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 17990,
     "Type": "Bed",
     "SubType": "bed",
@@ -462,7 +462,7 @@
   {
     "ID": "I-0047",
     "Name": "TÄLLÅSEN",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 17990,
     "Type": "Bed",
     "SubType": "bed",
@@ -472,7 +472,7 @@
   {
     "ID": "I-0048",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 18490,
     "Type": "Bed",
     "SubType": "bed",
@@ -482,7 +482,7 @@
   {
     "ID": "I-0049",
     "Name": "VITARNA",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 18802,
     "Type": "Bed",
     "SubType": "bed",
@@ -492,7 +492,7 @@
   {
     "ID": "I-0050",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 18980,
     "Type": "Bed",
     "SubType": "bed",
@@ -502,7 +502,7 @@
   {
     "ID": "I-0051",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 18990,
     "Type": "Bed",
     "SubType": "bed",
@@ -512,7 +512,7 @@
   {
     "ID": "I-0052",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 19490,
     "Type": "Bed",
     "SubType": "bed",
@@ -522,7 +522,7 @@
   {
     "ID": "I-0053",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 20990,
     "Type": "Bed",
     "SubType": "bed",
@@ -532,7 +532,7 @@
   {
     "ID": "I-0054",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 20990,
     "Type": "Bed",
     "SubType": "bed",
@@ -542,7 +542,7 @@
   {
     "ID": "I-0055",
     "Name": "STJÄRNÖ",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 21990,
     "Type": "Bed",
     "SubType": "bed",
@@ -552,7 +552,7 @@
   {
     "ID": "I-0056",
     "Name": "SLÄKT",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 22480,
     "Type": "Bed",
     "SubType": "bed",
@@ -562,7 +562,7 @@
   {
     "ID": "I-0057",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 22490,
     "Type": "Bed",
     "SubType": "bed",
@@ -572,7 +572,7 @@
   {
     "ID": "I-0058",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "140x200cm",
     "Price": 22990,
     "Type": "Bed",
     "SubType": "bed",
@@ -582,7 +582,7 @@
   {
     "ID": "I-0059",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 23990,
     "Type": "Bed",
     "SubType": "bed",
@@ -592,7 +592,7 @@
   {
     "ID": "I-0060",
     "Name": "TÄLLÅSEN",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 23990,
     "Type": "Bed",
     "SubType": "bed",
@@ -602,7 +602,7 @@
   {
     "ID": "I-0061",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 24490,
     "Type": "Bed",
     "SubType": "bed",
@@ -612,7 +612,7 @@
   {
     "ID": "I-0062",
     "Name": "SAGESUND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 24990,
     "Type": "Bed",
     "SubType": "bed",
@@ -622,7 +622,7 @@
   {
     "ID": "I-0063",
     "Name": "SLÄKT",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 26990,
     "Type": "Bed",
     "SubType": "bed",
@@ -632,7 +632,7 @@
   {
     "ID": "I-0064",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 26990,
     "Type": "Bed",
     "SubType": "bed",
@@ -642,7 +642,7 @@
   {
     "ID": "I-0065",
     "Name": "TÄRNKULLEN",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 26990,
     "Type": "Bed",
     "SubType": "bed",
@@ -652,7 +652,7 @@
   {
     "ID": "I-0066",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 28990,
     "Type": "Bed",
     "SubType": "bed",
@@ -662,7 +662,7 @@
   {
     "ID": "I-0067",
     "Name": "TÄRNKULLEN",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 28990,
     "Type": "Bed",
     "SubType": "bed",
@@ -672,7 +672,7 @@
   {
     "ID": "I-0068",
     "Name": "SAGESUND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 28990,
     "Type": "Bed",
     "SubType": "bed",
@@ -682,7 +682,7 @@
   {
     "ID": "I-0069",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 29990,
     "Type": "Bed",
     "SubType": "bed",
@@ -692,7 +692,7 @@
   {
     "ID": "I-0070",
     "Name": "IDANÄS",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 29990,
     "Type": "Bed",
     "SubType": "bed",
@@ -702,7 +702,7 @@
   {
     "ID": "I-0071",
     "Name": "FLEKKE",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 29990,
     "Type": "Bed",
     "SubType": "bed",
@@ -722,7 +722,7 @@
   {
     "ID": "I-0073",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 30470,
     "Type": "Bed",
     "SubType": "bed",
@@ -732,7 +732,7 @@
   {
     "ID": "I-0074",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 30990,
     "Type": "Bed",
     "SubType": "bed",
@@ -742,7 +742,7 @@
   {
     "ID": "I-0075",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 30990,
     "Type": "Bed",
     "SubType": "bed",
@@ -752,7 +752,7 @@
   {
     "ID": "I-0076",
     "Name": "TYSSEDAL",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 31990,
     "Type": "Bed",
     "SubType": "bed",
@@ -762,7 +762,7 @@
   {
     "ID": "I-0077",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 31990,
     "Type": "Bed",
     "SubType": "bed",
@@ -772,7 +772,7 @@
   {
     "ID": "I-0078",
     "Name": "SLÄKT",
-    "Dimension": "",
+    "Dimension": "90x200cm",
     "Price": 32980,
     "Type": "Bed",
     "SubType": "bed",
@@ -782,7 +782,7 @@
   {
     "ID": "I-0079",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 34990,
     "Type": "Bed",
     "SubType": "bed",
@@ -802,7 +802,7 @@
   {
     "ID": "I-0081",
     "Name": "IDANÄS",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 34990,
     "Type": "Bed",
     "SubType": "bed",
@@ -812,7 +812,7 @@
   {
     "ID": "I-0082",
     "Name": "TÄLLÅSEN",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 37980,
     "Type": "Bed",
     "SubType": "bed",
@@ -832,7 +832,7 @@
   {
     "ID": "I-0084",
     "Name": "FLEKKE",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 40970,
     "Type": "Bed",
     "SubType": "bed",
@@ -842,7 +842,7 @@
   {
     "ID": "I-0085",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 41980,
     "Type": "Bed",
     "SubType": "bed",
@@ -852,7 +852,7 @@
   {
     "ID": "I-0086",
     "Name": "TUFJORD",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 41990,
     "Type": "Bed",
     "SubType": "bed",
@@ -862,7 +862,7 @@
   {
     "ID": "I-0087",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 42960,
     "Type": "Bed",
     "SubType": "bed",
@@ -872,7 +872,7 @@
   {
     "ID": "I-0088",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 42970,
     "Type": "Bed",
     "SubType": "bed",
@@ -882,7 +882,7 @@
   {
     "ID": "I-0089",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 42980,
     "Type": "Bed",
     "SubType": "bed",
@@ -892,7 +892,7 @@
   {
     "ID": "I-0090",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 44990,
     "Type": "Bed",
     "SubType": "bed",
@@ -902,7 +902,7 @@
   {
     "ID": "I-0091",
     "Name": "IDANÄS",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 47990,
     "Type": "Bed",
     "SubType": "bed",
@@ -912,7 +912,7 @@
   {
     "ID": "I-0092",
     "Name": "IDANÄS",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 48990,
     "Type": "Bed",
     "SubType": "bed",
@@ -922,7 +922,7 @@
   {
     "ID": "I-0093",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 49990,
     "Type": "Bed",
     "SubType": "bed",
@@ -932,7 +932,7 @@
   {
     "ID": "I-0094",
     "Name": "IDANÄS",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 52990,
     "Type": "Bed",
     "SubType": "bed",
@@ -942,7 +942,7 @@
   {
     "ID": "I-0095",
     "Name": "IDANÄS",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 52990,
     "Type": "Bed",
     "SubType": "bed",
@@ -952,7 +952,7 @@
   {
     "ID": "I-0096",
     "Name": "TUFJORD",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 52990,
     "Type": "Bed",
     "SubType": "bed",
@@ -972,7 +972,7 @@
   {
     "ID": "I-0098",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "160x200cm",
     "Price": 55950,
     "Type": "Bed",
     "SubType": "bed",
@@ -982,7 +982,7 @@
   {
     "ID": "I-0099",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "180x200cm",
     "Price": 57990,
     "Type": "Bed",
     "SubType": "bed",
@@ -1002,7 +1002,7 @@
   {
     "ID": "I-0101",
     "Name": "TRONES",
-    "Dimension": "",
+    "Dimension": "52x18x39cm",
     "Price": 1690,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1012,7 +1012,7 @@
   {
     "ID": "I-0102",
     "Name": "TRONES",
-    "Dimension": "",
+    "Dimension": "52x18x39cm",
     "Price": 1690,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1022,7 +1022,7 @@
   {
     "ID": "I-0103",
     "Name": "ASPUDDEN",
-    "Dimension": "",
+    "Dimension": "80x10cm",
     "Price": 2000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1032,7 +1032,7 @@
   {
     "ID": "I-0104",
     "Name": "BAGGEBO",
-    "Dimension": "",
+    "Dimension": "50x30x80cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1042,7 +1042,7 @@
   {
     "ID": "I-0105",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x25x35cm",
     "Price": 2500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1052,7 +1052,7 @@
   {
     "ID": "I-0106",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x35x35cm",
     "Price": 3500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1062,7 +1062,7 @@
   {
     "ID": "I-0107",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x106cm",
     "Price": 3690,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1072,7 +1072,7 @@
   {
     "ID": "I-0108",
     "Name": "ENHET",
-    "Dimension": "",
+    "Dimension": "40x17x75cm",
     "Price": 3900,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1082,7 +1082,7 @@
   {
     "ID": "I-0109",
     "Name": "IVÖSJÖN",
-    "Dimension": "",
+    "Dimension": "33x34x99cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1092,7 +1092,7 @@
   {
     "ID": "I-0110",
     "Name": "LIXHULT",
-    "Dimension": "",
+    "Dimension": "35x60cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1102,7 +1102,7 @@
   {
     "ID": "I-0111",
     "Name": "LIXHULT",
-    "Dimension": "",
+    "Dimension": "60x35cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1112,7 +1112,7 @@
   {
     "ID": "I-0112",
     "Name": "ÖVNING",
-    "Dimension": "",
+    "Dimension": "54x33cm",
     "Price": 4990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1122,7 +1122,7 @@
   {
     "ID": "I-0113",
     "Name": "ENHET",
-    "Dimension": "",
+    "Dimension": "60x32x75cm",
     "Price": 5800,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1132,7 +1132,7 @@
   {
     "ID": "I-0114",
     "Name": "SPIKSMED",
-    "Dimension": "",
+    "Dimension": "60x96cm",
     "Price": 5990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1142,7 +1142,7 @@
   {
     "ID": "I-0115",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "70x35x70cm",
     "Price": 7000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1152,7 +1152,7 @@
   {
     "ID": "I-0116",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x40cm",
     "Price": 7000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1162,7 +1162,7 @@
   {
     "ID": "I-0117",
     "Name": "ASPUDDEN",
-    "Dimension": "",
+    "Dimension": "25x80cm",
     "Price": 7000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1172,7 +1172,7 @@
   {
     "ID": "I-0118",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "30x37x80cm",
     "Price": 7300,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1182,7 +1182,7 @@
   {
     "ID": "I-0119",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x40cm",
     "Price": 7300,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1192,7 +1192,7 @@
   {
     "ID": "I-0120",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x37x60cm",
     "Price": 7500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1212,7 +1212,7 @@
   {
     "ID": "I-0122",
     "Name": "MOSSJÖN",
-    "Dimension": "",
+    "Dimension": "36x18x102cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1222,7 +1222,7 @@
   {
     "ID": "I-0123",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x202cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1232,7 +1232,7 @@
   {
     "ID": "I-0124",
     "Name": "SÅGMÄSTARE",
-    "Dimension": "",
+    "Dimension": "83x36x128cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1242,7 +1242,7 @@
   {
     "ID": "I-0125",
     "Name": "NYSJÖN",
-    "Dimension": "",
+    "Dimension": "30x190cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1252,7 +1252,7 @@
   {
     "ID": "I-0126",
     "Name": "BRUSALI",
-    "Dimension": "",
+    "Dimension": "61x30x130cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1262,7 +1262,7 @@
   {
     "ID": "I-0127",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "80x35x117cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1272,7 +1272,7 @@
   {
     "ID": "I-0128",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "70x35x80cm",
     "Price": 8100,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1282,7 +1282,7 @@
   {
     "ID": "I-0129",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x35x80cm",
     "Price": 8200,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1292,7 +1292,7 @@
   {
     "ID": "I-0130",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "80x30x106cm",
     "Price": 8390,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1302,7 +1302,7 @@
   {
     "ID": "I-0131",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "78x95cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1312,7 +1312,7 @@
   {
     "ID": "I-0132",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x202cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1322,7 +1322,7 @@
   {
     "ID": "I-0133",
     "Name": "IKEA PS",
-    "Dimension": "",
+    "Dimension": "119x63cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1332,7 +1332,7 @@
   {
     "ID": "I-0134",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "70x35x110cm",
     "Price": 9490,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1342,7 +1342,7 @@
   {
     "ID": "I-0135",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x80cm",
     "Price": 9600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1362,7 +1362,7 @@
   {
     "ID": "I-0137",
     "Name": "SKRUVBY",
-    "Dimension": "",
+    "Dimension": "70x90cm",
     "Price": 9990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1372,7 +1372,7 @@
   {
     "ID": "I-0138",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "78x95cm",
     "Price": 9990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1382,7 +1382,7 @@
   {
     "ID": "I-0139",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x40cm",
     "Price": 10300,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1392,7 +1392,7 @@
   {
     "ID": "I-0140",
     "Name": "RUNMARÖ",
-    "Dimension": "",
+    "Dimension": "80x44x182cm",
     "Price": 10990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1402,7 +1402,7 @@
   {
     "ID": "I-0141",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x40cm",
     "Price": 11600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1412,7 +1412,7 @@
   {
     "ID": "I-0142",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x60cm",
     "Price": 11800,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1422,7 +1422,7 @@
   {
     "ID": "I-0143",
     "Name": "ENHET",
-    "Dimension": "",
+    "Dimension": "30x32x180cm",
     "Price": 11990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1432,7 +1432,7 @@
   {
     "ID": "I-0144",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "40x37x80cm",
     "Price": 12700,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1442,7 +1442,7 @@
   {
     "ID": "I-0145",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "80x30x202cm",
     "Price": 12990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1452,7 +1452,7 @@
   {
     "ID": "I-0146",
     "Name": "SKRUVBY",
-    "Dimension": "",
+    "Dimension": "120x38x90cm",
     "Price": 12990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1462,7 +1462,7 @@
   {
     "ID": "I-0147",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "70x116cm",
     "Price": 12990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1472,7 +1472,7 @@
   {
     "ID": "I-0148",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x80cm",
     "Price": 13100,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1482,7 +1482,7 @@
   {
     "ID": "I-0149",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "60x60x80cm",
     "Price": 13200,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1492,7 +1492,7 @@
   {
     "ID": "I-0150",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "30x60x80cm",
     "Price": 13300,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1502,7 +1502,7 @@
   {
     "ID": "I-0151",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x80cm",
     "Price": 13900,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1512,7 +1512,7 @@
   {
     "ID": "I-0152",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x60cm",
     "Price": 14000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1522,7 +1522,7 @@
   {
     "ID": "I-0153",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x74cm",
     "Price": 14400,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1532,7 +1532,7 @@
   {
     "ID": "I-0154",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "68x37x80cm",
     "Price": 14900,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1542,7 +1542,7 @@
   {
     "ID": "I-0155",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "140x37x75cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1552,7 +1552,7 @@
   {
     "ID": "I-0156",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x60x80cm",
     "Price": 15500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1562,7 +1562,7 @@
   {
     "ID": "I-0157",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x60cm",
     "Price": 15600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1572,7 +1572,7 @@
   {
     "ID": "I-0158",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "80x190cm",
     "Price": 15990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1582,7 +1582,7 @@
   {
     "ID": "I-0159",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "105x37x140cm",
     "Price": 15990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1592,7 +1592,7 @@
   {
     "ID": "I-0160",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x60x80cm",
     "Price": 16200,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1602,7 +1602,7 @@
   {
     "ID": "I-0161",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x80cm",
     "Price": 16400,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1612,7 +1612,7 @@
   {
     "ID": "I-0162",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "70x35x173cm",
     "Price": 16490,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1622,7 +1622,7 @@
   {
     "ID": "I-0163",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "60x60x80cm",
     "Price": 16850,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1632,7 +1632,7 @@
   {
     "ID": "I-0164",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x37x80cm",
     "Price": 17200,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1642,7 +1642,7 @@
   {
     "ID": "I-0165",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x74cm",
     "Price": 17800,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1652,7 +1652,7 @@
   {
     "ID": "I-0166",
     "Name": "IVAR",
-    "Dimension": "",
+    "Dimension": "160x30x83cm",
     "Price": 17980,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1662,7 +1662,7 @@
   {
     "ID": "I-0167",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "40x37x80cm",
     "Price": 18900,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1672,7 +1672,7 @@
   {
     "ID": "I-0168",
     "Name": "LEDAMOT",
-    "Dimension": "",
+    "Dimension": "150x42x75cm",
     "Price": 19990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1682,7 +1682,7 @@
   {
     "ID": "I-0169",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "60x60cm",
     "Price": 20000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1692,7 +1692,7 @@
   {
     "ID": "I-0170",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "60x60x80cm",
     "Price": 20350,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1702,7 +1702,7 @@
   {
     "ID": "I-0171",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "140x84cm",
     "Price": 20990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1712,7 +1712,7 @@
   {
     "ID": "I-0172",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x200cm",
     "Price": 21100,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1722,7 +1722,7 @@
   {
     "ID": "I-0173",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "80x37x80cm",
     "Price": 21500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1732,7 +1732,7 @@
   {
     "ID": "I-0174",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x64cm",
     "Price": 21600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1742,7 +1742,7 @@
   {
     "ID": "I-0175",
     "Name": "SKRUVBY",
-    "Dimension": "",
+    "Dimension": "190x90cm",
     "Price": 22980,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1752,7 +1752,7 @@
   {
     "ID": "I-0176",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "175x35x70cm",
     "Price": 23400,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1762,7 +1762,7 @@
   {
     "ID": "I-0177",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "80x60x80cm",
     "Price": 23500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1772,7 +1772,7 @@
   {
     "ID": "I-0178",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "80x60x80cm",
     "Price": 23600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1782,7 +1782,7 @@
   {
     "ID": "I-0179",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x220cm",
     "Price": 23700,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1792,7 +1792,7 @@
   {
     "ID": "I-0180",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "60x42x193cm",
     "Price": 23900,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1802,7 +1802,7 @@
   {
     "ID": "I-0181",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x74cm",
     "Price": 24600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1812,7 +1812,7 @@
   {
     "ID": "I-0182",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 24600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1822,7 +1822,7 @@
   {
     "ID": "I-0183",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 25700,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1832,7 +1832,7 @@
   {
     "ID": "I-0184",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 27400,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1842,7 +1842,7 @@
   {
     "ID": "I-0185",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x220cm",
     "Price": 29700,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1852,7 +1852,7 @@
   {
     "ID": "I-0186",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x220cm",
     "Price": 30100,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1862,7 +1862,7 @@
   {
     "ID": "I-0187",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x240cm",
     "Price": 30300,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1872,7 +1872,7 @@
   {
     "ID": "I-0188",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 30500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1882,7 +1882,7 @@
   {
     "ID": "I-0189",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x200cm",
     "Price": 32450,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1892,7 +1892,7 @@
   {
     "ID": "I-0190",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "80x37x80cm",
     "Price": 32500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1902,7 +1902,7 @@
   {
     "ID": "I-0191",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x200cm",
     "Price": 34500,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1912,7 +1912,7 @@
   {
     "ID": "I-0192",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x193cm",
     "Price": 34600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1922,7 +1922,7 @@
   {
     "ID": "I-0193",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x220cm",
     "Price": 35050,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1932,7 +1932,7 @@
   {
     "ID": "I-0194",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x193cm",
     "Price": 35200,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1942,7 +1942,7 @@
   {
     "ID": "I-0195",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "90x198cm",
     "Price": 35990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1952,7 +1952,7 @@
   {
     "ID": "I-0196",
     "Name": "METOD / MAXIMERA",
-    "Dimension": "",
+    "Dimension": "80x60x80cm",
     "Price": 39600,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1962,7 +1962,7 @@
   {
     "ID": "I-0197",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x112cm",
     "Price": 40000,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1972,7 +1972,7 @@
   {
     "ID": "I-0198",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 56990,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1982,7 +1982,7 @@
   {
     "ID": "I-0199",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 58290,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -1992,7 +1992,7 @@
   {
     "ID": "I-0200",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x220cm",
     "Price": 64190,
     "Type": "Storage",
     "SubType": "cabinets",
@@ -2002,7 +2002,7 @@
   {
     "ID": "I-0201",
     "Name": "BRÄMÖN",
-    "Dimension": "",
+    "Dimension": "34x34x1.0cm",
     "Price": 129,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2042,7 +2042,7 @@
   {
     "ID": "I-0205",
     "Name": "BROKAKLEJA",
-    "Dimension": "",
+    "Dimension": "40x40x6cm",
     "Price": 399,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2052,7 +2052,7 @@
   {
     "ID": "I-0206",
     "Name": "GURLI",
-    "Dimension": "",
+    "Dimension": "40x40x6cm",
     "Price": 399,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2062,7 +2062,7 @@
   {
     "ID": "I-0207",
     "Name": "REVFINGERÖRT",
-    "Dimension": "",
+    "Dimension": "40x40x6cm",
     "Price": 399,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2072,7 +2072,7 @@
   {
     "ID": "I-0208",
     "Name": "JUSTINA",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 499,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2082,7 +2082,7 @@
   {
     "ID": "I-0209",
     "Name": "ÄLVGRÄSMAL",
-    "Dimension": "",
+    "Dimension": "31.3x33x3cm",
     "Price": 499,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2092,7 +2092,7 @@
   {
     "ID": "I-0210",
     "Name": "MALINDA",
-    "Dimension": "",
+    "Dimension": "35x38x7cm",
     "Price": 599,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2102,7 +2102,7 @@
   {
     "ID": "I-0211",
     "Name": "VILDAURIKEL",
-    "Dimension": "",
+    "Dimension": "35x38x7cm",
     "Price": 599,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2112,7 +2112,7 @@
   {
     "ID": "I-0212",
     "Name": "STAGGSTARR",
-    "Dimension": "",
+    "Dimension": "36x36x2.5cm",
     "Price": 599,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2142,7 +2142,7 @@
   {
     "ID": "I-0215",
     "Name": "VIPPÄRT",
-    "Dimension": "",
+    "Dimension": "38x38x6cm",
     "Price": 699,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2162,7 +2162,7 @@
   {
     "ID": "I-0217",
     "Name": "ÅKERVINDEFLY",
-    "Dimension": "",
+    "Dimension": "35x37x5cm",
     "Price": 899,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2172,7 +2172,7 @@
   {
     "ID": "I-0218",
     "Name": "JUSTINA",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 998,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2292,7 +2292,7 @@
   {
     "ID": "I-0230",
     "Name": "JUSTINA",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 1996,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2422,7 +2422,7 @@
   {
     "ID": "I-0243",
     "Name": "JUSTINA",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 2994,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -2982,7 +2982,7 @@
   {
     "ID": "I-0299",
     "Name": "DANDERYD",
-    "Dimension": "",
+    "Dimension": "180x90cm",
     "Price": 22990,
     "Type": "Chair",
     "SubType": "casual chair",
@@ -3002,7 +3002,7 @@
   {
     "ID": "I-0301",
     "Name": "KNARREVIK",
-    "Dimension": "",
+    "Dimension": "37x28cm",
     "Price": 899,
     "Type": "Table",
     "SubType": "casual table",
@@ -3012,7 +3012,7 @@
   {
     "ID": "I-0302",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "37x39cm",
     "Price": 1290,
     "Type": "Table",
     "SubType": "casual table",
@@ -3022,7 +3022,7 @@
   {
     "ID": "I-0303",
     "Name": "LINNMON",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 1490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3032,7 +3032,7 @@
   {
     "ID": "I-0304",
     "Name": "FEJAN",
-    "Dimension": "",
+    "Dimension": "50x44cm",
     "Price": 1690,
     "Type": "Table",
     "SubType": "casual table",
@@ -3042,7 +3042,7 @@
   {
     "ID": "I-0305",
     "Name": "GURSKEN",
-    "Dimension": "",
+    "Dimension": "39x30cm",
     "Price": 1790,
     "Type": "Table",
     "SubType": "casual table",
@@ -3052,7 +3052,7 @@
   {
     "ID": "I-0306",
     "Name": "TORALD",
-    "Dimension": "",
+    "Dimension": "65x40cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3062,7 +3062,7 @@
   {
     "ID": "I-0307",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "35x65cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3072,7 +3072,7 @@
   {
     "ID": "I-0308",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3082,7 +3082,7 @@
   {
     "ID": "I-0309",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3092,7 +3092,7 @@
   {
     "ID": "I-0310",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "64x60cm",
     "Price": 2000,
     "Type": "Table",
     "SubType": "casual table",
@@ -3102,7 +3102,7 @@
   {
     "ID": "I-0311",
     "Name": "MAMMUT",
-    "Dimension": "",
+    "Dimension": "77x55cm",
     "Price": 2490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3112,7 +3112,7 @@
   {
     "ID": "I-0312",
     "Name": "LAGKAPTEN",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 2490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3132,7 +3132,7 @@
   {
     "ID": "I-0314",
     "Name": "GUNDE",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3142,7 +3142,7 @@
   {
     "ID": "I-0315",
     "Name": "GRÅFJÄLLET",
-    "Dimension": "",
+    "Dimension": "45x36x59cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3152,7 +3152,7 @@
   {
     "ID": "I-0316",
     "Name": "TÄRNÖ",
-    "Dimension": "",
+    "Dimension": "55x54cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3162,7 +3162,7 @@
   {
     "ID": "I-0317",
     "Name": "MUSKEN",
-    "Dimension": "",
+    "Dimension": "45x58cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3172,7 +3172,7 @@
   {
     "ID": "I-0318",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "37x37cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3182,7 +3182,7 @@
   {
     "ID": "I-0319",
     "Name": "LINNMON / ADILS",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 3490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3192,7 +3192,7 @@
   {
     "ID": "I-0320",
     "Name": "LINNMON / SPÄND",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 3490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3202,7 +3202,7 @@
   {
     "ID": "I-0321",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3212,7 +3212,7 @@
   {
     "ID": "I-0322",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "100x36cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3222,7 +3222,7 @@
   {
     "ID": "I-0323",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "42x40cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3232,7 +3232,7 @@
   {
     "ID": "I-0324",
     "Name": "GUNDE / GUNDE",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 4388,
     "Type": "Table",
     "SubType": "casual table",
@@ -3242,7 +3242,7 @@
   {
     "ID": "I-0325",
     "Name": "LAGKAPTEN / ADILS",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 4490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3252,7 +3252,7 @@
   {
     "ID": "I-0326",
     "Name": "LINNMON / OLOV",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 4490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3272,7 +3272,7 @@
   {
     "ID": "I-0328",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "96x58cm",
     "Price": 4900,
     "Type": "Table",
     "SubType": "casual table",
@@ -3282,7 +3282,7 @@
   {
     "ID": "I-0329",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "96x58cm",
     "Price": 4900,
     "Type": "Table",
     "SubType": "casual table",
@@ -3292,7 +3292,7 @@
   {
     "ID": "I-0330",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "73x50cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3302,7 +3302,7 @@
   {
     "ID": "I-0331",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3322,7 +3322,7 @@
   {
     "ID": "I-0333",
     "Name": "SUNDSÖ",
-    "Dimension": "",
+    "Dimension": "65x65cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3332,7 +3332,7 @@
   {
     "ID": "I-0334",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 5190,
     "Type": "Table",
     "SubType": "casual table",
@@ -3342,7 +3342,7 @@
   {
     "ID": "I-0335",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "70x42cm",
     "Price": 5390,
     "Type": "Table",
     "SubType": "casual table",
@@ -3352,7 +3352,7 @@
   {
     "ID": "I-0336",
     "Name": "LAGKAPTEN / ADILS",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 5490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3362,7 +3362,7 @@
   {
     "ID": "I-0337",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 5490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3372,7 +3372,7 @@
   {
     "ID": "I-0338",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3382,7 +3382,7 @@
   {
     "ID": "I-0339",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3392,7 +3392,7 @@
   {
     "ID": "I-0340",
     "Name": "NORBERG",
-    "Dimension": "",
+    "Dimension": "74x60cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3412,7 +3412,7 @@
   {
     "ID": "I-0342",
     "Name": "LAGKAPTEN / OLOV",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3422,7 +3422,7 @@
   {
     "ID": "I-0343",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 6590,
     "Type": "Table",
     "SubType": "casual table",
@@ -3432,7 +3432,7 @@
   {
     "ID": "I-0344",
     "Name": "BOLLSIDAN",
-    "Dimension": "",
+    "Dimension": "68x36cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3442,7 +3442,7 @@
   {
     "ID": "I-0345",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3452,7 +3452,7 @@
   {
     "ID": "I-0346",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "111x39cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3462,7 +3462,7 @@
   {
     "ID": "I-0347",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 7390,
     "Type": "Table",
     "SubType": "casual table",
@@ -3472,7 +3472,7 @@
   {
     "ID": "I-0348",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 7490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3482,7 +3482,7 @@
   {
     "ID": "I-0349",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "142x50cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3492,7 +3492,7 @@
   {
     "ID": "I-0350",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "90x60cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3502,7 +3502,7 @@
   {
     "ID": "I-0351",
     "Name": "PIPLÄRKA",
-    "Dimension": "",
+    "Dimension": "80x63cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3512,7 +3512,7 @@
   {
     "ID": "I-0352",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "100x45cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3522,7 +3522,7 @@
   {
     "ID": "I-0353",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "108x37cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3532,7 +3532,7 @@
   {
     "ID": "I-0354",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3542,7 +3542,7 @@
   {
     "ID": "I-0355",
     "Name": "MITTPLAN",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3552,7 +3552,7 @@
   {
     "ID": "I-0356",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3562,7 +3562,7 @@
   {
     "ID": "I-0357",
     "Name": "LAGKAPTEN / MITTBACK",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 9490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3572,7 +3572,7 @@
   {
     "ID": "I-0358",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "105x50cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3582,7 +3582,7 @@
   {
     "ID": "I-0359",
     "Name": "HUVUDSPELARE",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3592,7 +3592,7 @@
   {
     "ID": "I-0360",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "160x80cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3602,7 +3602,7 @@
   {
     "ID": "I-0361",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "180x74cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3612,7 +3612,7 @@
   {
     "ID": "I-0362",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3622,7 +3622,7 @@
   {
     "ID": "I-0363",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 10190,
     "Type": "Table",
     "SubType": "casual table",
@@ -3632,7 +3632,7 @@
   {
     "ID": "I-0364",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 10490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3642,7 +3642,7 @@
   {
     "ID": "I-0365",
     "Name": "SEGRARE",
-    "Dimension": "",
+    "Dimension": "110x60cm",
     "Price": 10990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3652,7 +3652,7 @@
   {
     "ID": "I-0366",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 10990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3662,7 +3662,7 @@
   {
     "ID": "I-0367",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3672,7 +3672,7 @@
   {
     "ID": "I-0368",
     "Name": "ALEX",
-    "Dimension": "",
+    "Dimension": "100x48cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3682,7 +3682,7 @@
   {
     "ID": "I-0369",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "118x45cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3692,7 +3692,7 @@
   {
     "ID": "I-0370",
     "Name": "KALLAX / LINNMON",
-    "Dimension": "",
+    "Dimension": "77x139x147cm",
     "Price": 12580,
     "Type": "Table",
     "SubType": "casual table",
@@ -3702,7 +3702,7 @@
   {
     "ID": "I-0371",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3712,7 +3712,7 @@
   {
     "ID": "I-0372",
     "Name": "UTESPELARE",
-    "Dimension": "",
+    "Dimension": "160x80cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3722,7 +3722,7 @@
   {
     "ID": "I-0373",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "140x65cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3732,7 +3732,7 @@
   {
     "ID": "I-0374",
     "Name": "ALEX",
-    "Dimension": "",
+    "Dimension": "132x58cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3742,7 +3742,7 @@
   {
     "ID": "I-0375",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3752,7 +3752,7 @@
   {
     "ID": "I-0376",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "100x142cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3762,7 +3762,7 @@
   {
     "ID": "I-0377",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "66x50cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3772,7 +3772,7 @@
   {
     "ID": "I-0378",
     "Name": "BERGLÄRKA",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3782,7 +3782,7 @@
   {
     "ID": "I-0379",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 15990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3792,7 +3792,7 @@
   {
     "ID": "I-0380",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "120x47cm",
     "Price": 15990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3802,7 +3802,7 @@
   {
     "ID": "I-0381",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 16490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3812,7 +3812,7 @@
   {
     "ID": "I-0382",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3822,7 +3822,7 @@
   {
     "ID": "I-0383",
     "Name": "VEBJÖRN",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3832,7 +3832,7 @@
   {
     "ID": "I-0384",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "160x60cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3842,7 +3842,7 @@
   {
     "ID": "I-0385",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74cm",
     "Price": 17790,
     "Type": "Table",
     "SubType": "casual table",
@@ -3852,7 +3852,7 @@
   {
     "ID": "I-0386",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "160x80cm",
     "Price": 17990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3862,7 +3862,7 @@
   {
     "ID": "I-0387",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "200x60cm",
     "Price": 18490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3872,7 +3872,7 @@
   {
     "ID": "I-0388",
     "Name": "FREDDE",
-    "Dimension": "",
+    "Dimension": "185x74x146cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3882,7 +3882,7 @@
   {
     "ID": "I-0389",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "200x78cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3892,7 +3892,7 @@
   {
     "ID": "I-0390",
     "Name": "NORDEN",
-    "Dimension": "",
+    "Dimension": "152x80cm",
     "Price": 24990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3902,7 +3902,7 @@
   {
     "ID": "I-0391",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "88x78cm",
     "Price": 25890,
     "Type": "Table",
     "SubType": "casual table",
@@ -3912,7 +3912,7 @@
   {
     "ID": "I-0392",
     "Name": "RODULF",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 25990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3922,7 +3922,7 @@
   {
     "ID": "I-0393",
     "Name": "Näsinge / BERGMUND",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 26490,
     "Type": "Table",
     "SubType": "casual table",
@@ -3932,7 +3932,7 @@
   {
     "ID": "I-0394",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "180x101x74cm",
     "Price": 32990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3942,7 +3942,7 @@
   {
     "ID": "I-0395",
     "Name": "Näsinge / Näsinge",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 38790,
     "Type": "Table",
     "SubType": "casual table",
@@ -3952,7 +3952,7 @@
   {
     "ID": "I-0396",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "235x100cm",
     "Price": 39990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3962,7 +3962,7 @@
   {
     "ID": "I-0397",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 40790,
     "Type": "Table",
     "SubType": "casual table",
@@ -3972,7 +3972,7 @@
   {
     "ID": "I-0398",
     "Name": "MARIEDAMM",
-    "Dimension": "",
+    "Dimension": "180x100cm",
     "Price": 49990,
     "Type": "Table",
     "SubType": "casual table",
@@ -3982,7 +3982,7 @@
   {
     "ID": "I-0399",
     "Name": "ROSENTORP / Näsinge",
-    "Dimension": "",
+    "Dimension": "215x87cm",
     "Price": 63790,
     "Type": "Table",
     "SubType": "casual table",
@@ -4002,7 +4002,7 @@
   {
     "ID": "I-0401",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "76x50cm",
     "Price": 900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4012,7 +4012,7 @@
   {
     "ID": "I-0402",
     "Name": "VUKU",
-    "Dimension": "",
+    "Dimension": "74x51x149cm",
     "Price": 1590,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4022,7 +4022,7 @@
   {
     "ID": "I-0403",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "50x51x104cm",
     "Price": 2200,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4032,7 +4032,7 @@
   {
     "ID": "I-0404",
     "Name": "GURSKEN",
-    "Dimension": "",
+    "Dimension": "49x55x186cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4042,7 +4042,7 @@
   {
     "ID": "I-0405",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "99x51x173cm",
     "Price": 9380,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4052,7 +4052,7 @@
   {
     "ID": "I-0406",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "79x176cm",
     "Price": 9990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4062,7 +4062,7 @@
   {
     "ID": "I-0407",
     "Name": "GODISHUS",
-    "Dimension": "",
+    "Dimension": "60x51x178cm",
     "Price": 9990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4072,7 +4072,7 @@
   {
     "ID": "I-0408",
     "Name": "RAKKESTAD",
-    "Dimension": "",
+    "Dimension": "79x176cm",
     "Price": 10990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4082,7 +4082,7 @@
   {
     "ID": "I-0409",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "117x176cm",
     "Price": 11990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4092,7 +4092,7 @@
   {
     "ID": "I-0410",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "78x190cm",
     "Price": 11990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4102,7 +4102,7 @@
   {
     "ID": "I-0411",
     "Name": "SMÅGÖRA",
-    "Dimension": "",
+    "Dimension": "80x50x187cm",
     "Price": 12990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4112,7 +4112,7 @@
   {
     "ID": "I-0412",
     "Name": "PAX / ÅHEIM",
-    "Dimension": "",
+    "Dimension": "50x60x201cm",
     "Price": 13900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4122,7 +4122,7 @@
   {
     "ID": "I-0413",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "117x176cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4132,7 +4132,7 @@
   {
     "ID": "I-0414",
     "Name": "SUNDVIK",
-    "Dimension": "",
+    "Dimension": "80x50x172cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4142,7 +4142,7 @@
   {
     "ID": "I-0415",
     "Name": "RAKKESTAD",
-    "Dimension": "",
+    "Dimension": "117x176cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4152,7 +4152,7 @@
   {
     "ID": "I-0416",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "117x190cm",
     "Price": 15990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4162,7 +4162,7 @@
   {
     "ID": "I-0417",
     "Name": "RAKKESTAD",
-    "Dimension": "",
+    "Dimension": "117x176cm",
     "Price": 16990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4172,7 +4172,7 @@
   {
     "ID": "I-0418",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "120x52x202cm",
     "Price": 17990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4182,7 +4182,7 @@
   {
     "ID": "I-0419",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "120x60x191cm",
     "Price": 19990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4192,7 +4192,7 @@
   {
     "ID": "I-0420",
     "Name": "PAX / BERGSBO",
-    "Dimension": "",
+    "Dimension": "100x60x201cm",
     "Price": 20500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4202,7 +4202,7 @@
   {
     "ID": "I-0421",
     "Name": "PAX / FLISBERGET",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 21400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4212,7 +4212,7 @@
   {
     "ID": "I-0422",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "100x60x201cm",
     "Price": 21500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4222,7 +4222,7 @@
   {
     "ID": "I-0423",
     "Name": "PAX / FLISBERGET",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 21700,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4232,7 +4232,7 @@
   {
     "ID": "I-0424",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "118x55x199cm",
     "Price": 22990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4242,7 +4242,7 @@
   {
     "ID": "I-0425",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 23700,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4252,7 +4252,7 @@
   {
     "ID": "I-0426",
     "Name": "MUSKEN",
-    "Dimension": "",
+    "Dimension": "124x60x201cm",
     "Price": 24990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4262,7 +4262,7 @@
   {
     "ID": "I-0427",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "105x57x200cm",
     "Price": 24990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4272,7 +4272,7 @@
   {
     "ID": "I-0428",
     "Name": "RÅDMANSÖ",
-    "Dimension": "",
+    "Dimension": "118x64x190cm",
     "Price": 29990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4282,7 +4282,7 @@
   {
     "ID": "I-0429",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 30000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4292,7 +4292,7 @@
   {
     "ID": "I-0430",
     "Name": "PAX / FORSAND/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "75x60x201cm",
     "Price": 30036,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4302,7 +4302,7 @@
   {
     "ID": "I-0431",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "100x60x201cm",
     "Price": 30300,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4312,7 +4312,7 @@
   {
     "ID": "I-0432",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 30300,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4322,7 +4322,7 @@
   {
     "ID": "I-0433",
     "Name": "PAX / STORKLINTA",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 30700,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4332,7 +4332,7 @@
   {
     "ID": "I-0434",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "75x60x236cm",
     "Price": 31100,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4342,7 +4342,7 @@
   {
     "ID": "I-0435",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "100x60x201cm",
     "Price": 31300,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4352,7 +4352,7 @@
   {
     "ID": "I-0436",
     "Name": "PAX / KAMMARTORP",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 31800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4362,7 +4362,7 @@
   {
     "ID": "I-0437",
     "Name": "PAX",
-    "Dimension": "",
+    "Dimension": "175x58x201cm",
     "Price": 31900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4372,7 +4372,7 @@
   {
     "ID": "I-0438",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "110x201cm",
     "Price": 32500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4382,7 +4382,7 @@
   {
     "ID": "I-0439",
     "Name": "GULLABERG",
-    "Dimension": "",
+    "Dimension": "128x64x201cm",
     "Price": 32990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4392,7 +4392,7 @@
   {
     "ID": "I-0440",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 33000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4402,7 +4402,7 @@
   {
     "ID": "I-0441",
     "Name": "PAX / BERGSBO",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 34000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4412,7 +4412,7 @@
   {
     "ID": "I-0442",
     "Name": "PAX",
-    "Dimension": "",
+    "Dimension": "150x58x201cm",
     "Price": 34550,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4422,7 +4422,7 @@
   {
     "ID": "I-0443",
     "Name": "VISTHUS",
-    "Dimension": "",
+    "Dimension": "122x59x216cm",
     "Price": 34990,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4432,7 +4432,7 @@
   {
     "ID": "I-0444",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 36200,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4442,7 +4442,7 @@
   {
     "ID": "I-0445",
     "Name": "PAX / ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 36300,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4452,7 +4452,7 @@
   {
     "ID": "I-0446",
     "Name": "PAX / AULI",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 37200,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4462,7 +4462,7 @@
   {
     "ID": "I-0447",
     "Name": "PAX / FORSAND/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 39400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4472,7 +4472,7 @@
   {
     "ID": "I-0448",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "100x60x201cm",
     "Price": 39500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4482,7 +4482,7 @@
   {
     "ID": "I-0449",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "185x60x201cm",
     "Price": 40300,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4492,7 +4492,7 @@
   {
     "ID": "I-0450",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 40400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4502,7 +4502,7 @@
   {
     "ID": "I-0451",
     "Name": "PAX / KAMMARTORP/GRIMO",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 40800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4512,7 +4512,7 @@
   {
     "ID": "I-0452",
     "Name": "PAX / BERGSBO",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 41400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4522,7 +4522,7 @@
   {
     "ID": "I-0453",
     "Name": "PAX / BERGSBO",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 41900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4532,7 +4532,7 @@
   {
     "ID": "I-0454",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "200x66x201cm",
     "Price": 42100,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4542,7 +4542,7 @@
   {
     "ID": "I-0455",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 42700,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4552,7 +4552,7 @@
   {
     "ID": "I-0456",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "245x57x200cm",
     "Price": 44980,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4562,7 +4562,7 @@
   {
     "ID": "I-0457",
     "Name": "PAX / AULI",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 45400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4572,7 +4572,7 @@
   {
     "ID": "I-0458",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 45500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4582,7 +4582,7 @@
   {
     "ID": "I-0459",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 47900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4592,7 +4592,7 @@
   {
     "ID": "I-0460",
     "Name": "PAX / KAMMARTORP/GRIMO",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 47900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4602,7 +4602,7 @@
   {
     "ID": "I-0461",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "220x60x201cm",
     "Price": 49000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4612,7 +4612,7 @@
   {
     "ID": "I-0462",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 49400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4622,7 +4622,7 @@
   {
     "ID": "I-0463",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "170x60x236cm",
     "Price": 53000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4632,7 +4632,7 @@
   {
     "ID": "I-0464",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 54800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4642,7 +4642,7 @@
   {
     "ID": "I-0465",
     "Name": "PAX / BERGSBO",
-    "Dimension": "",
+    "Dimension": "235x60x236cm",
     "Price": 55100,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4652,7 +4652,7 @@
   {
     "ID": "I-0466",
     "Name": "PAX / VIKANES",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 56000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4662,7 +4662,7 @@
   {
     "ID": "I-0467",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 57000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4672,7 +4672,7 @@
   {
     "ID": "I-0468",
     "Name": "PAX / KAMMARTORP/GRIMO",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 57800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4682,7 +4682,7 @@
   {
     "ID": "I-0469",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 57900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4692,7 +4692,7 @@
   {
     "ID": "I-0470",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "170x66x236cm",
     "Price": 58600,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4702,7 +4702,7 @@
   {
     "ID": "I-0471",
     "Name": "PAX / FLISBERGET",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 59350,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4712,7 +4712,7 @@
   {
     "ID": "I-0472",
     "Name": "PAX / STORKLINTA",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 59900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4722,7 +4722,7 @@
   {
     "ID": "I-0473",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 60000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4732,7 +4732,7 @@
   {
     "ID": "I-0474",
     "Name": "PAX / STORKLINTA",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 60300,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4742,7 +4742,7 @@
   {
     "ID": "I-0475",
     "Name": "PAX / STORKLINTA",
-    "Dimension": "",
+    "Dimension": "200x66x201cm",
     "Price": 60900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4752,7 +4752,7 @@
   {
     "ID": "I-0476",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "250x60x236cm",
     "Price": 61000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4762,7 +4762,7 @@
   {
     "ID": "I-0477",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 61500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4772,7 +4772,7 @@
   {
     "ID": "I-0478",
     "Name": "PAX / BERGSBO",
-    "Dimension": "",
+    "Dimension": "220x60x201cm",
     "Price": 62350,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4782,7 +4782,7 @@
   {
     "ID": "I-0479",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 63392,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4792,7 +4792,7 @@
   {
     "ID": "I-0480",
     "Name": "PAX / FARDAL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 64400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4802,7 +4802,7 @@
   {
     "ID": "I-0481",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 65800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4812,7 +4812,7 @@
   {
     "ID": "I-0482",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 66600,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4822,7 +4822,7 @@
   {
     "ID": "I-0483",
     "Name": "PAX / KAMMARTORP/GULLABERG",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 66900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4832,7 +4832,7 @@
   {
     "ID": "I-0484",
     "Name": "PAX / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 68200,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4842,7 +4842,7 @@
   {
     "ID": "I-0485",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "111x201cm",
     "Price": 69718,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4852,7 +4852,7 @@
   {
     "ID": "I-0486",
     "Name": "PAX / TONSTAD",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 70600,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4862,7 +4862,7 @@
   {
     "ID": "I-0487",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "250x60x236cm",
     "Price": 71500,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4872,7 +4872,7 @@
   {
     "ID": "I-0488",
     "Name": "PAX / GULLABERG",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 72400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4882,7 +4882,7 @@
   {
     "ID": "I-0489",
     "Name": "PAX / SVARTISDAL",
-    "Dimension": "",
+    "Dimension": "200x66x201cm",
     "Price": 72992,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4892,7 +4892,7 @@
   {
     "ID": "I-0490",
     "Name": "SKYTTA / SVARTISDAL",
-    "Dimension": "",
+    "Dimension": "351x240cm",
     "Price": 73000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4902,7 +4902,7 @@
   {
     "ID": "I-0491",
     "Name": "PAX / TYSSEDAL",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 73800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4912,7 +4912,7 @@
   {
     "ID": "I-0492",
     "Name": "PAX / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 74600,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4922,7 +4922,7 @@
   {
     "ID": "I-0493",
     "Name": "PAX / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 80600,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4932,7 +4932,7 @@
   {
     "ID": "I-0494",
     "Name": "PAX / STORKLINTA",
-    "Dimension": "",
+    "Dimension": "250x58x201cm",
     "Price": 81400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4942,7 +4942,7 @@
   {
     "ID": "I-0495",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 85900,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4952,7 +4952,7 @@
   {
     "ID": "I-0496",
     "Name": "PAX / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 96800,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4962,7 +4962,7 @@
   {
     "ID": "I-0497",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "300x60x236cm",
     "Price": 100400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4972,7 +4972,7 @@
   {
     "ID": "I-0498",
     "Name": "PAX / GRIMO/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "161x236cm",
     "Price": 102100,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4982,7 +4982,7 @@
   {
     "ID": "I-0499",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "250x60x236cm",
     "Price": 107000,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -4992,7 +4992,7 @@
   {
     "ID": "I-0500",
     "Name": "SKYTTA / PAX",
-    "Dimension": "",
+    "Dimension": "276x160x240cm",
     "Price": 109400,
     "Type": "Storage",
     "SubType": "cupboard",
@@ -5002,7 +5002,7 @@
   {
     "ID": "I-0501",
     "Name": "BRÄMÖN",
-    "Dimension": "",
+    "Dimension": "34x34x1.0cm",
     "Price": 129,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5012,7 +5012,7 @@
   {
     "ID": "I-0502",
     "Name": "BROKAKLEJA",
-    "Dimension": "",
+    "Dimension": "40x40x6cm",
     "Price": 399,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5032,7 +5032,7 @@
   {
     "ID": "I-0504",
     "Name": "JUSTINA",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 499,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5042,7 +5042,7 @@
   {
     "ID": "I-0505",
     "Name": "MALINDA",
-    "Dimension": "",
+    "Dimension": "35x38x7cm",
     "Price": 599,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5262,7 +5262,7 @@
   {
     "ID": "I-0527",
     "Name": "JUSTINA",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 2994,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5302,7 +5302,7 @@
   {
     "ID": "I-0531",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 3990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5722,7 +5722,7 @@
   {
     "ID": "I-0573",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 16990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5742,7 +5742,7 @@
   {
     "ID": "I-0575",
     "Name": "ÅLHULT / KRYLBO",
-    "Dimension": "",
+    "Dimension": "80x74cm",
     "Price": 22890,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5752,7 +5752,7 @@
   {
     "ID": "I-0576",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "111x47x95cm",
     "Price": 24990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5762,7 +5762,7 @@
   {
     "ID": "I-0577",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "88x78cm",
     "Price": 25890,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5772,7 +5772,7 @@
   {
     "ID": "I-0578",
     "Name": "Näsinge / BERGMUND",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 26490,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5782,7 +5782,7 @@
   {
     "ID": "I-0579",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "180x74cm",
     "Price": 27690,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5792,7 +5792,7 @@
   {
     "ID": "I-0580",
     "Name": "HAUGA / STEFAN",
-    "Dimension": "",
+    "Dimension": "118x74cm",
     "Price": 27790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5802,7 +5802,7 @@
   {
     "ID": "I-0581",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "151x90cm",
     "Price": 31790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5812,7 +5812,7 @@
   {
     "ID": "I-0582",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "180x101x74cm",
     "Price": 32990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5832,7 +5832,7 @@
   {
     "ID": "I-0584",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x85cm",
     "Price": 34990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5842,7 +5842,7 @@
   {
     "ID": "I-0585",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "120x80cm",
     "Price": 36790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5852,7 +5852,7 @@
   {
     "ID": "I-0586",
     "Name": "Näsinge / Näsinge",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 38790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5862,7 +5862,7 @@
   {
     "ID": "I-0587",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "235x100cm",
     "Price": 39990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5872,7 +5872,7 @@
   {
     "ID": "I-0588",
     "Name": "ROSENTORP",
-    "Dimension": "",
+    "Dimension": "215x87cm",
     "Price": 39990,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5882,7 +5882,7 @@
   {
     "ID": "I-0589",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 40790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5892,7 +5892,7 @@
   {
     "ID": "I-0590",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "170x80cm",
     "Price": 40790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5922,7 +5922,7 @@
   {
     "ID": "I-0593",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "170x80cm",
     "Price": 54690,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5932,7 +5932,7 @@
   {
     "ID": "I-0594",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "220x80cm",
     "Price": 58690,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5942,7 +5942,7 @@
   {
     "ID": "I-0595",
     "Name": "ROSENTORP / Näsinge",
-    "Dimension": "",
+    "Dimension": "215x87cm",
     "Price": 63790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5952,7 +5952,7 @@
   {
     "ID": "I-0596",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "196x85cm",
     "Price": 65790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5972,7 +5972,7 @@
   {
     "ID": "I-0598",
     "Name": "TONSTAD / TONSTAD",
-    "Dimension": "",
+    "Dimension": "196x85cm",
     "Price": 69790,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5982,7 +5982,7 @@
   {
     "ID": "I-0599",
     "Name": "TONSTAD / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x85cm",
     "Price": 79690,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -5992,7 +5992,7 @@
   {
     "ID": "I-0600",
     "Name": "ROSENTORP / Näsinge",
-    "Dimension": "",
+    "Dimension": "215x110cm",
     "Price": 85690,
     "Type": "Chair",
     "SubType": "dining chair",
@@ -6022,7 +6022,7 @@
   {
     "ID": "I-0603",
     "Name": "FEJAN",
-    "Dimension": "",
+    "Dimension": "50x44cm",
     "Price": 1690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6032,7 +6032,7 @@
   {
     "ID": "I-0604",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "37x45cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6072,7 +6072,7 @@
   {
     "ID": "I-0608",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6082,7 +6082,7 @@
   {
     "ID": "I-0609",
     "Name": "GUNDE / GUNDE",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 4388,
     "Type": "Table",
     "SubType": "dining table",
@@ -6102,7 +6102,7 @@
   {
     "ID": "I-0611",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6112,7 +6112,7 @@
   {
     "ID": "I-0612",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 5190,
     "Type": "Table",
     "SubType": "dining table",
@@ -6142,7 +6142,7 @@
   {
     "ID": "I-0615",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6162,7 +6162,7 @@
   {
     "ID": "I-0617",
     "Name": "NORBERG",
-    "Dimension": "",
+    "Dimension": "74x60cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6172,7 +6172,7 @@
   {
     "ID": "I-0618",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 6590,
     "Type": "Table",
     "SubType": "dining table",
@@ -6182,7 +6182,7 @@
   {
     "ID": "I-0619",
     "Name": "TORPARÖ",
-    "Dimension": "",
+    "Dimension": "50x35cm",
     "Price": 6890,
     "Type": "Table",
     "SubType": "dining table",
@@ -6192,7 +6192,7 @@
   {
     "ID": "I-0620",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "75x63cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6202,7 +6202,7 @@
   {
     "ID": "I-0621",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 7390,
     "Type": "Table",
     "SubType": "dining table",
@@ -6212,7 +6212,7 @@
   {
     "ID": "I-0622",
     "Name": "ASKHOLMEN",
-    "Dimension": "",
+    "Dimension": "143x75cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6222,7 +6222,7 @@
   {
     "ID": "I-0623",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "108x37cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6232,7 +6232,7 @@
   {
     "ID": "I-0624",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6252,7 +6252,7 @@
   {
     "ID": "I-0626",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74x92cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6262,7 +6262,7 @@
   {
     "ID": "I-0627",
     "Name": "HÅKANSKÄR",
-    "Dimension": "",
+    "Dimension": "80x64cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6282,7 +6282,7 @@
   {
     "ID": "I-0629",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "145x145x120cm",
     "Price": 9490,
     "Type": "Table",
     "SubType": "dining table",
@@ -6292,7 +6292,7 @@
   {
     "ID": "I-0630",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "180x74cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6302,7 +6302,7 @@
   {
     "ID": "I-0631",
     "Name": "ÅLHULT",
-    "Dimension": "",
+    "Dimension": "80x74cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6312,7 +6312,7 @@
   {
     "ID": "I-0632",
     "Name": "Näsinge",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6322,7 +6322,7 @@
   {
     "ID": "I-0633",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 10190,
     "Type": "Table",
     "SubType": "dining table",
@@ -6332,7 +6332,7 @@
   {
     "ID": "I-0634",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 10890,
     "Type": "Table",
     "SubType": "dining table",
@@ -6342,7 +6342,7 @@
   {
     "ID": "I-0635",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "118x74cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6352,7 +6352,7 @@
   {
     "ID": "I-0636",
     "Name": "ÅLHULT",
-    "Dimension": "",
+    "Dimension": "120x80cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6362,7 +6362,7 @@
   {
     "ID": "I-0637",
     "Name": "PINNTORP",
-    "Dimension": "",
+    "Dimension": "125x75cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6372,7 +6372,7 @@
   {
     "ID": "I-0638",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74cm",
     "Price": 13790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6392,7 +6392,7 @@
   {
     "ID": "I-0640",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "95x37x90cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6402,7 +6402,7 @@
   {
     "ID": "I-0641",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "88x78cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6412,7 +6412,7 @@
   {
     "ID": "I-0642",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x74cm",
     "Price": 14400,
     "Type": "Table",
     "SubType": "dining table",
@@ -6422,7 +6422,7 @@
   {
     "ID": "I-0643",
     "Name": "Näsinge",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6432,7 +6432,7 @@
   {
     "ID": "I-0644",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "168x74cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6442,7 +6442,7 @@
   {
     "ID": "I-0645",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "140x37x75cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6452,7 +6452,7 @@
   {
     "ID": "I-0646",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6462,7 +6462,7 @@
   {
     "ID": "I-0647",
     "Name": "PINNTORP",
-    "Dimension": "",
+    "Dimension": "124x75cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6472,7 +6472,7 @@
   {
     "ID": "I-0648",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "180x74cm",
     "Price": 17790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6482,7 +6482,7 @@
   {
     "ID": "I-0649",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x74cm",
     "Price": 17800,
     "Type": "Table",
     "SubType": "dining table",
@@ -6492,7 +6492,7 @@
   {
     "ID": "I-0650",
     "Name": "DANDERYD",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 17990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6502,7 +6502,7 @@
   {
     "ID": "I-0651",
     "Name": "SEGERÖN",
-    "Dimension": "",
+    "Dimension": "91x147cm",
     "Price": 17990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6512,7 +6512,7 @@
   {
     "ID": "I-0652",
     "Name": "ÅLHULT",
-    "Dimension": "",
+    "Dimension": "170x80cm",
     "Price": 18990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6532,7 +6532,7 @@
   {
     "ID": "I-0654",
     "Name": "HÄGERNÄS",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 19990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6542,7 +6542,7 @@
   {
     "ID": "I-0655",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "151x90cm",
     "Price": 19990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6552,7 +6552,7 @@
   {
     "ID": "I-0656",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "180x74cm",
     "Price": 21690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6562,7 +6562,7 @@
   {
     "ID": "I-0657",
     "Name": "ÅLHULT / KRYLBO",
-    "Dimension": "",
+    "Dimension": "80x74cm",
     "Price": 22890,
     "Type": "Table",
     "SubType": "dining table",
@@ -6572,7 +6572,7 @@
   {
     "ID": "I-0658",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "151x90cm",
     "Price": 22970,
     "Type": "Table",
     "SubType": "dining table",
@@ -6582,7 +6582,7 @@
   {
     "ID": "I-0659",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "200x78cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6592,7 +6592,7 @@
   {
     "ID": "I-0660",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "150x80cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6602,7 +6602,7 @@
   {
     "ID": "I-0661",
     "Name": "DANDERYD",
-    "Dimension": "",
+    "Dimension": "180x90cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6612,7 +6612,7 @@
   {
     "ID": "I-0662",
     "Name": "Näsinge",
-    "Dimension": "",
+    "Dimension": "32x34x32cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6622,7 +6622,7 @@
   {
     "ID": "I-0663",
     "Name": "HAUGA / HAUGA",
-    "Dimension": "",
+    "Dimension": "118x74cm",
     "Price": 23790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6632,7 +6632,7 @@
   {
     "ID": "I-0664",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x74cm",
     "Price": 24600,
     "Type": "Table",
     "SubType": "dining table",
@@ -6642,7 +6642,7 @@
   {
     "ID": "I-0665",
     "Name": "NORDEN",
-    "Dimension": "",
+    "Dimension": "152x80cm",
     "Price": 24990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6652,7 +6652,7 @@
   {
     "ID": "I-0666",
     "Name": "Näsinge",
-    "Dimension": "",
+    "Dimension": "190x80cm",
     "Price": 24990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6662,7 +6662,7 @@
   {
     "ID": "I-0667",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "88x78cm",
     "Price": 25890,
     "Type": "Table",
     "SubType": "dining table",
@@ -6672,7 +6672,7 @@
   {
     "ID": "I-0668",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "151x90cm",
     "Price": 25950,
     "Type": "Table",
     "SubType": "dining table",
@@ -6682,7 +6682,7 @@
   {
     "ID": "I-0669",
     "Name": "Näsinge / BERGMUND",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 26490,
     "Type": "Table",
     "SubType": "dining table",
@@ -6692,7 +6692,7 @@
   {
     "ID": "I-0670",
     "Name": "Näsinge / FRÖSVI",
-    "Dimension": "",
+    "Dimension": "159x85cm",
     "Price": 28970,
     "Type": "Table",
     "SubType": "dining table",
@@ -6712,7 +6712,7 @@
   {
     "ID": "I-0672",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "180x101x74cm",
     "Price": 32990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6722,7 +6722,7 @@
   {
     "ID": "I-0673",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x85cm",
     "Price": 34990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6742,7 +6742,7 @@
   {
     "ID": "I-0675",
     "Name": "HAUGA / STEFAN",
-    "Dimension": "",
+    "Dimension": "168x74cm",
     "Price": 38690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6752,7 +6752,7 @@
   {
     "ID": "I-0676",
     "Name": "Näsinge / Näsinge",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 38790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6762,7 +6762,7 @@
   {
     "ID": "I-0677",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "235x100cm",
     "Price": 39990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6772,7 +6772,7 @@
   {
     "ID": "I-0678",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "196x85cm",
     "Price": 39990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6782,7 +6782,7 @@
   {
     "ID": "I-0679",
     "Name": "ROSENTORP",
-    "Dimension": "",
+    "Dimension": "215x87cm",
     "Price": 39990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6792,7 +6792,7 @@
   {
     "ID": "I-0680",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x112cm",
     "Price": 40000,
     "Type": "Table",
     "SubType": "dining table",
@@ -6802,7 +6802,7 @@
   {
     "ID": "I-0681",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 40790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6812,7 +6812,7 @@
   {
     "ID": "I-0682",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "170x80cm",
     "Price": 40790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6842,7 +6842,7 @@
   {
     "ID": "I-0685",
     "Name": "Näsinge / Näsinge",
-    "Dimension": "",
+    "Dimension": "190x80cm",
     "Price": 48790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6852,7 +6852,7 @@
   {
     "ID": "I-0686",
     "Name": "ROSENTORP",
-    "Dimension": "",
+    "Dimension": "215x110cm",
     "Price": 49990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6862,7 +6862,7 @@
   {
     "ID": "I-0687",
     "Name": "MÖRBYLÅNGA",
-    "Dimension": "",
+    "Dimension": "140x85cm",
     "Price": 49990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6872,7 +6872,7 @@
   {
     "ID": "I-0688",
     "Name": "MARIEDAMM",
-    "Dimension": "",
+    "Dimension": "180x100cm",
     "Price": 49990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6882,7 +6882,7 @@
   {
     "ID": "I-0689",
     "Name": "STOCKHOLM 2025",
-    "Dimension": "",
+    "Dimension": "230x90cm",
     "Price": 50990,
     "Type": "Table",
     "SubType": "dining table",
@@ -6892,7 +6892,7 @@
   {
     "ID": "I-0690",
     "Name": "TONSTAD / TONSTAD",
-    "Dimension": "",
+    "Dimension": "150x80cm",
     "Price": 52790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6902,7 +6902,7 @@
   {
     "ID": "I-0691",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "170x80cm",
     "Price": 54690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6912,7 +6912,7 @@
   {
     "ID": "I-0692",
     "Name": "ÅLHULT / ÅLHULT",
-    "Dimension": "",
+    "Dimension": "220x80cm",
     "Price": 58690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6922,7 +6922,7 @@
   {
     "ID": "I-0693",
     "Name": "ROSENTORP / Näsinge",
-    "Dimension": "",
+    "Dimension": "215x87cm",
     "Price": 63790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6932,7 +6932,7 @@
   {
     "ID": "I-0694",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "196x85cm",
     "Price": 65790,
     "Type": "Table",
     "SubType": "dining table",
@@ -6952,7 +6952,7 @@
   {
     "ID": "I-0696",
     "Name": "SKOGSTA / NORDVIKEN",
-    "Dimension": "",
+    "Dimension": "235x100cm",
     "Price": 75690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6962,7 +6962,7 @@
   {
     "ID": "I-0697",
     "Name": "TONSTAD / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x85cm",
     "Price": 79690,
     "Type": "Table",
     "SubType": "dining table",
@@ -6972,7 +6972,7 @@
   {
     "ID": "I-0698",
     "Name": "TONSTAD / TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x85cm",
     "Price": 94684,
     "Type": "Table",
     "SubType": "dining table",
@@ -6982,7 +6982,7 @@
   {
     "ID": "I-0699",
     "Name": "ROSENTORP / ROSENTORP",
-    "Dimension": "",
+    "Dimension": "215x110cm",
     "Price": 97690,
     "Type": "Table",
     "SubType": "dining table",
@@ -7202,7 +7202,7 @@
   {
     "ID": "I-0721",
     "Name": "POÄNG",
-    "Dimension": "",
+    "Dimension": "55x50cm",
     "Price": 2390,
     "Type": "Chair",
     "SubType": "rocking chair",
@@ -7462,7 +7462,7 @@
   {
     "ID": "I-0747",
     "Name": "HAVREKROSS",
-    "Dimension": "",
+    "Dimension": "23x13cm",
     "Price": 149,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7472,7 +7472,7 @@
   {
     "ID": "I-0748",
     "Name": "BURHULT",
-    "Dimension": "",
+    "Dimension": "59x20cm",
     "Price": 199,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7482,7 +7482,7 @@
   {
     "ID": "I-0749",
     "Name": "BURHULT / SIBBHULT",
-    "Dimension": "",
+    "Dimension": "59x20cm",
     "Price": 299,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7492,7 +7492,7 @@
   {
     "ID": "I-0750",
     "Name": "VARIERA",
-    "Dimension": "",
+    "Dimension": "32x28x16cm",
     "Price": 399,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7512,7 +7512,7 @@
   {
     "ID": "I-0752",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "30x26cm",
     "Price": 499,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7522,7 +7522,7 @@
   {
     "ID": "I-0753",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "36x26cm",
     "Price": 500,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7532,7 +7532,7 @@
   {
     "ID": "I-0754",
     "Name": "BURHULT / SIBBHULT",
-    "Dimension": "",
+    "Dimension": "59x20cm",
     "Price": 598,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7582,7 +7582,7 @@
   {
     "ID": "I-0759",
     "Name": "VESKEN",
-    "Dimension": "",
+    "Dimension": "33x33x71cm",
     "Price": 649,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7612,7 +7612,7 @@
   {
     "ID": "I-0762",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "76x26cm",
     "Price": 800,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7622,7 +7622,7 @@
   {
     "ID": "I-0763",
     "Name": "SVENSHULT",
-    "Dimension": "",
+    "Dimension": "60x20cm",
     "Price": 899,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7632,7 +7632,7 @@
   {
     "ID": "I-0764",
     "Name": "BERGSHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7652,7 +7652,7 @@
   {
     "ID": "I-0766",
     "Name": "BERGSHULT",
-    "Dimension": "",
+    "Dimension": "80x30cm",
     "Price": 1190,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7662,7 +7662,7 @@
   {
     "ID": "I-0767",
     "Name": "OMAR",
-    "Dimension": "",
+    "Dimension": "60x25x40cm",
     "Price": 1190,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7672,7 +7672,7 @@
   {
     "ID": "I-0768",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "110x26cm",
     "Price": 1390,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7682,7 +7682,7 @@
   {
     "ID": "I-0769",
     "Name": "HYLLIS",
-    "Dimension": "",
+    "Dimension": "60x27x74cm",
     "Price": 1390,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7692,7 +7692,7 @@
   {
     "ID": "I-0770",
     "Name": "GULLHULT",
-    "Dimension": "",
+    "Dimension": "30x40cm",
     "Price": 1490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7712,7 +7712,7 @@
   {
     "ID": "I-0772",
     "Name": "UTRUSTA",
-    "Dimension": "",
+    "Dimension": "80x37cm",
     "Price": 1500,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7722,7 +7722,7 @@
   {
     "ID": "I-0773",
     "Name": "BERGSHULT / RAMSHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 1552,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7732,7 +7732,7 @@
   {
     "ID": "I-0774",
     "Name": "BERGSHULT / KROKSHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 1590,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7742,7 +7742,7 @@
   {
     "ID": "I-0775",
     "Name": "BAGGEBO",
-    "Dimension": "",
+    "Dimension": "60x25x116cm",
     "Price": 1790,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7752,7 +7752,7 @@
   {
     "ID": "I-0776",
     "Name": "BERGSHULT / KROKSHULT",
-    "Dimension": "",
+    "Dimension": "80x30cm",
     "Price": 1790,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7762,7 +7762,7 @@
   {
     "ID": "I-0777",
     "Name": "GURSKEN",
-    "Dimension": "",
+    "Dimension": "39x30cm",
     "Price": 1790,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7772,7 +7772,7 @@
   {
     "ID": "I-0778",
     "Name": "HYLLIS",
-    "Dimension": "",
+    "Dimension": "60x27x140cm",
     "Price": 1990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7782,7 +7782,7 @@
   {
     "ID": "I-0779",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "40x28x106cm",
     "Price": 1990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7792,7 +7792,7 @@
   {
     "ID": "I-0780",
     "Name": "RUNMARÖ",
-    "Dimension": "",
+    "Dimension": "60x30x133cm",
     "Price": 1990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7802,7 +7802,7 @@
   {
     "ID": "I-0781",
     "Name": "FÄRGSÄTTARE",
-    "Dimension": "",
+    "Dimension": "60x16x74cm",
     "Price": 2000,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7812,7 +7812,7 @@
   {
     "ID": "I-0782",
     "Name": "BERGSHULT / GRANHULT",
-    "Dimension": "",
+    "Dimension": "80x30cm",
     "Price": 2190,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7822,7 +7822,7 @@
   {
     "ID": "I-0783",
     "Name": "BERGSHULT / TOMTHULT",
-    "Dimension": "",
+    "Dimension": "120x30cm",
     "Price": 2190,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7832,7 +7832,7 @@
   {
     "ID": "I-0784",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "25x51x70cm",
     "Price": 2200,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7842,7 +7842,7 @@
   {
     "ID": "I-0785",
     "Name": "TROFAST",
-    "Dimension": "",
+    "Dimension": "20x30x10cm",
     "Price": 2450,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7852,7 +7852,7 @@
   {
     "ID": "I-0786",
     "Name": "LERBERG",
-    "Dimension": "",
+    "Dimension": "60x148cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7862,7 +7862,7 @@
   {
     "ID": "I-0787",
     "Name": "BAGGEBO",
-    "Dimension": "",
+    "Dimension": "50x30x80cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7872,7 +7872,7 @@
   {
     "ID": "I-0788",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "50x51x70cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7882,7 +7882,7 @@
   {
     "ID": "I-0789",
     "Name": "KRÖNIKÖR",
-    "Dimension": "",
+    "Dimension": "60x35x91cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7892,7 +7892,7 @@
   {
     "ID": "I-0790",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "101x20cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7902,7 +7902,7 @@
   {
     "ID": "I-0791",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x35x35cm",
     "Price": 2600,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7912,7 +7912,7 @@
   {
     "ID": "I-0792",
     "Name": "BERGSHULT / PERSHULT",
-    "Dimension": "",
+    "Dimension": "120x30cm",
     "Price": 2790,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7922,7 +7922,7 @@
   {
     "ID": "I-0793",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "25x51x70cm",
     "Price": 2800,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7932,7 +7932,7 @@
   {
     "ID": "I-0794",
     "Name": "SUNNERSTA",
-    "Dimension": "",
+    "Dimension": "56x38cm",
     "Price": 2990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7942,7 +7942,7 @@
   {
     "ID": "I-0795",
     "Name": "FRÖSJÖN",
-    "Dimension": "",
+    "Dimension": "40x96cm",
     "Price": 2990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7962,7 +7962,7 @@
   {
     "ID": "I-0797",
     "Name": "EKBY ALEX",
-    "Dimension": "",
+    "Dimension": "119x29cm",
     "Price": 3490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7972,7 +7972,7 @@
   {
     "ID": "I-0798",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "50x51x70cm",
     "Price": 3500,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7982,7 +7982,7 @@
   {
     "ID": "I-0799",
     "Name": "ENHET",
-    "Dimension": "",
+    "Dimension": "60x15x75cm",
     "Price": 3600,
     "Type": "Storage",
     "SubType": "shelves",
@@ -7992,7 +7992,7 @@
   {
     "ID": "I-0800",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x106cm",
     "Price": 3690,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8002,7 +8002,7 @@
   {
     "ID": "I-0801",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "80x38x160cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8012,7 +8012,7 @@
   {
     "ID": "I-0802",
     "Name": "GERSBY",
-    "Dimension": "",
+    "Dimension": "60x180cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8032,7 +8032,7 @@
   {
     "ID": "I-0804",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x25x35cm",
     "Price": 4400,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8042,7 +8042,7 @@
   {
     "ID": "I-0805",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "51x175cm",
     "Price": 4490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8052,7 +8052,7 @@
   {
     "ID": "I-0806",
     "Name": "TORNVIKEN",
-    "Dimension": "",
+    "Dimension": "20x37x40cm",
     "Price": 4500,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8062,7 +8062,7 @@
   {
     "ID": "I-0807",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "40x28x202cm",
     "Price": 4990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8072,7 +8072,7 @@
   {
     "ID": "I-0808",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "80x28x106cm",
     "Price": 4990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8082,7 +8082,7 @@
   {
     "ID": "I-0809",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "70x35x70cm",
     "Price": 5000,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8092,7 +8092,7 @@
   {
     "ID": "I-0810",
     "Name": "BERGSHULT / GRANHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 5370,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8102,7 +8102,7 @@
   {
     "ID": "I-0811",
     "Name": "VARBY",
-    "Dimension": "",
+    "Dimension": "53x155cm",
     "Price": 5490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8112,7 +8112,7 @@
   {
     "ID": "I-0812",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "76x39x18cm",
     "Price": 5490,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8122,7 +8122,7 @@
   {
     "ID": "I-0813",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "30x190cm",
     "Price": 6190,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8132,7 +8132,7 @@
   {
     "ID": "I-0814",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "80x28x202cm",
     "Price": 6990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8142,7 +8142,7 @@
   {
     "ID": "I-0815",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "50x136cm",
     "Price": 6990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8152,7 +8152,7 @@
   {
     "ID": "I-0816",
     "Name": "EKENABBEN",
-    "Dimension": "",
+    "Dimension": "70x34x154cm",
     "Price": 6990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8162,7 +8162,7 @@
   {
     "ID": "I-0817",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x40cm",
     "Price": 7300,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8172,7 +8172,7 @@
   {
     "ID": "I-0818",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x37x60cm",
     "Price": 7500,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8182,7 +8182,7 @@
   {
     "ID": "I-0819",
     "Name": "MOSSJÖN",
-    "Dimension": "",
+    "Dimension": "36x18x102cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8192,7 +8192,7 @@
   {
     "ID": "I-0820",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "77x147cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8202,7 +8202,7 @@
   {
     "ID": "I-0821",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x202cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8212,7 +8212,7 @@
   {
     "ID": "I-0822",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "147x77cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8222,7 +8222,7 @@
   {
     "ID": "I-0823",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "77x39x164cm",
     "Price": 10390,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8232,7 +8232,7 @@
   {
     "ID": "I-0824",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x80cm",
     "Price": 10400,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8242,7 +8242,7 @@
   {
     "ID": "I-0825",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "60x190cm",
     "Price": 10990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8252,7 +8252,7 @@
   {
     "ID": "I-0826",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x40cm",
     "Price": 11600,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8262,7 +8262,7 @@
   {
     "ID": "I-0827",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "100x136cm",
     "Price": 11990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8272,7 +8272,7 @@
   {
     "ID": "I-0828",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x48cm",
     "Price": 12900,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8282,7 +8282,7 @@
   {
     "ID": "I-0829",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x74cm",
     "Price": 14400,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8292,7 +8292,7 @@
   {
     "ID": "I-0830",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "68x37x80cm",
     "Price": 14900,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8302,7 +8302,7 @@
   {
     "ID": "I-0831",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "146x39x18cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8312,7 +8312,7 @@
   {
     "ID": "I-0832",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "200x36x175cm",
     "Price": 15980,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8322,7 +8322,7 @@
   {
     "ID": "I-0833",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "80x30x202cm",
     "Price": 15990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8332,7 +8332,7 @@
   {
     "ID": "I-0834",
     "Name": "JÄTTESTA",
-    "Dimension": "",
+    "Dimension": "80x195cm",
     "Price": 17990,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8342,7 +8342,7 @@
   {
     "ID": "I-0835",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x80cm",
     "Price": 20700,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8352,7 +8352,7 @@
   {
     "ID": "I-0836",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x200cm",
     "Price": 21100,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8362,7 +8362,7 @@
   {
     "ID": "I-0837",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x64cm",
     "Price": 21600,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8372,7 +8372,7 @@
   {
     "ID": "I-0838",
     "Name": "LÅDMAKARE",
-    "Dimension": "",
+    "Dimension": "159x35x212cm",
     "Price": 22300,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8382,7 +8382,7 @@
   {
     "ID": "I-0839",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "240x42x38cm",
     "Price": 23200,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8392,7 +8392,7 @@
   {
     "ID": "I-0840",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 24600,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8402,7 +8402,7 @@
   {
     "ID": "I-0841",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 27200,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8412,7 +8412,7 @@
   {
     "ID": "I-0842",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x240cm",
     "Price": 30300,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8422,7 +8422,7 @@
   {
     "ID": "I-0843",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x193cm",
     "Price": 32800,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8432,7 +8432,7 @@
   {
     "ID": "I-0844",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x220cm",
     "Price": 32900,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8442,7 +8442,7 @@
   {
     "ID": "I-0845",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x200cm",
     "Price": 34500,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8452,7 +8452,7 @@
   {
     "ID": "I-0846",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "121x47x206cm",
     "Price": 61980,
     "Type": "Storage",
     "SubType": "shelves",
@@ -8462,7 +8462,7 @@
   {
     "ID": "I-0847",
     "Name": "HAVREKROSS",
-    "Dimension": "",
+    "Dimension": "23x13cm",
     "Price": 149,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8472,7 +8472,7 @@
   {
     "ID": "I-0848",
     "Name": "BURHULT",
-    "Dimension": "",
+    "Dimension": "59x20cm",
     "Price": 199,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8482,7 +8482,7 @@
   {
     "ID": "I-0849",
     "Name": "BURHULT / SIBBHULT",
-    "Dimension": "",
+    "Dimension": "59x20cm",
     "Price": 299,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8492,7 +8492,7 @@
   {
     "ID": "I-0850",
     "Name": "VARIERA",
-    "Dimension": "",
+    "Dimension": "32x28x16cm",
     "Price": 399,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8512,7 +8512,7 @@
   {
     "ID": "I-0852",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "30x26cm",
     "Price": 499,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8522,7 +8522,7 @@
   {
     "ID": "I-0853",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "36x26cm",
     "Price": 500,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8532,7 +8532,7 @@
   {
     "ID": "I-0854",
     "Name": "BURHULT / SIBBHULT",
-    "Dimension": "",
+    "Dimension": "59x20cm",
     "Price": 598,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8582,7 +8582,7 @@
   {
     "ID": "I-0859",
     "Name": "VESKEN",
-    "Dimension": "",
+    "Dimension": "33x33x71cm",
     "Price": 649,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8612,7 +8612,7 @@
   {
     "ID": "I-0862",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "76x26cm",
     "Price": 800,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8622,7 +8622,7 @@
   {
     "ID": "I-0863",
     "Name": "SVENSHULT",
-    "Dimension": "",
+    "Dimension": "60x20cm",
     "Price": 899,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8632,7 +8632,7 @@
   {
     "ID": "I-0864",
     "Name": "BERGSHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8652,7 +8652,7 @@
   {
     "ID": "I-0866",
     "Name": "BERGSHULT",
-    "Dimension": "",
+    "Dimension": "80x30cm",
     "Price": 1190,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8662,7 +8662,7 @@
   {
     "ID": "I-0867",
     "Name": "OMAR",
-    "Dimension": "",
+    "Dimension": "60x25x40cm",
     "Price": 1190,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8672,7 +8672,7 @@
   {
     "ID": "I-0868",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "110x26cm",
     "Price": 1390,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8682,7 +8682,7 @@
   {
     "ID": "I-0869",
     "Name": "HYLLIS",
-    "Dimension": "",
+    "Dimension": "60x27x74cm",
     "Price": 1390,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8692,7 +8692,7 @@
   {
     "ID": "I-0870",
     "Name": "GULLHULT",
-    "Dimension": "",
+    "Dimension": "30x40cm",
     "Price": 1490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8712,7 +8712,7 @@
   {
     "ID": "I-0872",
     "Name": "UTRUSTA",
-    "Dimension": "",
+    "Dimension": "80x37cm",
     "Price": 1500,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8722,7 +8722,7 @@
   {
     "ID": "I-0873",
     "Name": "BERGSHULT / RAMSHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 1552,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8732,7 +8732,7 @@
   {
     "ID": "I-0874",
     "Name": "BERGSHULT / KROKSHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 1590,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8742,7 +8742,7 @@
   {
     "ID": "I-0875",
     "Name": "BAGGEBO",
-    "Dimension": "",
+    "Dimension": "60x25x116cm",
     "Price": 1790,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8752,7 +8752,7 @@
   {
     "ID": "I-0876",
     "Name": "BERGSHULT / KROKSHULT",
-    "Dimension": "",
+    "Dimension": "80x30cm",
     "Price": 1790,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8762,7 +8762,7 @@
   {
     "ID": "I-0877",
     "Name": "GURSKEN",
-    "Dimension": "",
+    "Dimension": "39x30cm",
     "Price": 1790,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8772,7 +8772,7 @@
   {
     "ID": "I-0878",
     "Name": "HYLLIS",
-    "Dimension": "",
+    "Dimension": "60x27x140cm",
     "Price": 1990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8782,7 +8782,7 @@
   {
     "ID": "I-0879",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "40x28x106cm",
     "Price": 1990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8792,7 +8792,7 @@
   {
     "ID": "I-0880",
     "Name": "RUNMARÖ",
-    "Dimension": "",
+    "Dimension": "60x30x133cm",
     "Price": 1990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8802,7 +8802,7 @@
   {
     "ID": "I-0881",
     "Name": "FÄRGSÄTTARE",
-    "Dimension": "",
+    "Dimension": "60x16x74cm",
     "Price": 2000,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8812,7 +8812,7 @@
   {
     "ID": "I-0882",
     "Name": "BERGSHULT / GRANHULT",
-    "Dimension": "",
+    "Dimension": "80x30cm",
     "Price": 2190,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8822,7 +8822,7 @@
   {
     "ID": "I-0883",
     "Name": "BERGSHULT / TOMTHULT",
-    "Dimension": "",
+    "Dimension": "120x30cm",
     "Price": 2190,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8832,7 +8832,7 @@
   {
     "ID": "I-0884",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "25x51x70cm",
     "Price": 2200,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8842,7 +8842,7 @@
   {
     "ID": "I-0885",
     "Name": "TROFAST",
-    "Dimension": "",
+    "Dimension": "20x30x10cm",
     "Price": 2450,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8852,7 +8852,7 @@
   {
     "ID": "I-0886",
     "Name": "LERBERG",
-    "Dimension": "",
+    "Dimension": "60x148cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8862,7 +8862,7 @@
   {
     "ID": "I-0887",
     "Name": "BAGGEBO",
-    "Dimension": "",
+    "Dimension": "50x30x80cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8872,7 +8872,7 @@
   {
     "ID": "I-0888",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "50x51x70cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8882,7 +8882,7 @@
   {
     "ID": "I-0889",
     "Name": "KRÖNIKÖR",
-    "Dimension": "",
+    "Dimension": "60x35x91cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8892,7 +8892,7 @@
   {
     "ID": "I-0890",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "101x20cm",
     "Price": 2490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8902,7 +8902,7 @@
   {
     "ID": "I-0891",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x35x35cm",
     "Price": 2600,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8912,7 +8912,7 @@
   {
     "ID": "I-0892",
     "Name": "BERGSHULT / PERSHULT",
-    "Dimension": "",
+    "Dimension": "120x30cm",
     "Price": 2790,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8922,7 +8922,7 @@
   {
     "ID": "I-0893",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "25x51x70cm",
     "Price": 2800,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8932,7 +8932,7 @@
   {
     "ID": "I-0894",
     "Name": "SUNNERSTA",
-    "Dimension": "",
+    "Dimension": "56x38cm",
     "Price": 2990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8942,7 +8942,7 @@
   {
     "ID": "I-0895",
     "Name": "FRÖSJÖN",
-    "Dimension": "",
+    "Dimension": "40x96cm",
     "Price": 2990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8962,7 +8962,7 @@
   {
     "ID": "I-0897",
     "Name": "EKBY ALEX",
-    "Dimension": "",
+    "Dimension": "119x29cm",
     "Price": 3490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8972,7 +8972,7 @@
   {
     "ID": "I-0898",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "50x51x70cm",
     "Price": 3500,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8982,7 +8982,7 @@
   {
     "ID": "I-0899",
     "Name": "ENHET",
-    "Dimension": "",
+    "Dimension": "60x15x75cm",
     "Price": 3600,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -8992,7 +8992,7 @@
   {
     "ID": "I-0900",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x106cm",
     "Price": 3690,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9002,7 +9002,7 @@
   {
     "ID": "I-0901",
     "Name": "JONAXEL",
-    "Dimension": "",
+    "Dimension": "80x38x160cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9012,7 +9012,7 @@
   {
     "ID": "I-0902",
     "Name": "GERSBY",
-    "Dimension": "",
+    "Dimension": "60x180cm",
     "Price": 3990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9032,7 +9032,7 @@
   {
     "ID": "I-0904",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "35x25x35cm",
     "Price": 4400,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9042,7 +9042,7 @@
   {
     "ID": "I-0905",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "51x175cm",
     "Price": 4490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9052,7 +9052,7 @@
   {
     "ID": "I-0906",
     "Name": "TORNVIKEN",
-    "Dimension": "",
+    "Dimension": "20x37x40cm",
     "Price": 4500,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9062,7 +9062,7 @@
   {
     "ID": "I-0907",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "40x28x202cm",
     "Price": 4990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9072,7 +9072,7 @@
   {
     "ID": "I-0908",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "80x28x106cm",
     "Price": 4990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9082,7 +9082,7 @@
   {
     "ID": "I-0909",
     "Name": "EKET",
-    "Dimension": "",
+    "Dimension": "70x35x70cm",
     "Price": 5000,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9092,7 +9092,7 @@
   {
     "ID": "I-0910",
     "Name": "BERGSHULT / GRANHULT",
-    "Dimension": "",
+    "Dimension": "80x20cm",
     "Price": 5370,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9102,7 +9102,7 @@
   {
     "ID": "I-0911",
     "Name": "VARBY",
-    "Dimension": "",
+    "Dimension": "53x155cm",
     "Price": 5490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9112,7 +9112,7 @@
   {
     "ID": "I-0912",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "76x39x18cm",
     "Price": 5490,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9122,7 +9122,7 @@
   {
     "ID": "I-0913",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "30x190cm",
     "Price": 6190,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9132,7 +9132,7 @@
   {
     "ID": "I-0914",
     "Name": "BILLY",
-    "Dimension": "",
+    "Dimension": "80x28x202cm",
     "Price": 6990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9142,7 +9142,7 @@
   {
     "ID": "I-0915",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "50x136cm",
     "Price": 6990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9152,7 +9152,7 @@
   {
     "ID": "I-0916",
     "Name": "EKENABBEN",
-    "Dimension": "",
+    "Dimension": "70x34x154cm",
     "Price": 6990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9162,7 +9162,7 @@
   {
     "ID": "I-0917",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x40cm",
     "Price": 7300,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9172,7 +9172,7 @@
   {
     "ID": "I-0918",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x37x60cm",
     "Price": 7500,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9182,7 +9182,7 @@
   {
     "ID": "I-0919",
     "Name": "MOSSJÖN",
-    "Dimension": "",
+    "Dimension": "36x18x102cm",
     "Price": 7990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9192,7 +9192,7 @@
   {
     "ID": "I-0920",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "77x147cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9202,7 +9202,7 @@
   {
     "ID": "I-0921",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "40x30x202cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9212,7 +9212,7 @@
   {
     "ID": "I-0922",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "147x77cm",
     "Price": 8990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9222,7 +9222,7 @@
   {
     "ID": "I-0923",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "77x39x164cm",
     "Price": 10390,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9232,7 +9232,7 @@
   {
     "ID": "I-0924",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x37x80cm",
     "Price": 10400,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9242,7 +9242,7 @@
   {
     "ID": "I-0925",
     "Name": "BRIMNES",
-    "Dimension": "",
+    "Dimension": "60x190cm",
     "Price": 10990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9252,7 +9252,7 @@
   {
     "ID": "I-0926",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x40cm",
     "Price": 11600,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9262,7 +9262,7 @@
   {
     "ID": "I-0927",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "100x136cm",
     "Price": 11990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9272,7 +9272,7 @@
   {
     "ID": "I-0928",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x48cm",
     "Price": 12900,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9282,7 +9282,7 @@
   {
     "ID": "I-0929",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x74cm",
     "Price": 14400,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9292,7 +9292,7 @@
   {
     "ID": "I-0930",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "68x37x80cm",
     "Price": 14900,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9302,7 +9302,7 @@
   {
     "ID": "I-0931",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "146x39x18cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9312,7 +9312,7 @@
   {
     "ID": "I-0932",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "200x36x175cm",
     "Price": 15980,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9322,7 +9322,7 @@
   {
     "ID": "I-0933",
     "Name": "BILLY / OXBERG",
-    "Dimension": "",
+    "Dimension": "80x30x202cm",
     "Price": 15990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9332,7 +9332,7 @@
   {
     "ID": "I-0934",
     "Name": "JÄTTESTA",
-    "Dimension": "",
+    "Dimension": "80x195cm",
     "Price": 17990,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9342,7 +9342,7 @@
   {
     "ID": "I-0935",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x80cm",
     "Price": 20700,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9352,7 +9352,7 @@
   {
     "ID": "I-0936",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "40x60x200cm",
     "Price": 21100,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9362,7 +9362,7 @@
   {
     "ID": "I-0937",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "180x42x64cm",
     "Price": 21600,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9372,7 +9372,7 @@
   {
     "ID": "I-0938",
     "Name": "LÅDMAKARE",
-    "Dimension": "",
+    "Dimension": "159x35x212cm",
     "Price": 22300,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9382,7 +9382,7 @@
   {
     "ID": "I-0939",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "240x42x38cm",
     "Price": 23200,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9392,7 +9392,7 @@
   {
     "ID": "I-0940",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 24600,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9402,7 +9402,7 @@
   {
     "ID": "I-0941",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x200cm",
     "Price": 27200,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9412,7 +9412,7 @@
   {
     "ID": "I-0942",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x240cm",
     "Price": 30300,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9422,7 +9422,7 @@
   {
     "ID": "I-0943",
     "Name": "BESTÅ",
-    "Dimension": "",
+    "Dimension": "120x42x193cm",
     "Price": 32800,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9432,7 +9432,7 @@
   {
     "ID": "I-0944",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "60x60x220cm",
     "Price": 32900,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9442,7 +9442,7 @@
   {
     "ID": "I-0945",
     "Name": "METOD",
-    "Dimension": "",
+    "Dimension": "80x37x200cm",
     "Price": 34500,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9452,7 +9452,7 @@
   {
     "ID": "I-0946",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "121x47x206cm",
     "Price": 61980,
     "Type": "Storage",
     "SubType": "shelves_output",
@@ -9482,7 +9482,7 @@
   {
     "ID": "I-0949",
     "Name": "JOLPEN",
-    "Dimension": "",
+    "Dimension": "100x59x67cm",
     "Price": 5990,
     "Type": "Sofa",
     "SubType": "sofa",
@@ -9512,7 +9512,7 @@
   {
     "ID": "I-0952",
     "Name": "INGMARSÖ",
-    "Dimension": "",
+    "Dimension": "118x69x69cm",
     "Price": 7990,
     "Type": "Sofa",
     "SubType": "sofa",
@@ -9632,7 +9632,7 @@
   {
     "ID": "I-0964",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 15480,
     "Type": "Sofa",
     "SubType": "sofa",
@@ -9702,7 +9702,7 @@
   {
     "ID": "I-0971",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "80x200cm",
     "Price": 20480,
     "Type": "Sofa",
     "SubType": "sofa",
@@ -10112,7 +10112,7 @@
   {
     "ID": "I-1012",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "260x148x108cm",
     "Price": 58000,
     "Type": "Sofa",
     "SubType": "sofa",
@@ -10472,7 +10472,7 @@
   {
     "ID": "I-1048",
     "Name": "SANDLÖPARE",
-    "Dimension": "",
+    "Dimension": "38x60cm",
     "Price": 299,
     "Type": "Table",
     "SubType": "study table",
@@ -10492,7 +10492,7 @@
   {
     "ID": "I-1050",
     "Name": "PLÖJA",
-    "Dimension": "",
+    "Dimension": "65x45cm",
     "Price": 399,
     "Type": "Table",
     "SubType": "study table",
@@ -10502,7 +10502,7 @@
   {
     "ID": "I-1051",
     "Name": "ÖVNING",
-    "Dimension": "",
+    "Dimension": "32x26cm",
     "Price": 699,
     "Type": "Table",
     "SubType": "study table",
@@ -10512,7 +10512,7 @@
   {
     "ID": "I-1052",
     "Name": "DRÖNJÖNS",
-    "Dimension": "",
+    "Dimension": "25x20cm",
     "Price": 999,
     "Type": "Table",
     "SubType": "study table",
@@ -10522,7 +10522,7 @@
   {
     "ID": "I-1053",
     "Name": "RISATORP",
-    "Dimension": "",
+    "Dimension": "50x16x17cm",
     "Price": 1490,
     "Type": "Table",
     "SubType": "study table",
@@ -10542,7 +10542,7 @@
   {
     "ID": "I-1055",
     "Name": "LINNMON",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 1490,
     "Type": "Table",
     "SubType": "study table",
@@ -10552,7 +10552,7 @@
   {
     "ID": "I-1056",
     "Name": "TORALD",
-    "Dimension": "",
+    "Dimension": "65x40cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "study table",
@@ -10582,7 +10582,7 @@
   {
     "ID": "I-1059",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "64x60cm",
     "Price": 2000,
     "Type": "Table",
     "SubType": "study table",
@@ -10602,7 +10602,7 @@
   {
     "ID": "I-1061",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "34x56cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "study table",
@@ -10612,7 +10612,7 @@
   {
     "ID": "I-1062",
     "Name": "LINNMON / ADILS",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 3490,
     "Type": "Table",
     "SubType": "study table",
@@ -10622,7 +10622,7 @@
   {
     "ID": "I-1063",
     "Name": "LINNMON / SPÄND",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 3490,
     "Type": "Table",
     "SubType": "study table",
@@ -10632,7 +10632,7 @@
   {
     "ID": "I-1064",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "100x36cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "study table",
@@ -10652,7 +10652,7 @@
   {
     "ID": "I-1066",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x60x75cm",
     "Price": 4000,
     "Type": "Table",
     "SubType": "study table",
@@ -10662,7 +10662,7 @@
   {
     "ID": "I-1067",
     "Name": "VITVAL",
-    "Dimension": "",
+    "Dimension": "95x45cm",
     "Price": 4000,
     "Type": "Table",
     "SubType": "study table",
@@ -10682,7 +10682,7 @@
   {
     "ID": "I-1069",
     "Name": "LAGKAPTEN / ADILS",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 4490,
     "Type": "Table",
     "SubType": "study table",
@@ -10692,7 +10692,7 @@
   {
     "ID": "I-1070",
     "Name": "LINNMON / OLOV",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 4490,
     "Type": "Table",
     "SubType": "study table",
@@ -10702,7 +10702,7 @@
   {
     "ID": "I-1071",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 4490,
     "Type": "Table",
     "SubType": "study table",
@@ -10712,7 +10712,7 @@
   {
     "ID": "I-1072",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "96x58cm",
     "Price": 4900,
     "Type": "Table",
     "SubType": "study table",
@@ -10722,7 +10722,7 @@
   {
     "ID": "I-1073",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "96x58cm",
     "Price": 4900,
     "Type": "Table",
     "SubType": "study table",
@@ -10732,7 +10732,7 @@
   {
     "ID": "I-1074",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "73x50cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "study table",
@@ -10742,7 +10742,7 @@
   {
     "ID": "I-1075",
     "Name": "LAGKAPTEN / ADILS",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "study table",
@@ -10752,7 +10752,7 @@
   {
     "ID": "I-1076",
     "Name": "ÖVNING",
-    "Dimension": "",
+    "Dimension": "54x33cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "study table",
@@ -10762,7 +10762,7 @@
   {
     "ID": "I-1077",
     "Name": "BERGLÄRKA",
-    "Dimension": "",
+    "Dimension": "100x70cm",
     "Price": 5000,
     "Type": "Table",
     "SubType": "study table",
@@ -10772,7 +10772,7 @@
   {
     "ID": "I-1078",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 5490,
     "Type": "Table",
     "SubType": "study table",
@@ -10782,7 +10782,7 @@
   {
     "ID": "I-1079",
     "Name": "LAGKAPTEN / OLOV",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 5490,
     "Type": "Table",
     "SubType": "study table",
@@ -10792,7 +10792,7 @@
   {
     "ID": "I-1080",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "study table",
@@ -10812,7 +10812,7 @@
   {
     "ID": "I-1082",
     "Name": "BERGLÄRKA",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 6000,
     "Type": "Table",
     "SubType": "study table",
@@ -10822,7 +10822,7 @@
   {
     "ID": "I-1083",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 6490,
     "Type": "Table",
     "SubType": "study table",
@@ -10832,7 +10832,7 @@
   {
     "ID": "I-1084",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "96x58cm",
     "Price": 6900,
     "Type": "Table",
     "SubType": "study table",
@@ -10842,7 +10842,7 @@
   {
     "ID": "I-1085",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "96x58cm",
     "Price": 6900,
     "Type": "Table",
     "SubType": "study table",
@@ -10852,7 +10852,7 @@
   {
     "ID": "I-1086",
     "Name": "KALLAX",
-    "Dimension": "",
+    "Dimension": "111x39cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "study table",
@@ -10862,7 +10862,7 @@
   {
     "ID": "I-1087",
     "Name": "BOLLSIDAN",
-    "Dimension": "",
+    "Dimension": "68x36cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "study table",
@@ -10872,7 +10872,7 @@
   {
     "ID": "I-1088",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "study table",
@@ -10892,7 +10892,7 @@
   {
     "ID": "I-1090",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 7490,
     "Type": "Table",
     "SubType": "study table",
@@ -10902,7 +10902,7 @@
   {
     "ID": "I-1091",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "142x50cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "study table",
@@ -10912,7 +10912,7 @@
   {
     "ID": "I-1092",
     "Name": "PIPLÄRKA",
-    "Dimension": "",
+    "Dimension": "80x63cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "study table",
@@ -10922,7 +10922,7 @@
   {
     "ID": "I-1093",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "100x45cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "study table",
@@ -10932,7 +10932,7 @@
   {
     "ID": "I-1094",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "90x60cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "study table",
@@ -10962,7 +10962,7 @@
   {
     "ID": "I-1097",
     "Name": "MITTPLAN",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "study table",
@@ -10972,7 +10972,7 @@
   {
     "ID": "I-1098",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "study table",
@@ -10982,7 +10982,7 @@
   {
     "ID": "I-1099",
     "Name": "LAGKAPTEN / MITTBACK",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 8990,
     "Type": "Table",
     "SubType": "study table",
@@ -10992,7 +10992,7 @@
   {
     "ID": "I-1100",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "105x50cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "study table",
@@ -11002,7 +11002,7 @@
   {
     "ID": "I-1101",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "160x80cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "study table",
@@ -11012,7 +11012,7 @@
   {
     "ID": "I-1102",
     "Name": "HUVUDSPELARE",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "study table",
@@ -11022,7 +11022,7 @@
   {
     "ID": "I-1103",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "study table",
@@ -11032,7 +11032,7 @@
   {
     "ID": "I-1104",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "120x41cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "study table",
@@ -11052,7 +11052,7 @@
   {
     "ID": "I-1106",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 10490,
     "Type": "Table",
     "SubType": "study table",
@@ -11062,7 +11062,7 @@
   {
     "ID": "I-1107",
     "Name": "LAGKAPTEN / SPÄND",
-    "Dimension": "",
+    "Dimension": "200x60cm",
     "Price": 10490,
     "Type": "Table",
     "SubType": "study table",
@@ -11072,7 +11072,7 @@
   {
     "ID": "I-1108",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 10990,
     "Type": "Table",
     "SubType": "study table",
@@ -11082,7 +11082,7 @@
   {
     "ID": "I-1109",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "75x60cm",
     "Price": 10990,
     "Type": "Table",
     "SubType": "study table",
@@ -11092,7 +11092,7 @@
   {
     "ID": "I-1110",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 10990,
     "Type": "Table",
     "SubType": "study table",
@@ -11102,7 +11102,7 @@
   {
     "ID": "I-1111",
     "Name": "SEGRARE",
-    "Dimension": "",
+    "Dimension": "110x60cm",
     "Price": 10990,
     "Type": "Table",
     "SubType": "study table",
@@ -11112,7 +11112,7 @@
   {
     "ID": "I-1112",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 11690,
     "Type": "Table",
     "SubType": "study table",
@@ -11122,7 +11122,7 @@
   {
     "ID": "I-1113",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "90x60cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "study table",
@@ -11132,7 +11132,7 @@
   {
     "ID": "I-1114",
     "Name": "ALEX",
-    "Dimension": "",
+    "Dimension": "100x48cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "study table",
@@ -11142,7 +11142,7 @@
   {
     "ID": "I-1115",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "118x45cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "study table",
@@ -11152,7 +11152,7 @@
   {
     "ID": "I-1116",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "study table",
@@ -11162,7 +11162,7 @@
   {
     "ID": "I-1117",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "200x60cm",
     "Price": 12490,
     "Type": "Table",
     "SubType": "study table",
@@ -11172,7 +11172,7 @@
   {
     "ID": "I-1118",
     "Name": "KALLAX / LINNMON",
-    "Dimension": "",
+    "Dimension": "77x139x147cm",
     "Price": 12580,
     "Type": "Table",
     "SubType": "study table",
@@ -11182,7 +11182,7 @@
   {
     "ID": "I-1119",
     "Name": "BERGLÄRKA",
-    "Dimension": "",
+    "Dimension": "100x70cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "study table",
@@ -11192,7 +11192,7 @@
   {
     "ID": "I-1120",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "study table",
@@ -11202,7 +11202,7 @@
   {
     "ID": "I-1121",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "study table",
@@ -11222,7 +11222,7 @@
   {
     "ID": "I-1123",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 13000,
     "Type": "Table",
     "SubType": "study table",
@@ -11232,7 +11232,7 @@
   {
     "ID": "I-1124",
     "Name": "KALLAX / LAGKAPTEN",
-    "Dimension": "",
+    "Dimension": "77x159x147cm",
     "Price": 13580,
     "Type": "Table",
     "SubType": "study table",
@@ -11242,7 +11242,7 @@
   {
     "ID": "I-1125",
     "Name": "MALM",
-    "Dimension": "",
+    "Dimension": "140x65cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "study table",
@@ -11252,7 +11252,7 @@
   {
     "ID": "I-1126",
     "Name": "UTESPELARE",
-    "Dimension": "",
+    "Dimension": "160x80cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "study table",
@@ -11262,7 +11262,7 @@
   {
     "ID": "I-1127",
     "Name": "FJÄLLBO",
-    "Dimension": "",
+    "Dimension": "140x70cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "study table",
@@ -11272,7 +11272,7 @@
   {
     "ID": "I-1128",
     "Name": "ALEX",
-    "Dimension": "",
+    "Dimension": "132x58cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "study table",
@@ -11282,7 +11282,7 @@
   {
     "ID": "I-1129",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "100x142cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "study table",
@@ -11292,7 +11292,7 @@
   {
     "ID": "I-1130",
     "Name": "BERGLÄRKA",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "study table",
@@ -11302,7 +11302,7 @@
   {
     "ID": "I-1131",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "study table",
@@ -11312,7 +11312,7 @@
   {
     "ID": "I-1132",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "66x50cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "study table",
@@ -11322,7 +11322,7 @@
   {
     "ID": "I-1133",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 15890,
     "Type": "Table",
     "SubType": "study table",
@@ -11332,7 +11332,7 @@
   {
     "ID": "I-1134",
     "Name": "HEMNES",
-    "Dimension": "",
+    "Dimension": "120x47cm",
     "Price": 15990,
     "Type": "Table",
     "SubType": "study table",
@@ -11342,7 +11342,7 @@
   {
     "ID": "I-1135",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 16490,
     "Type": "Table",
     "SubType": "study table",
@@ -11352,7 +11352,7 @@
   {
     "ID": "I-1136",
     "Name": "RELATERA",
-    "Dimension": "",
+    "Dimension": "117x60cm",
     "Price": 16490,
     "Type": "Table",
     "SubType": "study table",
@@ -11362,7 +11362,7 @@
   {
     "ID": "I-1137",
     "Name": "VEBJÖRN",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "study table",
@@ -11372,7 +11372,7 @@
   {
     "ID": "I-1138",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "study table",
@@ -11382,7 +11382,7 @@
   {
     "ID": "I-1139",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "140x75cm",
     "Price": 17990,
     "Type": "Table",
     "SubType": "study table",
@@ -11392,7 +11392,7 @@
   {
     "ID": "I-1140",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "200x60cm",
     "Price": 17990,
     "Type": "Table",
     "SubType": "study table",
@@ -11402,7 +11402,7 @@
   {
     "ID": "I-1141",
     "Name": "LAGKAPTEN / ALEX",
-    "Dimension": "",
+    "Dimension": "200x60cm",
     "Price": 18490,
     "Type": "Table",
     "SubType": "study table",
@@ -11412,7 +11412,7 @@
   {
     "ID": "I-1142",
     "Name": "FREDDE",
-    "Dimension": "",
+    "Dimension": "185x74x146cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "study table",
@@ -11422,7 +11422,7 @@
   {
     "ID": "I-1143",
     "Name": "IDÅSEN",
-    "Dimension": "",
+    "Dimension": "160x80cm",
     "Price": 25490,
     "Type": "Table",
     "SubType": "study table",
@@ -11432,7 +11432,7 @@
   {
     "ID": "I-1144",
     "Name": "RODULF",
-    "Dimension": "",
+    "Dimension": "140x80cm",
     "Price": 25990,
     "Type": "Table",
     "SubType": "study table",
@@ -11442,7 +11442,7 @@
   {
     "ID": "I-1145",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 34990,
     "Type": "Table",
     "SubType": "study table",
@@ -11452,7 +11452,7 @@
   {
     "ID": "I-1146",
     "Name": "MITTZON",
-    "Dimension": "",
+    "Dimension": "160x60cm",
     "Price": 38990,
     "Type": "Table",
     "SubType": "study table",
@@ -11462,7 +11462,7 @@
   {
     "ID": "I-1147",
     "Name": "KNARREVIK",
-    "Dimension": "",
+    "Dimension": "37x28cm",
     "Price": 899,
     "Type": "Table",
     "SubType": "tea table",
@@ -11472,7 +11472,7 @@
   {
     "ID": "I-1148",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "37x39cm",
     "Price": 1290,
     "Type": "Table",
     "SubType": "tea table",
@@ -11482,7 +11482,7 @@
   {
     "ID": "I-1149",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "55x55cm",
     "Price": 1490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11492,7 +11492,7 @@
   {
     "ID": "I-1150",
     "Name": "LINNMON",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 1490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11502,7 +11502,7 @@
   {
     "ID": "I-1151",
     "Name": "FEJAN",
-    "Dimension": "",
+    "Dimension": "50x44cm",
     "Price": 1690,
     "Type": "Table",
     "SubType": "tea table",
@@ -11512,7 +11512,7 @@
   {
     "ID": "I-1152",
     "Name": "GURSKEN",
-    "Dimension": "",
+    "Dimension": "39x30cm",
     "Price": 1790,
     "Type": "Table",
     "SubType": "tea table",
@@ -11522,7 +11522,7 @@
   {
     "ID": "I-1153",
     "Name": "TORALD",
-    "Dimension": "",
+    "Dimension": "65x40cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11532,7 +11532,7 @@
   {
     "ID": "I-1154",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11542,7 +11542,7 @@
   {
     "ID": "I-1155",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11552,7 +11552,7 @@
   {
     "ID": "I-1156",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "35x65cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11562,7 +11562,7 @@
   {
     "ID": "I-1157",
     "Name": "MELLTORP",
-    "Dimension": "",
+    "Dimension": "75x75cm",
     "Price": 1990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11572,7 +11572,7 @@
   {
     "ID": "I-1158",
     "Name": "PÅHL",
-    "Dimension": "",
+    "Dimension": "64x60cm",
     "Price": 2000,
     "Type": "Table",
     "SubType": "tea table",
@@ -11582,7 +11582,7 @@
   {
     "ID": "I-1159",
     "Name": "NODELAND",
-    "Dimension": "",
+    "Dimension": "80x50cm",
     "Price": 2490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11592,7 +11592,7 @@
   {
     "ID": "I-1160",
     "Name": "MAMMUT",
-    "Dimension": "",
+    "Dimension": "77x55cm",
     "Price": 2490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11602,7 +11602,7 @@
   {
     "ID": "I-1161",
     "Name": "LAGKAPTEN",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 2490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11622,7 +11622,7 @@
   {
     "ID": "I-1163",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "90x55cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11632,7 +11632,7 @@
   {
     "ID": "I-1164",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "37x37cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11642,7 +11642,7 @@
   {
     "ID": "I-1165",
     "Name": "TÄRNÖ",
-    "Dimension": "",
+    "Dimension": "55x54cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11652,7 +11652,7 @@
   {
     "ID": "I-1166",
     "Name": "GUNDE",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11662,7 +11662,7 @@
   {
     "ID": "I-1167",
     "Name": "LAGKAPTEN",
-    "Dimension": "",
+    "Dimension": "140x60cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11672,7 +11672,7 @@
   {
     "ID": "I-1168",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "40x36cm",
     "Price": 2990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11682,7 +11682,7 @@
   {
     "ID": "I-1169",
     "Name": "LINNMON / ADILS",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 3490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11692,7 +11692,7 @@
   {
     "ID": "I-1170",
     "Name": "LINNMON / SPÄND",
-    "Dimension": "",
+    "Dimension": "100x60cm",
     "Price": 3490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11702,7 +11702,7 @@
   {
     "ID": "I-1171",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11712,7 +11712,7 @@
   {
     "ID": "I-1172",
     "Name": "SONGESAND",
-    "Dimension": "",
+    "Dimension": "42x40cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11732,7 +11732,7 @@
   {
     "ID": "I-1174",
     "Name": "SKRUVBY",
-    "Dimension": "",
+    "Dimension": "40x32cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11742,7 +11742,7 @@
   {
     "ID": "I-1175",
     "Name": "LAGKAPTEN",
-    "Dimension": "",
+    "Dimension": "200x60cm",
     "Price": 3990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11752,7 +11752,7 @@
   {
     "ID": "I-1176",
     "Name": "GUNDE / GUNDE",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 4388,
     "Type": "Table",
     "SubType": "tea table",
@@ -11772,7 +11772,7 @@
   {
     "ID": "I-1178",
     "Name": "FLISAT",
-    "Dimension": "",
+    "Dimension": "83x58cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11782,7 +11782,7 @@
   {
     "ID": "I-1179",
     "Name": "SUNDSÖ",
-    "Dimension": "",
+    "Dimension": "65x65cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11802,7 +11802,7 @@
   {
     "ID": "I-1181",
     "Name": "GULLABERG",
-    "Dimension": "",
+    "Dimension": "53x43x69cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11812,7 +11812,7 @@
   {
     "ID": "I-1182",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11832,7 +11832,7 @@
   {
     "ID": "I-1184",
     "Name": "STENSELE",
-    "Dimension": "",
+    "Dimension": "70x70cm",
     "Price": 4990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11842,7 +11842,7 @@
   {
     "ID": "I-1185",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "67x67cm",
     "Price": 5190,
     "Type": "Table",
     "SubType": "tea table",
@@ -11852,7 +11852,7 @@
   {
     "ID": "I-1186",
     "Name": "LACK",
-    "Dimension": "",
+    "Dimension": "118x78cm",
     "Price": 5490,
     "Type": "Table",
     "SubType": "tea table",
@@ -11862,7 +11862,7 @@
   {
     "ID": "I-1187",
     "Name": "NORBERG",
-    "Dimension": "",
+    "Dimension": "74x60cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11882,7 +11882,7 @@
   {
     "ID": "I-1189",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74cm",
     "Price": 5990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11892,7 +11892,7 @@
   {
     "ID": "I-1190",
     "Name": "BERGLÄRKA",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 6000,
     "Type": "Table",
     "SubType": "tea table",
@@ -11912,7 +11912,7 @@
   {
     "ID": "I-1192",
     "Name": "BOLLSIDAN",
-    "Dimension": "",
+    "Dimension": "68x36cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11922,7 +11922,7 @@
   {
     "ID": "I-1193",
     "Name": "TROTTEN",
-    "Dimension": "",
+    "Dimension": "120x70cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11932,7 +11932,7 @@
   {
     "ID": "I-1194",
     "Name": "LAGKAPTEN / KRILLE",
-    "Dimension": "",
+    "Dimension": "120x60cm",
     "Price": 6990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11942,7 +11942,7 @@
   {
     "ID": "I-1195",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 7390,
     "Type": "Table",
     "SubType": "tea table",
@@ -11952,7 +11952,7 @@
   {
     "ID": "I-1196",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "40x40x59cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11962,7 +11962,7 @@
   {
     "ID": "I-1197",
     "Name": "NÄMMARÖ",
-    "Dimension": "",
+    "Dimension": "108x37cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "tea table",
@@ -11982,7 +11982,7 @@
   {
     "ID": "I-1199",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 7990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12002,7 +12002,7 @@
   {
     "ID": "I-1201",
     "Name": "MICKE",
-    "Dimension": "",
+    "Dimension": "105x50cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12012,7 +12012,7 @@
   {
     "ID": "I-1202",
     "Name": "Näsinge",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12022,7 +12022,7 @@
   {
     "ID": "I-1203",
     "Name": "ÅLHULT",
-    "Dimension": "",
+    "Dimension": "80x74cm",
     "Price": 9990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12032,7 +12032,7 @@
   {
     "ID": "I-1204",
     "Name": "SANDSBERG",
-    "Dimension": "",
+    "Dimension": "110x67cm",
     "Price": 10190,
     "Type": "Table",
     "SubType": "tea table",
@@ -12042,7 +12042,7 @@
   {
     "ID": "I-1205",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "74x74cm",
     "Price": 10890,
     "Type": "Table",
     "SubType": "tea table",
@@ -12052,7 +12052,7 @@
   {
     "ID": "I-1206",
     "Name": "STENSELE",
-    "Dimension": "",
+    "Dimension": "70x70cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12072,7 +12072,7 @@
   {
     "ID": "I-1208",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "118x74cm",
     "Price": 11990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12092,7 +12092,7 @@
   {
     "ID": "I-1210",
     "Name": "VITTSJÖ",
-    "Dimension": "",
+    "Dimension": "202x36x175cm",
     "Price": 12970,
     "Type": "Table",
     "SubType": "tea table",
@@ -12102,7 +12102,7 @@
   {
     "ID": "I-1211",
     "Name": "ÅLHULT",
-    "Dimension": "",
+    "Dimension": "120x80cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12112,7 +12112,7 @@
   {
     "ID": "I-1212",
     "Name": "PINNTORP",
-    "Dimension": "",
+    "Dimension": "125x75cm",
     "Price": 12990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12122,7 +12122,7 @@
   {
     "ID": "I-1213",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "125x74cm",
     "Price": 13790,
     "Type": "Table",
     "SubType": "tea table",
@@ -12142,7 +12142,7 @@
   {
     "ID": "I-1215",
     "Name": "ALEX",
-    "Dimension": "",
+    "Dimension": "132x58cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12152,7 +12152,7 @@
   {
     "ID": "I-1216",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "88x78cm",
     "Price": 13990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12162,7 +12162,7 @@
   {
     "ID": "I-1217",
     "Name": "Näsinge",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12172,7 +12172,7 @@
   {
     "ID": "I-1218",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "168x74cm",
     "Price": 14990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12192,7 +12192,7 @@
   {
     "ID": "I-1220",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12202,7 +12202,7 @@
   {
     "ID": "I-1221",
     "Name": "PINNTORP",
-    "Dimension": "",
+    "Dimension": "124x75cm",
     "Price": 16990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12212,7 +12212,7 @@
   {
     "ID": "I-1222",
     "Name": "DANDERYD",
-    "Dimension": "",
+    "Dimension": "130x80cm",
     "Price": 17990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12232,7 +12232,7 @@
   {
     "ID": "I-1224",
     "Name": "ÅLHULT",
-    "Dimension": "",
+    "Dimension": "170x80cm",
     "Price": 18990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12242,7 +12242,7 @@
   {
     "ID": "I-1225",
     "Name": "HÄGERNÄS",
-    "Dimension": "",
+    "Dimension": "35x40x4cm",
     "Price": 19990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12252,7 +12252,7 @@
   {
     "ID": "I-1226",
     "Name": "VIHALS",
-    "Dimension": "",
+    "Dimension": "151x90cm",
     "Price": 19990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12262,7 +12262,7 @@
   {
     "ID": "I-1227",
     "Name": "IDÅSEN",
-    "Dimension": "",
+    "Dimension": "140x70x75cm",
     "Price": 19990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12272,7 +12272,7 @@
   {
     "ID": "I-1228",
     "Name": "VIHALS / VIHALS",
-    "Dimension": "",
+    "Dimension": "180x74cm",
     "Price": 21690,
     "Type": "Table",
     "SubType": "tea table",
@@ -12282,7 +12282,7 @@
   {
     "ID": "I-1229",
     "Name": "DANDERYD",
-    "Dimension": "",
+    "Dimension": "180x90cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12292,7 +12292,7 @@
   {
     "ID": "I-1230",
     "Name": "LISABO",
-    "Dimension": "",
+    "Dimension": "200x78cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12302,7 +12302,7 @@
   {
     "ID": "I-1231",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "150x80cm",
     "Price": 22990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12312,7 +12312,7 @@
   {
     "ID": "I-1232",
     "Name": "NORDEN",
-    "Dimension": "",
+    "Dimension": "152x80cm",
     "Price": 24990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12322,7 +12322,7 @@
   {
     "ID": "I-1233",
     "Name": "STENSELE / ODGER",
-    "Dimension": "",
+    "Dimension": "70x70cm",
     "Price": 25890,
     "Type": "Table",
     "SubType": "tea table",
@@ -12342,7 +12342,7 @@
   {
     "ID": "I-1235",
     "Name": "Näsinge / BERGMUND",
-    "Dimension": "",
+    "Dimension": "80x60cm",
     "Price": 26490,
     "Type": "Table",
     "SubType": "tea table",
@@ -12352,7 +12352,7 @@
   {
     "ID": "I-1236",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "180x101x74cm",
     "Price": 32990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12362,7 +12362,7 @@
   {
     "ID": "I-1237",
     "Name": "TONSTAD",
-    "Dimension": "",
+    "Dimension": "200x85cm",
     "Price": 34990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12382,7 +12382,7 @@
   {
     "ID": "I-1239",
     "Name": "SKOGSTA",
-    "Dimension": "",
+    "Dimension": "235x100cm",
     "Price": 39990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12392,7 +12392,7 @@
   {
     "ID": "I-1240",
     "Name": "LISABO / LISABO",
-    "Dimension": "",
+    "Dimension": "140x78cm",
     "Price": 40790,
     "Type": "Table",
     "SubType": "tea table",
@@ -12432,7 +12432,7 @@
   {
     "ID": "I-1244",
     "Name": "MÖRBYLÅNGA",
-    "Dimension": "",
+    "Dimension": "140x85cm",
     "Price": 49990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12442,7 +12442,7 @@
   {
     "ID": "I-1245",
     "Name": "MARIEDAMM",
-    "Dimension": "",
+    "Dimension": "180x100cm",
     "Price": 49990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12452,7 +12452,7 @@
   {
     "ID": "I-1246",
     "Name": "STOCKHOLM 2025",
-    "Dimension": "",
+    "Dimension": "230x90cm",
     "Price": 50990,
     "Type": "Table",
     "SubType": "tea table",
@@ -12462,7 +12462,7 @@
   {
     "ID": "I-1247",
     "Name": "KLEPPSTAD",
-    "Dimension": "",
+    "Dimension": "117x176cm",
     "Price": 14990,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12472,7 +12472,7 @@
   {
     "ID": "I-1248",
     "Name": "RAKKESTAD",
-    "Dimension": "",
+    "Dimension": "117x176cm",
     "Price": 16990,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12482,7 +12482,7 @@
   {
     "ID": "I-1249",
     "Name": "HAUGA",
-    "Dimension": "",
+    "Dimension": "118x55x199cm",
     "Price": 22990,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12492,7 +12492,7 @@
   {
     "ID": "I-1250",
     "Name": "PAX / FORSAND/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "75x60x201cm",
     "Price": 30036,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12502,7 +12502,7 @@
   {
     "ID": "I-1251",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "100x60x201cm",
     "Price": 30300,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12512,7 +12512,7 @@
   {
     "ID": "I-1252",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 32200,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12522,7 +12522,7 @@
   {
     "ID": "I-1253",
     "Name": "PAX / FORSAND/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 32300,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12532,7 +12532,7 @@
   {
     "ID": "I-1254",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 33000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12542,7 +12542,7 @@
   {
     "ID": "I-1255",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 35000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12552,7 +12552,7 @@
   {
     "ID": "I-1256",
     "Name": "PAX / AULI",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 37200,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12562,7 +12562,7 @@
   {
     "ID": "I-1257",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "200x66x201cm",
     "Price": 37800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12572,7 +12572,7 @@
   {
     "ID": "I-1258",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 39900,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12582,7 +12582,7 @@
   {
     "ID": "I-1259",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 40086,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12592,7 +12592,7 @@
   {
     "ID": "I-1260",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 40800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12602,7 +12602,7 @@
   {
     "ID": "I-1261",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "200x66x201cm",
     "Price": 41100,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12612,7 +12612,7 @@
   {
     "ID": "I-1262",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "200x66x201cm",
     "Price": 42100,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12622,7 +12622,7 @@
   {
     "ID": "I-1263",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "100x60x236cm",
     "Price": 42700,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12632,7 +12632,7 @@
   {
     "ID": "I-1264",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 43400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12642,7 +12642,7 @@
   {
     "ID": "I-1265",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "150x66x201cm",
     "Price": 44200,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12652,7 +12652,7 @@
   {
     "ID": "I-1266",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 44200,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12662,7 +12662,7 @@
   {
     "ID": "I-1267",
     "Name": "PAX / AULI",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 45400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12672,7 +12672,7 @@
   {
     "ID": "I-1268",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 45500,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12682,7 +12682,7 @@
   {
     "ID": "I-1269",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 45800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12692,7 +12692,7 @@
   {
     "ID": "I-1270",
     "Name": "PAX / ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 46500,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12702,7 +12702,7 @@
   {
     "ID": "I-1271",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 47600,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12712,7 +12712,7 @@
   {
     "ID": "I-1272",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 48800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12722,7 +12722,7 @@
   {
     "ID": "I-1273",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 48800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12732,7 +12732,7 @@
   {
     "ID": "I-1274",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 49000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12742,7 +12742,7 @@
   {
     "ID": "I-1275",
     "Name": "PAX / FARDAL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 49300,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12752,7 +12752,7 @@
   {
     "ID": "I-1276",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 49400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12762,7 +12762,7 @@
   {
     "ID": "I-1277",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 49400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12772,7 +12772,7 @@
   {
     "ID": "I-1278",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 50800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12782,7 +12782,7 @@
   {
     "ID": "I-1279",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 52900,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12792,7 +12792,7 @@
   {
     "ID": "I-1280",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 53300,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12802,7 +12802,7 @@
   {
     "ID": "I-1281",
     "Name": "PAX / AULI",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 53300,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12812,7 +12812,7 @@
   {
     "ID": "I-1282",
     "Name": "PAX / FARDAL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 53900,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12822,7 +12822,7 @@
   {
     "ID": "I-1283",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 54800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12832,7 +12832,7 @@
   {
     "ID": "I-1284",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 54800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12842,7 +12842,7 @@
   {
     "ID": "I-1285",
     "Name": "PAX / FARDAL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 56000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12852,7 +12852,7 @@
   {
     "ID": "I-1286",
     "Name": "PAX / GRIMO",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 57400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12862,7 +12862,7 @@
   {
     "ID": "I-1287",
     "Name": "PAX / ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 58004,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12872,7 +12872,7 @@
   {
     "ID": "I-1288",
     "Name": "PAX / HASVIK",
-    "Dimension": "",
+    "Dimension": "170x66x236cm",
     "Price": 58600,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12882,7 +12882,7 @@
   {
     "ID": "I-1289",
     "Name": "PAX / VIKANES",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 58800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12892,7 +12892,7 @@
   {
     "ID": "I-1290",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 59900,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12902,7 +12902,7 @@
   {
     "ID": "I-1291",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "250x60x236cm",
     "Price": 61000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12912,7 +12912,7 @@
   {
     "ID": "I-1292",
     "Name": "PAX / TONSTAD",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 61000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12922,7 +12922,7 @@
   {
     "ID": "I-1293",
     "Name": "PAX / FÄRVIK",
-    "Dimension": "",
+    "Dimension": "150x66x236cm",
     "Price": 62000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12932,7 +12932,7 @@
   {
     "ID": "I-1294",
     "Name": "PAX / FORSAND",
-    "Dimension": "",
+    "Dimension": "200x60x201cm",
     "Price": 63392,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12942,7 +12942,7 @@
   {
     "ID": "I-1295",
     "Name": "PAX / FARDAL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "150x60x201cm",
     "Price": 65605,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12952,7 +12952,7 @@
   {
     "ID": "I-1296",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 66350,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12962,7 +12962,7 @@
   {
     "ID": "I-1297",
     "Name": "PAX / MEHAMN/AULI",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 66850,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12972,7 +12972,7 @@
   {
     "ID": "I-1298",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "150x60x236cm",
     "Price": 67100,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12982,7 +12982,7 @@
   {
     "ID": "I-1299",
     "Name": "PAX / FARDAL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 67400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -12992,7 +12992,7 @@
   {
     "ID": "I-1300",
     "Name": "PAX / MEHAMN",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 71600,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13002,7 +13002,7 @@
   {
     "ID": "I-1301",
     "Name": "PAX / SVARTISDAL",
-    "Dimension": "",
+    "Dimension": "200x66x236cm",
     "Price": 81392,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13012,7 +13012,7 @@
   {
     "ID": "I-1302",
     "Name": "SKYTTA / PAX",
-    "Dimension": "",
+    "Dimension": "226x160x240cm",
     "Price": 81400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13022,7 +13022,7 @@
   {
     "ID": "I-1303",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 85900,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13032,7 +13032,7 @@
   {
     "ID": "I-1304",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "300x60x201cm",
     "Price": 87800,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13042,7 +13042,7 @@
   {
     "ID": "I-1305",
     "Name": "PAX / FARDAL",
-    "Dimension": "",
+    "Dimension": "250x60x236cm",
     "Price": 107000,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13052,7 +13052,7 @@
   {
     "ID": "I-1306",
     "Name": "SKYTTA / PAX",
-    "Dimension": "",
+    "Dimension": "276x160x240cm",
     "Price": 107400,
     "Type": "Storage",
     "SubType": "wardrobe",
@@ -13062,7 +13062,7 @@
   {
     "ID": "I-1307",
     "Name": "PAX / REINSVOLL/ÅHEIM",
-    "Dimension": "",
+    "Dimension": "200x60x236cm",
     "Price": 112250,
     "Type": "Storage",
     "SubType": "wardrobe",
